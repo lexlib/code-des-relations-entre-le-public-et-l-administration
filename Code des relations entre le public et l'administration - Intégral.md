@@ -1,5 +1,5 @@
 # Code des relations entre le public et l'administration  
-Version Consolidée au 2016-05-26
+Version Consolidée au 2016-10-09
 ## Contenu: 
   - [Dispositions préliminaires (art. L100-1 à L100-3)](#1)
   - [Livre Ier : LES ÉCHANGES AVEC L'ADMINISTRATION (art. L110-1 à L135-2)](#2)
@@ -102,12 +102,12 @@ Version Consolidée au 2016-05-26
         - [Section 1 : Etendue du droit à communication (art. L311-1 à L311-8)](#99)
         - [Section 2 : Modalités du droit à communication (art. L311-9 à R311-15)](#100)
       - [Chapitre II : Diffusion des documents administratifs (art. L312-1 à R312-9)](#101)
-        - [Section 1 : Règles générales (art. L312-1)](#102)
+        - [Section 1 : Règles générales (art. L312-1 à L312-1-3)](#102)
         - [Section 2 : Règles spécifiques aux instructions et circulaires (art. L312-2 à R312-9)](#103)
           - [Sous-section 1 : Règles de publication (art. L312-2 à R312-7)](#104)
           - [Sous-section 2 : Règles particulières applicables aux circulaires et instructions adressées par les ministres aux services et établissements de l'Etat (art. R312-8 à R312-9)](#105)
     - [Titre II : LA RÉUTILISATION DES INFORMATIONS PUBLIQUES (art. L321-1 à L327-1)](#106)
-      - [Chapitre Ier : Etendue du droit de réutilisation (art. L321-1 à L321-2)](#107)
+      - [Chapitre Ier : Etendue du droit de réutilisation (art. L321-1 à L321-3)](#107)
       - [Chapitre II : Règles générales (art. L322-1 à R322-7)](#108)
       - [Chapitre III : Etablissement d'une licence (art. L323-1 à R323-7)](#109)
       - [Chapitre IV : Redevance (art. L324-1 à R324-7)](#110)
@@ -817,13 +817,26 @@ _Créé par_:
 
 L'application des articles L. 112-8 et L. 112-9 à certaines démarches administratives peut être écartée, par décret en
 Conseil d'Etat, pour des motifs d'ordre public, de défense et de sécurité nationale, de bonne administration, ou lorsque la
-présence personnelle du demandeur apparaît nécessaire.
+présence personnelle du demandeur apparaît nécessaire. 
+
+Le premier alinéa du présent article s'applique lorsque, en application de l'article 43 bis de la loi n° 78-17 du 6 janvier
+1978 relative à l'informatique, aux fichiers et aux libertés, l'autorité administrative doit permettre à toute personne
+d'exercer les droits prévus au chapitre V de la même loi, si cela est possible, par voie électronique.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°78-17 du 6 janvier 1978 - art. 43 bis (VT)
+  - Code des relations entre le public et l'administration - art. L112-8
 
 _Anciens textes_:
 
   - Ordonnance n°2005-1516 du 8 décembre 2005 - art. 4, phr 2 (VT)
+
+_Codifié par_:
+
+  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 _Cité par_:
 
@@ -833,17 +846,9 @@ _Cité par_:
   - Décret n°2016-1829 du 22 décembre 2016 (V)
   - Décret n°2018-954 du 5 novembre 2018 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
-
-_Créé par_:
-
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
-
-_Cite_:
-
-  - Code des relations entre le public et l'adminis... - art. L112-8 (V)
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 58
 
 
 ##### Sous-section 2 : Délivrance d'un accusé de réception par l'administration<a id=11></a>
@@ -854,18 +859,22 @@ Tout envoi à une administration par voie électronique ainsi que tout paiement 
 l'article 1er de l'ordonnance n° 2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les
 autorités administratives et entre les autorités administratives fait l'objet d'un accusé de réception électronique et,
 lorsque celui-ci n'est pas instantané, d'un accusé d'enregistrement électronique. Ils sont émis selon un procédé conforme aux
-règles fixées par le référentiel général de sécurité mentionné au I de l'article 9 de l'ordonnance précitée. 
+règles fixées par le référentiel général de sécurité mentionné au I de l'article 9 de l'ordonnance précitée.
+
+L'administration est également tenue de respecter l'obligation prévue au premier alinéa du présent article pour les envois
+par voie électronique effectués par tout usager résidant en France ou à l'étranger ou par toute autorité administrative
+étrangère lorsque celle-ci agit pour le compte d'un Français établi à l'étranger.
 
 Les conditions et délais d'émission de l'accusé de réception et de l'accusé d'enregistrement ainsi que les indications devant
-y figurer sont déterminés par décret en Conseil d'Etat. 
+y figurer sont déterminés par décret en Conseil d'Etat.
 
 L'administration n'est pas tenue de respecter l'obligation prévue à l'alinéa premier pour les envois abusifs, notamment par
 leur nombre ou leur caractère répétitif ou systématique, ou les envois susceptibles de porter atteinte à la sécurité de son
-système d'information. 
+système d'information.
 
 Après en avoir, si possible, informé la source des envois en cause, un système d'information peut être configuré pour bloquer
 la réception des envois provenant de sources identifiées comme ayant émis un nombre significatif d'envois abusifs ou émis des
-envois susceptibles de porter atteinte à la sécurité du système d'information. 
+envois susceptibles de porter atteinte à la sécurité du système d'information.
 
 Les dispositions des articles L. 112-3 et L. 112-6 ne s'appliquent pas aux demandes relevant du présent article.
 
@@ -874,12 +883,16 @@ Les dispositions des articles L. 112-3 et L. 112-6 ne s'appliquent pas aux deman
 _Cite_:
 
   - Ordonnance n°2005-1516 du 8 décembre 2005 - art. 1
-  - Code des relations entre le public et l'adminis... - art. L112-3 (V)
-  - Code des relations entre le public et l'adminis... - art. L112-6 (V)
+  - Code des relations entre le public et l'administration - art. L112-3
+  - Code des relations entre le public et l'administration - art. L112-6
 
 _Anciens textes_:
 
   - Ordonnance n°2005-1516 du 8 décembre 2005 - art. 5, al 1, al 3, al 4, al 5, al 6 (VT)
+
+_Codifié par_:
+
+  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 _Cité par_:
 
@@ -906,13 +919,9 @@ _Cité par_:
   - Code des relations entre le public et l'adminis... - art. R112-11-1 (VD)
   - Livre des procédures fiscales - art. L286 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
-
-_Créé par_:
-
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 89
 
 
 ###### Article L112-12
@@ -1021,17 +1030,23 @@ _Créé par_:
 
 Lorsqu'une personne doit adresser un document à l'administration par lettre recommandée, cette formalité peut être accomplie
 par l'utilisation d'un téléservice au sens de l'article 1er de l'ordonnance n° 2005-1516 du 8 décembre 2005 relative aux
-échanges électroniques entre les usagers et les autorités administratives et entre les autorités administratives ou d'un
-procédé électronique, accepté par cette administration, permettant de désigner l'expéditeur et d'établir si le document lui a
-été remis.
+échanges électroniques entre les usagers et les autorités administratives et entre les autorités administratives, d'un envoi
+recommandé électronique au sens de l'article L. 100 du code des postes et des communications électroniques ou d'un procédé
+électronique, accepté par cette administration, permettant de désigner l'expéditeur et d'établir si le document lui a été
+remis.
 
 Lorsque l'administration doit notifier un document à une personne par lettre recommandée, cette formalité peut être accomplie
-par l'utilisation d'un procédé électronique permettant de désigner l'expéditeur, de garantir l'identité du destinataire et
-d'établir si le document a été remis. L'accord exprès de l'intéressé doit être préalablement recueilli.
+par l'utilisation d'un envoi recommandé électronique au sens du même article L. 100 ou d'un procédé électronique permettant
+de désigner l'expéditeur, de garantir l'identité du destinataire et d'établir si le document a été remis. L'accord exprès de
+l'intéressé doit être préalablement recueilli.
 
 Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 _Cité par_:
 
@@ -1057,13 +1072,9 @@ _Anciens textes_:
 
   - Ordonnance n°2005-1516 du 8 décembre 2005 - art. 5-2 (VT)
 
-_Codifié par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
-
-_Créé par_:
-
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 93
 
 
 ### Chapitre III : Contenu des dossiers<a id=14></a>
@@ -1550,12 +1561,12 @@ _Cite_:
 
 ###### Article L113-13
 
-Lorsque les informations ou données nécessaires pour traiter la demande présentée par une entreprise ou la déclaration
+Lorsque les informations ou données nécessaires pour traiter la demande présentée par une personne ou la déclaration
 transmise par celle-ci peuvent être obtenues directement auprès d'une autre administration, dans les conditions prévues aux
-articles L. 114-8 et L. 114-9, une attestation sur l'honneur du représentant de l'entreprise de l'exactitude des informations
-déclarées se substitue à la production de pièces justificatives. 
+articles L. 114-8 et L. 114-9, la personne ou son représentant atteste sur l'honneur de l'exactitude des informations
+déclarées. Cette attestation se substitue à la production de pièces justificatives. 
 
-Un décret fixe la liste des pièces que les entreprises n'ont plus à produire.
+Un décret fixe la liste des pièces que les personnes n'ont plus à produire.
 
 **Liens relatifs à cet article**
 
@@ -1567,9 +1578,9 @@ _Codifié par_:
 
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 90
 
 _Cité par_:
 
@@ -1837,9 +1848,9 @@ _Cite_:
 
 Les administrations échangent entre elles toutes les informations ou données strictement nécessaires pour traiter une demande
 présentée par le public ou une déclaration transmise par celui-ci en application d'un texte législatif ou réglementaire. Les
-administrations destinataires de ces informations ou données ne peuvent, pour ce qui concerne les entreprises, se voir
-opposer le secret professionnel dès lors qu'elles sont, dans le cadre de leurs missions légales, habilitées à connaître des
-informations ou des données ainsi échangées.
+administrations destinataires de ces informations ou données ne peuvent se voir opposer le secret professionnel dès lors
+qu'elles sont, dans le cadre de leurs missions légales, habilitées à connaître des informations ou des données ainsi
+échangées.
 
 Une administration chargée de traiter une demande ou une déclaration mentionnée à l'alinéa précédent fait connaître à la
 personne concernée les informations ou données qui sont nécessaires à cette fin et celles qu'elle se procure directement
@@ -1854,6 +1865,10 @@ _Anciens textes_:
 
   - Loi n°2000-321 du 12 avril 2000 - art. 16 A, al 1, al 2, al 3 (VT)
 
+_Codifié par_:
+
+  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+
 _Cité par_:
 
   - Loi n°2013-1005 du 12 novembre 2013 - art. 4 (V)
@@ -1867,13 +1882,9 @@ _Cité par_:
   - Code des relations entre le public et l'adminis... - art. L114-10 (V)
   - Code des relations entre le public et l'adminis... - art. L114-9 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
-
-_Créé par_:
-
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 91
 
 
 ###### Article L114-9
@@ -6076,7 +6087,7 @@ date, leur lieu de conservation, leur forme et leur support, les documents produ
 de service public, par l'Etat, les collectivités territoriales ainsi que par les autres personnes de droit public ou les
 personnes de droit privé chargées d'une telle mission. Constituent de tels documents notamment les dossiers, rapports,
 études, comptes rendus, procès-verbaux, statistiques, instructions, circulaires, notes et réponses ministérielles,
-correspondances, avis, prévisions et décisions.
+correspondances, avis, prévisions, codes sources et décisions.
 
 Les actes et documents produits ou reçus par les assemblées parlementaires sont régis par l'ordonnance n° 58-1100 du 17
 novembre 1958 relative au fonctionnement des assemblées parlementaires.
@@ -6090,6 +6101,10 @@ _Cite_:
 _Anciens textes_:
 
   - Loi n°78-753 du 17 juillet 1978 - art. 1, al 2, al 3 (VT)
+
+_Codifié par_:
+
+  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 _Cité par_:
 
@@ -6122,13 +6137,37 @@ _Cité par_:
   - Code des relations entre le public et l'adminis... - art. R342-4 (T)
   - Code des relations entre le public et l'adminis... - art. R343-6 (VD)
 
-_Codifié par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 2
+
+
+###### Article L300-3
+
+Les  titres Ier, II et IV du présent livre s'appliquent également aux  documents relatifs à la gestion du domaine privé de
+l'Etat et des  collectivités territoriales.
+
+**Liens relatifs à cet article**
 
 _Créé par_:
 
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 10
+
+
+###### Article L300-4
+
+Toute mise à disposition effectuée sous forme électronique en application du présent livre se fait dans un standard ouvert,
+aisément réutilisable et exploitable par un système de traitement automatisé.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 3
+
+_Cité par_:
+
+  - Arrêté du 19 octobre 2018 - art. (V)
 
 
 ## Titre Ier : LE DROIT D'ACCÈS AUX DOCUMENTS ADMINISTRATIFS<a id=97></a>
@@ -6140,14 +6179,14 @@ _Créé par_:
 ###### Article L311-1
 
 Sous réserve des dispositions des articles L. 311-5 et L. 311-6, les administrations mentionnées à l'article L. 300-2 sont
-tenues de communiquer les documents administratifs qu'elles détiennent aux personnes qui en font la demande, dans les
-conditions prévues par le présent livre.
+tenues de publier en ligne ou de communiquer les documents administratifs qu'elles détiennent aux personnes qui en font la
+demande, dans les conditions prévues par le présent livre.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Codifié par_:
 
-  - Loi n°78-753 du 17 juillet 1978 - art. 2, al 1 (VT)
+  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 _Cité par_:
 
@@ -6164,18 +6203,14 @@ _Cité par_:
   - Code des relations entre le public et l'adminis... - art. R*311-12 (VD)
   - Code du travail - art. R8124-21 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
-
-_Créé par_:
-
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 3
 
 _Cite_:
 
-  - Code des relations entre le public et l'adminis... - art. L300-2 (VD)
-  - Code des relations entre le public et l'adminis... - art. L311-5 (VD)
+  - Code des relations entre le public et l'administration - art. L300-2
+  - Code des relations entre le public et l'administration - art. L311-5
 
 
 ###### Article L311-2
@@ -6273,28 +6308,51 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. L562-5 (V)
 
 
-###### Article L311-4
+###### Article L311-3-1
 
-Les documents administratifs sont communiqués sous réserve des droits de propriété littéraire et artistique.
+Sous réserve de l'application du 2° de l'article L. 311-5, une décision individuelle prise sur le fondement d'un traitement
+algorithmique comporte une mention explicite en informant l'intéressé. Les règles définissant ce traitement ainsi que les
+principales caractéristiques de sa mise en œuvre sont communiquées par l'administration à l'intéressé s'il en fait la
+demande. 
+
+Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Cité par_:
 
-  - Loi n°78-753 du 17 juillet 1978 - art. 9 (VT)
+  - Loi n°78-17 du 6 janvier 1978 - art. 10 (VD)
+  - Décret n°2017-330 du 14 mars 2017 (V)
+  - Code de l'éducation - art. L612-3 (V)
+  - Code des relations entre le public et l'adminis... - art. R311-3-1-1 (VD)
+
+_Créé par_:
+
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 4
+
+_Cite_:
+
+  - Code des relations entre le public et l'adminis... - art. L311-5 (V)
+
+
+###### Article L311-4
+
+Les documents administratifs sont communiqués ou publiés sous réserve des droits de propriété littéraire et artistique.
+
+**Liens relatifs à cet article**
 
 _Codifié par_:
 
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 8 (V)
 
 
 ###### Article L311-5
 
-Ne sont pas communicables : 
+Ne sont pas communicables :
 
 1° Les avis du Conseil d'Etat et des juridictions administratives, les documents de la Cour des comptes mentionnés à
 l'article L. 141-10 du code des juridictions financières et les documents des chambres régionales des comptes mentionnés à
@@ -6306,24 +6364,25 @@ pour la transparence de la vie publique dans le cadre des missions prévues à l
 des personnels de santé prévue à l'article L. 1414-3-3 du code de la santé publique, les rapports d'audit des établissements
 de santé mentionnés à l'article 40 de la loi n° 2000-1257 du 23 décembre 2000 de financement de la sécurité sociale pour 2001
 et les documents réalisés en exécution d'un contrat de prestation de services exécuté pour le compte d'une ou de plusieurs
-personnes déterminées ; 
+personnes déterminées ;
 
-2° Les autres documents administratifs dont la consultation ou la communication porterait atteinte : 
+2° Les autres documents administratifs dont la consultation ou la communication porterait atteinte :
 
-a) Au secret des délibérations du Gouvernement et des autorités responsables relevant du pouvoir exécutif ; 
+a) Au secret des délibérations du Gouvernement et des autorités responsables relevant du pouvoir exécutif ;
 
 b) Au secret de la défense nationale ; 
 
-c) A la conduite de la politique extérieure de la France ; 
+c) A la conduite de la politique extérieure de la France ;
 
-d) A la sûreté de l'Etat, à la sécurité publique ou à la sécurité des personnes ; 
+d) A la sûreté de l'Etat, à la sécurité publique, à la sécurité des personnes ou à la sécurité des systèmes d'information des
+administrations ; 
 
-e) A la monnaie et au crédit public ; 
+e) A la monnaie et au crédit public ;
 
 f) Au déroulement des procédures engagées devant les juridictions ou d'opérations préliminaires à de telles procédures, sauf
-autorisation donnée par l'autorité compétente ; 
+autorisation donnée par l'autorité compétente ;
 
-g) A la recherche, par les services compétents, des infractions fiscales et douanières ; 
+g) A la recherche et à la prévention, par les services compétents, d'infractions de toute nature ;
 
 h) Ou sous réserve de l'article L. 124-4 du code de l'environnement, aux autres secrets protégés par la loi.
 
@@ -6332,6 +6391,10 @@ h) Ou sous réserve de l'article L. 124-4 du code de l'environnement, aux autres
 _Anciens textes_:
 
   - Loi n°78-753 du 17 juillet 1978 - art. 6 I (VT)
+
+_Codifié par_:
+
+  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 _Cité par_:
 
@@ -6395,31 +6458,29 @@ _Cite_:
   - Loi n°2000-1257 du 23 décembre 2000 - art. 40
   - Loi n°2013-907 du 11 octobre 2013 - art. 20
   - Code des juridictions financières - art. L141-10
-  - Code des juridictions financières - art. L241-6 (V)
+  - Code des juridictions financières - art. L241-6
   - Code de la santé publique - art. L1414-3-3
   - Code de la santé publique - art. L6113-6
 
-_Codifié par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
-
-_Créé par_:
-
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 2
 
 
 ###### Article L311-6
 
-Ne sont communicables qu'à l'intéressé les documents administratifs :
+Ne sont communicables qu'à l'intéressé les documents administratifs : 
 
 1° Dont la communication porterait atteinte à la protection de la vie privée, au secret médical et au secret en matière
-commerciale et industrielle ;
+commerciale et industrielle, lequel comprend le secret des procédés, des informations économiques et financières et des
+stratégies commerciales ou industrielles et est apprécié en tenant compte, le cas échéant, du fait que la mission de service
+public de l'administration mentionnée au premier alinéa de l'article L. 300-2 est soumise à la concurrence ; 
 
 2° Portant une appréciation ou un jugement de valeur sur une personne physique, nommément désignée ou facilement
-identifiable ;
+identifiable ; 
 
 3° Faisant apparaître le comportement d'une personne, dès lors que la divulgation de ce comportement pourrait lui porter
-préjudice.
+préjudice. 
 
 Les informations à caractère médical sont communiquées à l'intéressé, selon son choix, directement ou par l'intermédiaire
 d'un médecin qu'il désigne à cet effet, dans le respect des dispositions de l'article L. 1111-7 du code de la santé publique.
@@ -6429,6 +6490,10 @@ d'un médecin qu'il désigne à cet effet, dans le respect des dispositions de l
 _Anciens textes_:
 
   - Loi n°78-753 du 17 juillet 1978 - art. 6 II (VT)
+
+_Codifié par_:
+
+  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 _Cité par_:
 
@@ -6443,17 +6508,14 @@ _Cité par_:
   - Code des relations entre le public et l'adminis... - art. L311-7 (VD)
   - Code des relations entre le public et l'adminis... - art. L311-9 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
-
-_Créé par_:
-
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 6 (V)
 
 _Cite_:
 
   - Code de la santé publique - art. L1111-7
+  - Code des relations entre le public et l'adminis... - art. L300-2 (V)
 
 
 ###### Article L311-7
@@ -6489,11 +6551,29 @@ dans les conditions fixés par les articles L. 213-1 et L. 213-2 du code du patr
 par dérogation aux dispositions du présent article, la consultation de ces documents peut être autorisée dans les conditions
 prévues par l'article L. 213-3 du même code.
 
+Lorsqu'une demande faite en application du I du même article L. 213-3 porte sur une base de données et vise à effectuer des
+traitements à des fins de recherche ou d'étude présentant un caractère d'intérêt public, l'administration détenant la base de
+données ou l'administration des archives peut demander l'avis du comité du secret statistique institué par l'article 6 bis de
+la loi n° 51-711 du 7 juin 1951 sur l'obligation, la coordination et le secret en matière de statistiques. Le comité peut
+recommander le recours à une procédure d'accès sécurisé aux données présentant les garanties appropriées, dans des conditions
+fixées par décret en Conseil d'Etat. 
+
+L'avis du comité tient compte : 
+
+1° Des enjeux attachés aux secrets protégés par la loi, notamment la protection de la vie privée et la protection du secret
+industriel et commercial ; 
+
+2° De la nature et de la finalité des travaux pour l'exécution desquels la demande d'accès est formulée.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Loi n°78-753 du 17 juillet 1978 - art. 6, III (deuxième alinéa) (VT)
+
+_Codifié par_:
+
+  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 _Cité par_:
 
@@ -6508,13 +6588,9 @@ _Cité par_:
   - Code des relations entre le public et l'adminis... - art. R311-8-1 (V)
   - Code des relations entre le public et l'adminis... - art. R311-8-2 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
-
-_Créé par_:
-
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 36
 
 _Cite_:
 
@@ -6528,21 +6604,28 @@ _Cite_:
 ###### Article L311-9
 
 L'accès aux documents administratifs s'exerce, au choix du demandeur et dans la limite des possibilités techniques de
-l'administration :
+l'administration : 
 
-1° Par consultation gratuite sur place, sauf si la préservation du document ne le permet pas ;
+1° Par consultation gratuite sur place, sauf si la préservation du document ne le permet pas ; 
 
 2° Sous réserve que la reproduction ne nuise pas à la conservation du document, par la délivrance d'une copie sur un support
 identique à celui utilisé par l'administration ou compatible avec celui-ci et aux frais du demandeur, sans que ces frais
-puissent excéder le coût de cette reproduction, dans des conditions prévues par décret ;
+puissent excéder le coût de cette reproduction, dans des conditions prévues par décret ; 
 
-3° Par courrier électronique et sans frais lorsque le document est disponible sous forme électronique.
+3° Par courrier électronique et sans frais lorsque le document est disponible sous forme électronique ; 
+
+4° Par publication des informations en ligne, à moins que les documents ne soient communicables qu'à l'intéressé en
+application de l'article L. 311-6.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Loi n°78-753 du 17 juillet 1978 - art. 4 (VT)
+
+_Codifié par_:
+
+  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 _Cité par_:
 
@@ -6569,13 +6652,13 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L7122-17 (V)
   - Code général des collectivités territoriales - art. L7222-18 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 3
 
-_Créé par_:
+_Cite_:
 
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+  - Code des relations entre le public et l'adminis... - art. L311-6 (V)
 
 
 ###### Article L311-14
@@ -6766,12 +6849,7 @@ _Cite_:
 ###### Article L312-1
 
 Les administrations mentionnées à l'article L. 300-2 peuvent rendre publics les documents administratifs qu'elles produisent
-ou reçoivent. 
-
-Toutefois, sauf dispositions législatives contraires, les documents administratifs qui comportent des mentions entrant dans
-le champ d'application des articles L. 311-5 et L. 311-6 ou, sans préjudice de l'article L. 322-2, des données à caractère
-personnel ne peuvent être rendus publics qu'après avoir fait l'objet d'un traitement afin d'occulter ces mentions ou de
-rendre impossible l'identification des personnes qui y sont nommées.
+ou reçoivent.
 
 **Liens relatifs à cet article**
 
@@ -6781,7 +6859,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2016-307 du 17 mars 2016 - art. 2
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 5
 
 _Cité par_:
 
@@ -6799,6 +6877,103 @@ _Cite_:
 
   - Code des relations entre le public et l'administration - art. L300-2
   - Code des relations entre le public et l'administration - art. L311-5
+
+
+###### Article L312-1-1
+
+Sous réserve des articles L. 311-5 et L. 311-6 et lorsque ces documents sont disponibles sous forme électronique, les
+administrations mentionnées au premier alinéa de l'article L. 300-2, à l'exception des personnes morales dont le nombre
+d'agents ou de salariés est inférieur à un seuil fixé par décret, publient en ligne les documents administratifs suivants : 
+
+1° Les documents qu'elles communiquent en application des procédures prévues au présent titre, ainsi que leurs versions mises
+à jour ; 
+
+2° Les documents qui figurent dans le répertoire mentionné au premier alinéa de l'article L. 322-6 ; 
+
+3° Les bases de données, mises à jour de façon régulière, qu'elles produisent ou qu'elles reçoivent et qui ne font pas
+l'objet d'une diffusion publique par ailleurs ; 
+
+4° Les données, mises à jour de façon régulière, dont la publication présente un intérêt économique, social, sanitaire ou
+environnemental. 
+
+Le présent article ne s'applique pas aux collectivités territoriales de moins de 3 500 habitants.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 6 (V)
+
+_Cité par_:
+
+  - Décret n°2016-1922 du 28 décembre 2016 (V)
+  - Code des relations entre le public et l'adminis... - art. D312-1-1-1 (V)
+  - Code des relations entre le public et l'adminis... - art. L321-3 (V)
+
+_Cite_:
+
+  - Code des relations entre le public et l'adminis... - art. L300-2 (V)
+  - Code des relations entre le public et l'adminis... - art. L311-5 (V)
+  - Code des relations entre le public et l'adminis... - art. L322-6 (V)
+
+
+###### Article L312-1-2
+
+Sauf dispositions législatives ou réglementaires contraires, lorsque les documents et données mentionnés aux articles L.
+312-1 ou L. 312-1-1 comportent des mentions entrant dans le champ d'application des articles L. 311-5 ou L. 311-6, ils ne
+peuvent être rendus publics qu'après avoir fait l'objet d'un traitement permettant d'occulter ces mentions. 
+
+Sauf dispositions législatives contraires ou si les personnes intéressées ont donné leur accord, lorsque les documents et les
+données mentionnés aux articles L. 312-1 ou L. 312-1-1 comportent des données à caractère personnel, ils ne peuvent être
+rendus publics qu'après avoir fait l'objet d'un traitement permettant de rendre impossible l'identification de ces personnes.
+Une liste des catégories de documents pouvant être rendus publics sans avoir fait l'objet du traitement susmentionné est
+fixée par décret pris après avis motivé et publié de la Commission nationale de l'informatique et des libertés. 
+
+Les administrations mentionnées au premier alinéa de l'article L. 300-2 du présent code ne sont pas tenues de publier les
+archives publiques issues des opérations de sélection prévues aux articles L. 212-2 et L. 212-3du code du patrimoine.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 6 (V)
+
+_Cité par_:
+
+  - Décret n°2018-1117 du 10 décembre 2018 (V)
+  - Code des relations entre le public et l'adminis... - art. L562-16 (V)
+
+_Cite_:
+
+  - Code du patrimoine - art. L212-2 (V)
+  - Code des relations entre le public et l'adminis... - art. L300-2 (V)
+  - Code des relations entre le public et l'adminis... - art. L311-5 (V)
+  - Code des relations entre le public et l'adminis... - art. L312-1 (V)
+
+
+###### Article L312-1-3
+
+Sous réserve des secrets protégés en application du 2° de l'article L. 311-5, les administrations mentionnées au premier
+alinéa de l'article L. 300-2, à l'exception des personnes morales dont le nombre d'agents ou de salariés est inférieur à un
+seuil fixé par décret, publient en ligne les règles définissant les principaux traitements algorithmiques utilisés dans
+l'accomplissement de leurs missions lorsqu'ils fondent des décisions individuelles.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 6 (V)
+
+_Cité par_:
+
+  - Décret n°2016-1922 du 28 décembre 2016 (V)
+  - Code de l'éducation - art. L612-3 (V)
+  - Code des relations entre le public et l'adminis... - art. D312-1-4 (V)
+
+_Cite_:
+
+  - Code des relations entre le public et l'adminis... - art. L300-2 (V)
+  - Code des relations entre le public et l'adminis... - art. L311-5 (V)
 
 
 #### Section 2 : Règles spécifiques aux instructions et circulaires<a id=103></a>
@@ -7103,15 +7278,11 @@ _Cite_:
 
 ###### Article L321-1
 
-Les informations figurant dans des documents produits ou reçus par les administrations mentionnées à l'article L. 300-2, quel
-que soit le support, peuvent être utilisées par toute personne qui le souhaite à d'autres fins que celles de la mission de
-service public pour les besoins de laquelle les documents ont été produits ou reçus. 
+Les informations publiques figurant dans des documents communiqués ou publiés par les administrations mentionnées au premier
+alinéa de l'article L. 300-2 peuvent être utilisées par toute personne qui le souhaite à d'autres fins que celles de la
+mission de service public pour les besoins de laquelle les documents ont été produits ou reçus. 
 
-Lorsqu'elles sont mises à disposition sous forme électronique, ces informations le sont, si possible, dans un standard ouvert
-et aisément réutilisable, c'est-à-dire lisible par une machine. 
-
-Les limites et conditions de cette réutilisation sont régies par le présent titre, même si ces informations ont été obtenues
-dans le cadre de l'exercice du droit d'accès aux documents administratifs régi par le titre Ier.
+Les limites et conditions de cette réutilisation sont régies par le présent titre.
 
 **Liens relatifs à cet article**
 
@@ -7135,13 +7306,13 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L1112-23 (V)
   - Code électoral - art. LO135-2 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-307 du 17 mars 2016 - art.
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 9
 
 _Cite_:
 
-  - Code des relations entre le public et l'administration - art. L300-2
+  - Code des relations entre le public et l'adminis... - art. L300-2 (V)
 
 
 ###### Article L321-2
@@ -7149,11 +7320,11 @@ _Cite_:
 Ne sont pas considérées comme des informations publiques, pour l'application du présent titre, les informations contenues
 dans des documents : 
 
-a) Dont la communication ne constitue pas un droit en application du titre Ier ou d'autres dispositions législatives, sauf si
-ces informations font l'objet d'une diffusion publique ; 
+a) Dont la communication ne constitue pas un droit pour toute personne en application du titre Ier ou d'autres dispositions
+législatives, sauf si ces informations font l'objet d'une diffusion publique conforme aux prescriptions des articles L. 312-1
+à L. 312-1-2 ; 
 
-b) Ou produits ou reçus par les administrations mentionnées à l'article L. 300-2 dans l'exercice d'une mission de service
-public à caractère industriel ou commercial ; 
+b) (Abrogé) 
 
 c) Ou sur lesquels des tiers détiennent des droits de propriété intellectuelle. 
 
@@ -7169,13 +7340,40 @@ _Cité par_:
   - Code des communes de la Nouvelle-Calédonie - art. L125-12 (Ab)
   - Code général des collectivités territoriales - art. L1112-23 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-307 du 17 mars 2016 - art.
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 6 (V)
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 9
 
 _Cite_:
 
+  - Code des relations entre le public et l'adminis... - art. L312-1 (V)
   - Code des relations entre le public et l'administration - art. L300-2
+
+
+###### Article L321-3
+
+Sous réserve de droits de propriété intellectuelle détenus par des tiers, les droits des administrations mentionnées au
+premier alinéa de l'article L. 300-2 du présent code, au titre des articles L. 342-1 et L. 342-2 du code de la propriété
+intellectuelle, ne peuvent faire obstacle à la réutilisation du contenu des bases de données que ces administrations publient
+en application du 3° de l'article L. 312-1-1 du présent code. 
+
+Le premier alinéa du présent article n'est pas applicable aux bases de données produites ou reçues par les administrations
+mentionnées au premier alinéa de l'article L. 300-2 dans l'exercice d'une mission de service public à caractère industriel ou
+commercial soumise à la concurrence.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 11
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L342-1
+  - Code de la propriété intellectuelle - art. L342-2
+  - Code des relations entre le public et l'adminis... - art. L300-2 (V)
+  - Code des relations entre le public et l'adminis... - art. L312-1-1 (V)
 
 
 ### Chapitre II : Règles générales<a id=108></a>
@@ -7206,10 +7404,6 @@ _Créé par_:
 
 ###### Article L322-2
 
-Les informations publiques comportant des données à caractère personnel peuvent faire l'objet d'une réutilisation soit
-lorsque la personne intéressée y a consenti, soit si l'autorité détentrice est en mesure de les rendre anonymes ou, à défaut
-d'anonymisation, si une disposition législative ou réglementaire le permet.
-
 La réutilisation d'informations publiques comportant des données à caractère personnel est subordonnée au respect des
 dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
 
@@ -7224,9 +7418,9 @@ _Cité par_:
   - Loi n°2013-907 du 11 octobre 2013 - art. 12 (VD)
   - Code de la santé publique - art. L1461-2 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-307 du 17 mars 2016 - art.
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 6 (V)
 
 
 ###### Article L322-5
@@ -7252,17 +7446,20 @@ _Créé par_:
 ###### Article L322-6
 
 Les administrations qui produisent ou détiennent des informations publiques tiennent à la disposition des usagers un
-répertoire des principaux documents dans lesquels ces informations figurent. 
+répertoire des principaux documents dans lesquels ces informations figurent. Elles publient chaque année une version mise à
+jour de ce répertoire.  
 
 Les conditions de réutilisation des informations publiques ainsi que, le cas échéant, le montant des redevances prévues aux
 articles L. 324-1 et L. 324-2 et les bases de calcul retenues pour la fixation de ce montant sont rendus publics, dans un
-standard ouvert, par les administrations mentionnées à l'article L. 300-2 qui ont produit ou reçu ces informations publiques.
+standard ouvert, par les administrations mentionnées au premier alinéa de l'article L. 300-2 qui ont produit ou reçu ces
+informations publiques.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-307 du 17 mars 2016 - art.
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 13
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 9
 
 _Cité par_:
 
@@ -7355,13 +7552,18 @@ _Créé par_:
 
 Cette licence fixe les conditions de la réutilisation des informations publiques. Ces conditions ne peuvent apporter de
 restrictions à la réutilisation que pour des motifs d'intérêt général et de façon proportionnée. Elles ne peuvent avoir pour
-objet ou pour effet de restreindre la concurrence.
+objet ou pour effet de restreindre la concurrence. 
 
 Les administrations qui élaborent ou détiennent des documents contenant des informations publiques pouvant être réutilisées
 dans les conditions prévues au présent chapitre sont tenues de mettre préalablement des licences types, par voie
 électronique, à la disposition des personnes intéressées par la réutilisation de ces informations.
 
 Les conditions dans lesquelles une offre de licence est proposée au demandeur sont fixées par voie réglementaire.
+
+Lorsque la réutilisation à titre gratuit donne lieu à l'établissement d'une licence, cette licence est choisie parmi celles
+figurant sur une liste fixée par décret, qui est révisée tous les cinq ans, après concertation avec les collectivités
+territoriales et leurs groupements. Lorsqu'une administration souhaite recourir à une licence ne figurant pas sur cette
+liste, cette licence doit être préalablement homologuée par l'Etat, dans des conditions fixées par décret.
 
 **Liens relatifs à cet article**
 
@@ -7373,9 +7575,9 @@ _Cité par_:
   - Arrêté du 22 mars 2019 - art. 10 (V)
   - Code de la route. - art. R330-7 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-307 du 17 mars 2016 - art.
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 11
 
 
 ###### Article R*323-5
@@ -7476,9 +7678,9 @@ _Cite_:
 
 ###### Article L324-1
 
-La réutilisation d'informations publiques est gratuite. Toutefois, les administrations mentionnées à l'article L. 300-2
-peuvent établir une redevance de réutilisation lorsqu'elles sont tenues de couvrir par des recettes propres une part
-substantielle des coûts liés à l'accomplissement de leurs missions de service public. 
+La réutilisation d'informations publiques est gratuite. Toutefois, les administrations mentionnées au premier alinéa de
+l'article L. 300-2 peuvent établir une redevance de réutilisation lorsqu'elles sont tenues de couvrir par des recettes
+propres une part substantielle des coûts liés à l'accomplissement de leurs missions de service public. 
 
 Le produit total du montant de cette redevance, évalué sur une période comptable appropriée, ne dépasse pas le montant total
 des coûts liés à la collecte, à la production, à la mise à la disposition du public ou à la diffusion de leurs informations
@@ -7503,9 +7705,9 @@ _Cité par_:
   - Code des relations entre le public et l'adminis... - art. R324-4-2 (VD)
   - Code des relations entre le public et l'adminis... - art. R324-4-4 (VD)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-307 du 17 mars 2016 - art.
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 9
 
 _Cite_:
 
@@ -7550,21 +7752,21 @@ _Cite_:
 
 ###### Article L324-4
 
-Les modalités de fixation de ces redevances sont fixées par décret en Conseil d'Etat, après avis de l'autorité compétente. Ce
-décret fixe la liste des catégories d'administrations qui sont autorisées, en raison de la nature de leur activité et des
-conditions de leur financement, à établir des redevances en application de l'article L. 324-1. La liste des catégories
-d'administrations est révisée tous les cinq ans.
+Les modalités de fixation des redevances mentionnées aux articles L. 324-1 et L. 324-2 sont fixées par décret en Conseil
+d'Etat, après avis de l'autorité compétente. Ce décret fixe la liste des catégories d'administrations qui sont autorisées, en
+raison de la nature de leur activité et des conditions de leur financement, à établir des redevances en application de
+l'article L. 324-1. La liste des catégories d'administrations est révisée tous les cinq ans.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2016-307 du 17 mars 2016 - art.
 
 _Cité par_:
 
   - Décret n°2016-1036 du 28 juillet 2016 (VD)
   - Code des relations entre le public et l'adminis... - art. R324-7 (V)
+
+_Modifié par_:
+
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 12 (V)
 
 _Cite_:
 
@@ -7713,13 +7915,13 @@ _Cite_:
 ###### Article L325-7
 
 Une copie des ressources numérisées et des données associées est remise gratuitement, dans un standard ouvert et librement
-réutilisable, aux administrations mentionnées à l'article L. 300-2 qui ont accordé le droit d'exclusivité.
+réutilisable, aux administrations mentionnées au premier alinéa de l'article L. 300-2 qui ont accordé le droit d'exclusivité.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-307 du 17 mars 2016 - art.
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 9
 
 _Cité par_:
 
@@ -7789,9 +7991,9 @@ l'obligation d'obtenir une licence, le montant de l'amende est proportionné à 
 avantages tirés de ce manquement. 
 
 Pour l'application du troisième alinéa, le montant de l'amende prononcée pour sanctionner un premier manquement ne peut
-excéder 150 000 euros. En cas de manquement réitéré dans les cinq années à compter de la date à laquelle la sanction
-précédemment prononcée est devenue définitive, il ne peut excéder 300 000 euros ou, s'agissant d'une entreprise, 5 % du
-chiffre d'affaires hors taxes du dernier exercice clos dans la limite de 300 000 euros. 
+excéder un million d'euros. En cas de manquement réitéré dans les cinq années à compter de la date à laquelle la sanction
+précédemment prononcée est devenue définitive, il ne peut excéder deux millions d'euros ou, s'agissant d'une entreprise, 5 %
+du chiffre d'affaires hors taxes du dernier exercice clos dans la limite de deux millions d'euros. 
 
 La commission mentionnée au titre IV peut, à la place ou en sus de l'amende, interdire à l'auteur d'une infraction la
 réutilisation d'informations publiques pendant une durée maximale de deux ans. Cette durée peut être portée à cinq ans en cas
@@ -7804,9 +8006,9 @@ Les amendes sont recouvrées comme les créances de l'Etat étrangères à l'imp
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-307 du 17 mars 2016 - art.
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 13
 
 _Cite_:
 
@@ -8171,8 +8373,7 @@ Conseil d'Etat, le premier président de la Cour de cassation et le premier pré
 
 5° Une personnalité qualifiée en matière d'archives, proposée par le directeur général des patrimoines ; 
 
-6° Une personnalité qualifiée en matière de protection des données à caractère personnel, proposée par le président de la
-Commission nationale de l'informatique et des libertés ; 
+6° Le président de la Commission nationale de l'informatique et des libertés, ou son représentant ;
 
 7° Une personnalité qualifiée en matière de concurrence et de prix, proposée par le président de l'Autorité de la
 concurrence ; 
@@ -8186,8 +8387,8 @@ sorte que, après cette désignation ou cette proposition, l'écart entre le nom
 membres, d'une part, et parmi les membres titulaires, d'autre part, ne soit pas supérieur à un. 
 
 Les membres de la commission sont nommés par décret du Premier ministre. Leur mandat est, à l'exception de ceux mentionnés
-aux 2° et 3°, qui siègent pour la durée du mandat au titre duquel ils ont été désignés, d'une durée de trois ans. Ce mandat
-est renouvelable. 
+aux 2°, 3° et 6°, qui siègent pour la durée du mandat au titre duquel ils ont été désignés, d'une durée de trois ans. Ce
+mandat est renouvelable. 
 
 La commission comprend en outre, avec voix consultative, le Défenseur des droits ou son représentant. 
 
@@ -8198,7 +8399,8 @@ L. 342-3 du présent code.
 En cas de partage égal des voix, celle du président de la commission est prépondérante. 
 
 Un décret en Conseil d'Etat détermine les modalités de fonctionnement de la commission. Il fixe notamment les cas et les
-conditions dans lesquels la commission peut délibérer en formation restreinte.
+conditions dans lesquels la commission peut délibérer en formation restreinte ou déléguer à son président l'exercice de
+certaines de ses attributions.
 
 **Liens relatifs à cet article**
 
@@ -8212,7 +8414,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2016-307 du 17 mars 2016 - art. 2
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 13
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 27
 
 _Cité par_:
 
@@ -8226,6 +8429,18 @@ _Cité par_:
 _Cite_:
 
   - Code des relations entre le public et l'administration - art. L342-3
+
+
+###### Article L341-2
+
+La Commission d'accès aux documents administratifs et la Commission nationale de l'informatique et des libertés se réunissent
+dans un collège unique, sur l'initiative conjointe de leurs présidents, lorsqu'un sujet d'intérêt commun le justifie.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 28
 
 
 ###### Article R341-2
@@ -8493,26 +8708,22 @@ _Créé par_:
 ###### Article L342-1
 
 La Commission d'accès aux documents administratifs émet des avis lorsqu'elle est saisie par une personne à qui est opposé un
-refus de communication d'un document administratif en application du titre Ier, un refus de consultation ou de communication
-des documents d'archives publiques, à l'exception des documents mentionnés au c de l'article L. 211-4 du code du patrimoine
-et des actes et documents produits ou reçus par les assemblées parlementaires, ou une décision défavorable en matière de
-réutilisation d'informations publiques.
+refus de communication ou un refus de publication d'un document administratif en application du titre Ier, un refus de
+consultation ou de communication des documents d'archives publiques, à l'exception des documents mentionnés au c de l'article
+L. 211-4 du code du patrimoine et des actes et documents produits ou reçus par les assemblées parlementaires, ou une décision
+défavorable en matière de réutilisation d'informations publiques.
 
 La saisine pour avis de la commission est un préalable obligatoire à l'exercice d'un recours contentieux.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Loi n°78-753 du 17 juillet 1978 - art. 20, al. 3 et al. 4 (Ab)
-
 _Codifié par_:
 
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 13
 
 _Cite_:
 
@@ -8580,7 +8791,9 @@ administrations ;
 production et de consommation ; 
 
 21° Les dispositions relatives aux procès-verbaux des séances de la commission de surveillance et de contrôle des
-publications destinées à la jeunesse. 
+publications destinées à la jeunesse ; 
+
+22° L'article 1er de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique. 
 
 B.-A l'accès aux informations détenues par les exploitants d'une installation nucléaire de base et les personnes responsables
 de transport de substances radioactives dans les conditions définies aux articles L. 125-10 et L. 125-11 du code de
@@ -8593,11 +8806,15 @@ vigueur la législation civile française dans les départements du Bas-Rhin, du
 
 _Cite_:
 
-  - Loi du 1er juillet 1901 - art. 5 (V)
-  - Loi du 31 décembre 1913 - art. 17 (V)
-  - Loi n°2000-321 du 12 avril 2000 - art. 10
+  - Loi du 1er juillet 1901 - art. 5
+  - Loi du 31 décembre 1913 - art. 17
+  - Loi n°2000-321 du 12 avril 2000 - art. 10 (V)
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 1 (V)
+  - Livre des procédures fiscales - art. L104 (V)
   - Livre des procédures fiscales - art. L106
+  - Livre des procédures fiscales - art. L107 A (V)
   - Livre des procédures fiscales - art. L111
+  - Livre des procédures fiscales - art. L135 B (VT)
   - Code électoral - art. L28
   - Code électoral - art. L68
   - Code électoral - art. LO179
@@ -8617,6 +8834,8 @@ _Cite_:
   - Code de la santé publique - art. L1131-1
   - Code de la sécurité sociale. - art. L161-37
   - Code de l'action sociale et des familles - art. L421-8
+  - Code de l'urbanisme - art. L121-5 (V)
+  - Code de l'urbanisme - art. L123-1 (V)
   - Code de l'urbanisme - art. L213-13
   - Code de l'urbanisme - art. L332-29
   - Code de l'environnement - art. L125-10
@@ -8633,9 +8852,9 @@ _Codifié par_:
 
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 1 (V)
 
 _Cité par_:
 
@@ -8651,9 +8870,13 @@ _Cité par_:
 
 ###### Article L342-3
 
-La commission, lorsqu'elle est saisie par une administration mentionnée à l'article L. 300-2, peut, au terme d'une procédure
-contradictoire, infliger à l'auteur d'un manquement aux prescriptions du titre II du présent livre  les sanctions prévues par
-l'article L. 326-1.
+La commission, lorsqu'elle est saisie par une administration mentionnée au premier alinéa de l'article L. 300-2 ou par son
+président, peut, au terme d'une procédure contradictoire, infliger à l'auteur d'un manquement aux prescriptions du titre II
+du présent livre les sanctions prévues par l'article L. 326-1.
+
+Le président de la commission publie régulièrement la liste des avis favorables émis par la commission. Cette liste précise
+le nom de l'administration concernée, la référence du document administratif faisant l'objet de l'avis, les suites données,
+le cas échéant, par l'administration à cet avis, ainsi que, le cas échéant, l'issue du recours contentieux.
 
 **Liens relatifs à cet article**
 
@@ -8663,7 +8886,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2016-307 du 17 mars 2016 - art. 2
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 13
 
 _Cité par_:
 
@@ -8674,6 +8897,17 @@ _Cité par_:
 _Cite_:
 
   - Code des relations entre le public et l'administration - art. L300-2
+
+
+###### Article L342-4
+
+Lorsque la commission est consultée sur un projet de loi ou de décret, son avis est rendu public.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 13
 
 
 ###### Article R342-4
@@ -10486,7 +10720,7 @@ française aux relations entre le public, d'une part, et les organismes et perso
 que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas
 échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. 
 
-<table align="center" border="1" width="720">
+<table border="1" align="center" width="720">
     <tbody>
       <tr>
         <th>Dispositions applicables 
@@ -10534,7 +10768,7 @@ L. 112-1 à L. 112-3
 L. 112-6 à L. 112-15 
 
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
+        <td>Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
 
 </td>
       </tr>
@@ -10552,7 +10786,7 @@ L. 113-4
 L. 113-12 à L. 113-13 
 
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
+        <td>Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
 
 </td>
       </tr>
@@ -10561,7 +10795,7 @@ L. 113-12 à L. 113-13
 L. 114-1 à L. 114-10 
 
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
+        <td>Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
 
 </td>
       </tr>
@@ -10665,29 +10899,29 @@ L. 134-33 et L. 134-34
 _Cite_:
 
   - ORDONNANCE n°2015-1341 du 23 octobre 2015
-  - Code des relations entre le public et l'adminis... - art. L110-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L111-2 (VD)
-  - Code des relations entre le public et l'adminis... - art. L112-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L112-6 (VD)
-  - Code des relations entre le public et l'adminis... - art. L113-12 (VD)
-  - Code des relations entre le public et l'adminis... - art. L113-4 (VD)
-  - Code des relations entre le public et l'adminis... - art. L114-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L120-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L121-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L122-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L131-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L132-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L134-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L134-31 (VD)
-  - Code des relations entre le public et l'adminis... - art. L134-33 (VD)
+  - Code des relations entre le public et l'administration - art. L110-1
+  - Code des relations entre le public et l'administration - art. L111-2
+  - Code des relations entre le public et l'administration - art. L112-1
+  - Code des relations entre le public et l'administration - art. L112-6
+  - Code des relations entre le public et l'administration - art. L113-12
+  - Code des relations entre le public et l'administration - art. L113-4
+  - Code des relations entre le public et l'administration - art. L114-1
+  - Code des relations entre le public et l'administration - art. L120-1
+  - Code des relations entre le public et l'administration - art. L121-1
+  - Code des relations entre le public et l'administration - art. L122-1
+  - Code des relations entre le public et l'administration - art. L131-1
+  - Code des relations entre le public et l'administration - art. L132-1
+  - Code des relations entre le public et l'administration - art. L134-1
+  - Code des relations entre le public et l'administration - art. L134-31
+  - Code des relations entre le public et l'administration - art. L134-33
 
 _Codifié par_:
 
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 112
 
 
 ###### Article R*552-4
@@ -11137,7 +11371,7 @@ et de droit privé, autres que les établissements publics, chargés par l'Etat 
 administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de
 droite du même tableau. 
 
-<table width="720" align="center" border="1">
+<table border="1" align="center" width="720">
     <tbody>
       <tr>
         <th>DISPOSITIONS APPLICABLES 
@@ -11154,12 +11388,12 @@ droite du même tableau.
       <tr>
         <td>
 
-L. 300-1 et L. 300-2 
+L. 300-1 à L. 300-4
 
 </td>
         <td>
 
-Résultant de l'ordonnance n° 2015-1341
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
 
 </td>
       </tr>
@@ -11183,7 +11417,7 @@ L. 311-1 à L. 311-9
 </td>
         <td>
 
-Résultant de l'ordonnance n° 2015-1341 
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
 
 </td>
       </tr>
@@ -11202,12 +11436,12 @@ Résultant de l'ordonnance n° 2015-1341
       <tr>
         <td>
 
-L. 312-1 
+L. 312-1 à L. 312-1-3
 
 </td>
         <td>
 
-Résultant de l'ordonnance n° 2016-307
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
 
 </td>
       </tr>
@@ -11238,12 +11472,10 @@ Titre II
       <tr>
         <td>
 
-L. 321-1 et L. 321-2 
-
-</td>
+L. 321-1 à L. 321-4 </td>
         <td>
 
-Résultant de l'ordonnance n° 2016-307 
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
 
 </td>
       </tr>
@@ -11255,7 +11487,7 @@ L. 322-1 et L. 322-2
 </td>
         <td>
 
-Résultant de l'ordonnance n° 2016-307 
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
 
 </td>
       </tr>
@@ -11267,7 +11499,7 @@ L. 322-5 et L. 322-6
 </td>
         <td>
 
-Résultant de l'ordonnance n° 2016-307 
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
 
 </td>
       </tr>
@@ -11279,19 +11511,19 @@ L. 323-1 et L. 323-2
 </td>
         <td>
 
-Résultant de l'ordonnance n° 2016-307 
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
 
 </td>
       </tr>
       <tr>
         <td>
 
-L. 324-1 à L. 324-5 
+L. 324-1 à L. 324-6
 
 </td>
         <td>
 
-Résultant de l'ordonnance n° 2016-307 
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
 
 </td>
       </tr>
@@ -11315,7 +11547,7 @@ L. 325-7 et L. 325-8
 </td>
         <td>
 
-Résultant de l'ordonnance n° 2016-307 
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
 
 </td>
       </tr>
@@ -11325,11 +11557,7 @@ Résultant de l'ordonnance n° 2016-307
 L. 326-1 
 
 </td>
-        <td>
-
-Résultant de l'ordonnance n° 2016-307 
-
-</td>
+        <td>Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique </td>
       </tr>
       <tr>
         <td align="left">
@@ -11382,36 +11610,26 @@ Résultant de l'ordonnance n° 2016-307
       <tr>
         <td>
 
-L. 341-1 
+L. 341-1 et L. 341-2
 
 </td>
         <td>
 
-Résultant de l'ordonnance n° 2016-307 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-
-L. 342-1 et L. 342-2 
-
-</td>
-        <td>
-
-Résultant de l'ordonnance n° 2015-1341 
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
 
 </td>
       </tr>
       <tr>
         <td>
 
-L. 342-3 
+L. 342-1 à L. 342-4 
 
 </td>
         <td>
 
-Résultant de l'ordonnance n° 2016-307 </td>
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
+
+</td>
       </tr>
     </tbody>
   </table>
@@ -11429,7 +11647,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2016-307 du 17 mars 2016 - art. 3
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 112
 
 
 ###### Article R*552-9
@@ -11819,8 +12037,9 @@ _Cite_:
 
 ###### Article L552-15
 
-Pour l'application de l'article L. 311-8 en Polynésie française, les références aux articles L. 213-1, L. 213-2 et L. 213-3
-du code du patrimoine sont remplacées par la référence à la réglementation localement applicable.
+Pour l'application des articles L. 311-8 et L. 312-1-2 en Polynésie française, les références aux articles L. 212-2, L.
+212-3, L. 213-1, L. 213-2 et L. 213-3 du code du patrimoine sont remplacées par la référence à la réglementation localement
+applicable.
 
 **Liens relatifs à cet article**
 
@@ -11828,16 +12047,17 @@ _Codifié par_:
 
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 112
 
 _Cite_:
 
+  - Code du patrimoine - art. L212-2
+  - Code du patrimoine - art. L212-3
   - Code du patrimoine - art. L213-1
   - Code du patrimoine - art. L213-2
   - Code du patrimoine - art. L213-3
-  - Code des relations entre le public et l'adminis... - art. L311-8 (VD)
 
 
 ###### Article L552-16
@@ -11932,17 +12152,17 @@ droit privé chargés par cette collectivité d'une mission de service public ad
 commercial, dans leur rédaction indiquée dans la colonne de droite du même tableau. 
 
 <pre>
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ Dispositions applicables ┃ Dans leur rédaction                    ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ L. 300-1 et L. 300-2     ┃ Résultant de l'ordonnance n° 2015-1341 ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ L. 311-1 à L. 311-3      ┃ Résultant de l'ordonnance n° 2015-1341 ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ L. 311-5 à L. 311-9      ┃ Résultant de l'ordonnance n° 2015-1341 ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ L. 312-1 et L. 312-2     ┃ Résultant de l'ordonnance n° 2015-1341 ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Dispositions applicables ┃ Dans leur rédaction                                                              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ L. 300-1 à L. 300-4      ┃ Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ L. 311-1 à L. 311-3-1    ┃ Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ L. 311-5 à L. 311-9      ┃ Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ L. 312-1 à L. 312-2      ┃ Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 </pre>
 
 
@@ -11951,18 +12171,18 @@ commercial, dans leur rédaction indiquée dans la colonne de droite du même ta
 _Cite_:
 
   - ORDONNANCE n°2015-1341 du 23 octobre 2015
-  - Code des relations entre le public et l'adminis... - art. L300-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L311-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L311-5 (VD)
-  - Code des relations entre le public et l'adminis... - art. L312-1 (VD)
+  - Code des relations entre le public et l'administration - art. L300-1
+  - Code des relations entre le public et l'administration - art. L311-1
+  - Code des relations entre le public et l'administration - art. L311-5
+  - Code des relations entre le public et l'administration - art. L312-1
 
 _Codifié par_:
 
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 112
 
 
 ###### Article L553-3
@@ -12090,8 +12310,8 @@ que les établissements publics, chargés par l'Etat et les communes d'une missi
         <td align="justify">Titre Ier 
 
 </td>
-        <td align="left">
-      </td></tr>
+        <td align="left"> </td>
+      </tr>
       <tr>
         <td align="justify">
 L. 110-1 
@@ -12124,7 +12344,7 @@ L. 112-1 à L. 112-3
 L. 112-6 à L. 112-15 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td align="justify">Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique  
 
 </td>
       </tr>
@@ -12142,7 +12362,7 @@ L. 113-4
 L. 113-12 à L. 113-13 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td align="justify">Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
 
 </td>
       </tr>
@@ -12151,7 +12371,7 @@ L. 113-12 à L. 113-13
 L. 114-1 à L. 114-10 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td align="justify">Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
 
 </td>
       </tr>
@@ -12159,14 +12379,14 @@ L. 114-1 à L. 114-10
         <td align="justify">
 
 </td>
-        <td align="justify">
-      </td></tr>
+        <td align="justify"> </td>
+      </tr>
       <tr>
         <td align="justify">Titre II 
 
 </td>
-        <td align="left">
-      </td></tr>
+        <td align="left"> </td>
+      </tr>
       <tr>
         <td align="justify">
 L. 120-1 
@@ -12198,14 +12418,14 @@ L. 122-1 et L. 122-2
         <td align="justify">
 
 </td>
-        <td align="justify">
-      </td></tr>
+        <td align="justify"> </td>
+      </tr>
       <tr>
         <td align="justify">Titre III 
 
 </td>
-        <td align="left">
-      </td></tr>
+        <td align="left"> </td>
+      </tr>
       <tr>
         <td align="justify">
 L. 131-1 
@@ -12259,29 +12479,29 @@ L. 134-33 et L. 134-34
 _Cite_:
 
   - ORDONNANCE n°2015-1341 du 23 octobre 2015
-  - Code des relations entre le public et l'adminis... - art. L110-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L111-2 (VD)
-  - Code des relations entre le public et l'adminis... - art. L112-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L112-6 (VD)
-  - Code des relations entre le public et l'adminis... - art. L113-12 (VD)
-  - Code des relations entre le public et l'adminis... - art. L113-4 (VD)
-  - Code des relations entre le public et l'adminis... - art. L114-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L120-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L121-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L122-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L131-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L132-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L134-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L134-31 (VD)
-  - Code des relations entre le public et l'adminis... - art. L134-33 (VD)
+  - Code des relations entre le public et l'administration - art. L110-1
+  - Code des relations entre le public et l'administration - art. L111-2
+  - Code des relations entre le public et l'administration - art. L112-1
+  - Code des relations entre le public et l'administration - art. L112-6
+  - Code des relations entre le public et l'administration - art. L113-12
+  - Code des relations entre le public et l'administration - art. L113-4
+  - Code des relations entre le public et l'administration - art. L114-1
+  - Code des relations entre le public et l'administration - art. L120-1
+  - Code des relations entre le public et l'administration - art. L121-1
+  - Code des relations entre le public et l'administration - art. L122-1
+  - Code des relations entre le public et l'administration - art. L131-1
+  - Code des relations entre le public et l'administration - art. L132-1
+  - Code des relations entre le public et l'administration - art. L134-1
+  - Code des relations entre le public et l'administration - art. L134-31
+  - Code des relations entre le public et l'administration - art. L134-33
 
 _Codifié par_:
 
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 112
 
 
 ###### Article R*562-4
@@ -12731,12 +12951,12 @@ que les établissements publics, chargés par l'Etat et les communes d'une missi
       <tr>
         <td align="justify">
 
-L. 300-1 et L. 300-2 
+L. 300-1 à L. 300-4 
 
 </td>
         <td align="justify">
 
-Résultant de l'ordonnance n° 2015-1341
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique
 
 </td>
       </tr>
@@ -12760,9 +12980,7 @@ L. 311-1 à L. 311-9
 </td>
         <td align="justify">
 
-Résultant de l'ordonnance n° 2015-1341 
-
-</td>
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique</td>
       </tr>
       <tr>
         <td align="justify">
@@ -12779,12 +12997,12 @@ Résultant de l'ordonnance n° 2015-1341
       <tr>
         <td align="justify">
 
-L. 312-1 
+L. 312-1 à L. 312-1-3 
 
 </td>
         <td align="justify">
 
-Résultant de l'ordonnance n° 2016-307
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
 
 </td>
       </tr>
@@ -12815,12 +13033,12 @@ Titre II
       <tr>
         <td align="justify">
 
-L. 321-1 et L. 321-2 
+L. 321-1 à L. 321-4 
 
 </td>
         <td align="justify">
 
-Résultant de l'ordonnance n° 2016-307 
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
 
 </td>
       </tr>
@@ -12832,7 +13050,7 @@ L. 322-1 et L. 322-2
 </td>
         <td align="justify">
 
-Résultant de l'ordonnance n° 2016-307 
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
 
 </td>
       </tr>
@@ -12844,7 +13062,7 @@ L. 322-5 et L. 322-6
 </td>
         <td align="justify">
 
-Résultant de l'ordonnance n° 2016-307 
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
 
 </td>
       </tr>
@@ -12856,19 +13074,17 @@ L. 323-1 et L. 323-2
 </td>
         <td align="justify">
 
-Résultant de l'ordonnance n° 2016-307 
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
 
 </td>
       </tr>
       <tr>
         <td align="justify">
 
-L. 324-1 à L. 324-5 
-
-</td>
+L. 324-1 à L. 324-6 </td>
         <td align="justify">
 
-Résultant de l'ordonnance n° 2016-307 
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
 
 </td>
       </tr>
@@ -12892,7 +13108,7 @@ L. 325-7 et L. 325-8
 </td>
         <td align="justify">
 
-Résultant de l'ordonnance n° 2016-307 
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
 
 </td>
       </tr>
@@ -12904,7 +13120,7 @@ L. 326-1
 </td>
         <td align="justify">
 
-Résultant de l'ordonnance n° 2016-307 
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
 
 </td>
       </tr>
@@ -12959,36 +13175,24 @@ Résultant de l'ordonnance n° 2016-307
       <tr>
         <td align="justify">
 
-L. 341-1 
+L. 341-1  et L. 341-2
 
 </td>
         <td align="justify">
 
-Résultant de l'ordonnance n° 2016-307 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-L. 342-1 et L. 342-2 
-
-</td>
-        <td align="justify">
-
-Résultant de l'ordonnance n° 2015-1341 
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
 
 </td>
       </tr>
       <tr>
         <td align="justify">
 
-L. 342-3 
+L. 342-1 à L. 342-4 
 
 </td>
         <td align="justify">
 
-Résultant de l'ordonnance n° 2016-307 </td>
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique</td>
       </tr>
     </tbody>
   </table>
@@ -13006,7 +13210,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2016-307 du 17 mars 2016 - art. 3
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 112
 
 
 ###### Article R*562-9
@@ -13423,8 +13627,9 @@ _Cite_:
 
 ###### Article L562-16
 
-Pour l'application de l'article L. 311-8 en Nouvelle-Calédonie, les références aux articles L. 213-1, L. 213-2 et L. 213-3 du
-code du patrimoine sont remplacées par la référence à la réglementation localement applicable.
+Pour l'application des articles L. 311-8 et L. 312-1-2 en Nouvelle-Calédonie, les références aux articles L. 212-2, L. 212-3,
+L. 213-1, L. 213-2 et L. 213-3 du code du patrimoine sont remplacées par la référence à la réglementation localement
+applicable.
 
 **Liens relatifs à cet article**
 
@@ -13432,16 +13637,19 @@ _Codifié par_:
 
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 112
 
 _Cite_:
 
+  - Code du patrimoine - art. L212-2
+  - Code du patrimoine - art. L212-3
   - Code du patrimoine - art. L213-1
   - Code du patrimoine - art. L213-2
   - Code du patrimoine - art. L213-3
-  - Code des relations entre le public et l'adminis... - art. L311-8 (VD)
+  - Code des relations entre le public et l'adminis... - art. L311-8 (V)
+  - Code des relations entre le public et l'adminis... - art. L312-1-2 (V)
 
 
 ###### Article L562-17
@@ -13535,17 +13743,17 @@ droit public et de droit privé chargés par ces collectivités d'une mission de
 échéant, industriel et commercial, dans leur rédaction indiquée dans la colonne de droite du même tableau. 
 
 <pre>
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ Dispositions applicables ┃ Dans leur rédaction                    ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ L. 300-1 et L. 300-2     ┃ Résultant de l'ordonnance n° 2015-1341 ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ L. 311-1 à L. 311-3      ┃ Résultant de l'ordonnance n° 2015-1341 ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ L. 311-5 à L. 311-9      ┃ Résultant de l'ordonnance n° 2015-1341 ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ L. 312-1 et L. 312-2     ┃ Résultant de l'ordonnance n° 2015-1341 ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Dispositions applicables ┃ Dans leur rédaction                                                              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ L. 300-1 à L. 300-4      ┃ Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ L. 311-1 à L. 311-3-1    ┃ Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ L. 311-5 à L. 311-9      ┃ Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ L. 312-1 à L. 312-2      ┃ Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 </pre>
 
 
@@ -13554,18 +13762,18 @@ droit public et de droit privé chargés par ces collectivités d'une mission de
 _Cite_:
 
   - ORDONNANCE n°2015-1341 du 23 octobre 2015
-  - Code des relations entre le public et l'adminis... - art. L300-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L311-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L311-5 (VD)
-  - Code des relations entre le public et l'adminis... - art. L312-1 (VD)
+  - Code des relations entre le public et l'administration - art. L300-1
+  - Code des relations entre le public et l'administration - art. L311-1
+  - Code des relations entre le public et l'administration - art. L311-5
+  - Code des relations entre le public et l'administration - art. L312-1
 
 _Codifié par_:
 
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 112
 
 
 ###### Article L563-3
@@ -13679,8 +13887,8 @@ personnes de droit public et de droit privé chargés par l'Etat d'une mission d
         <td align="justify">Titre Ier 
 
 </td>
-        <td align="left">
-      </td></tr>
+        <td align="left"> </td>
+      </tr>
       <tr>
         <td align="justify">
 L. 110-1 
@@ -13713,7 +13921,7 @@ L. 112-1 à L. 112-3
 L. 112-6 à L. 112-15 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td align="justify">Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique  
 
 </td>
       </tr>
@@ -13731,7 +13939,7 @@ L. 113-4
 L. 113-12 à L. 113-13 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td align="justify">Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
 
 </td>
       </tr>
@@ -13740,7 +13948,7 @@ L. 113-12 à L. 113-13
 L. 114-1 à L. 114-10 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td align="justify">Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
 
 </td>
       </tr>
@@ -13748,14 +13956,14 @@ L. 114-1 à L. 114-10
         <td align="justify">
 
 </td>
-        <td align="justify">
-      </td></tr>
+        <td align="justify"> </td>
+      </tr>
       <tr>
         <td align="justify">Titre II 
 
 </td>
-        <td align="justify">
-      </td></tr>
+        <td align="justify"> </td>
+      </tr>
       <tr>
         <td align="justify">
 L. 120-1 
@@ -13787,14 +13995,14 @@ L. 122-1 à L. 122-2
         <td align="justify">
 
 </td>
-        <td align="justify">
-      </td></tr>
+        <td align="justify"> </td>
+      </tr>
       <tr>
         <td align="justify">Titre III 
 
 </td>
-        <td align="justify">
-      </td></tr>
+        <td align="justify"> </td>
+      </tr>
       <tr>
         <td align="justify">
 L. 131-1 
@@ -13848,29 +14056,29 @@ L. 134-33 et L. 134-34
 _Cite_:
 
   - ORDONNANCE n°2015-1341 du 23 octobre 2015
-  - Code des relations entre le public et l'adminis... - art. L110-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L111-2 (VD)
-  - Code des relations entre le public et l'adminis... - art. L112-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L112-6 (VD)
-  - Code des relations entre le public et l'adminis... - art. L113-12 (VD)
-  - Code des relations entre le public et l'adminis... - art. L113-4 (VD)
-  - Code des relations entre le public et l'adminis... - art. L114-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L120-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L121-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L122-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L131-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L132-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L134-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L134-31 (VD)
-  - Code des relations entre le public et l'adminis... - art. L134-33 (VD)
+  - Code des relations entre le public et l'administration - art. L110-1
+  - Code des relations entre le public et l'administration - art. L111-2
+  - Code des relations entre le public et l'administration - art. L112-1
+  - Code des relations entre le public et l'administration - art. L112-6
+  - Code des relations entre le public et l'administration - art. L113-12
+  - Code des relations entre le public et l'administration - art. L113-4
+  - Code des relations entre le public et l'administration - art. L114-1
+  - Code des relations entre le public et l'administration - art. L120-1
+  - Code des relations entre le public et l'administration - art. L121-1
+  - Code des relations entre le public et l'administration - art. L122-1
+  - Code des relations entre le public et l'administration - art. L131-1
+  - Code des relations entre le public et l'administration - art. L132-1
+  - Code des relations entre le public et l'administration - art. L134-1
+  - Code des relations entre le public et l'administration - art. L134-31
+  - Code des relations entre le public et l'administration - art. L134-33
 
 _Codifié par_:
 
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 112
 
 
 ###### Article L572-5
@@ -14527,12 +14735,12 @@ personnes de droit public et de droit privé chargés par l'Etat d'une mission d
       <tr>
         <td align="justify">
 
-L. 300-1 et L. 300-2 
+L. 300-1 à L. 300-4 
 
 </td>
         <td align="justify">
 
-Résultant de l'ordonnance n° 2015-1341
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
 
 </td>
       </tr>
@@ -14556,7 +14764,7 @@ L. 311-1 à L. 311-9
 </td>
         <td align="justify">
 
-Résultant de l'ordonnance n° 2015-1341 
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
 
 </td>
       </tr>
@@ -14575,12 +14783,12 @@ Résultant de l'ordonnance n° 2015-1341
       <tr>
         <td align="justify">
 
-L. 312-1 
+L. 312-1 à L. 312-1-3
 
 </td>
         <td align="justify">
 
-Résultant de l'ordonnance n° 2016-307
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
 
 </td>
       </tr>
@@ -14611,12 +14819,10 @@ Titre II
       <tr>
         <td align="justify">
 
-L. 321-1 et L. 321-2 
-
-</td>
+L. 321-1 à L. 321-4 </td>
         <td align="justify">
 
-Résultant de l'ordonnance n° 2016-307 
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
 
 </td>
       </tr>
@@ -14628,7 +14834,7 @@ L. 322-1 et L. 322-2
 </td>
         <td align="justify">
 
-Résultant de l'ordonnance n° 2016-307 
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
 
 </td>
       </tr>
@@ -14640,7 +14846,7 @@ L. 322-5 et L. 322-6
 </td>
         <td align="justify">
 
-Résultant de l'ordonnance n° 2016-307 
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
 
 </td>
       </tr>
@@ -14652,19 +14858,17 @@ L. 323-1 et L. 323-2
 </td>
         <td align="justify">
 
-Résultant de l'ordonnance n° 2016-307 
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
 
 </td>
       </tr>
       <tr>
         <td align="justify">
 
-L. 324-1 à L. 324-5 
-
-</td>
+L. 324-1 à L. 324-6 </td>
         <td align="justify">
 
-Résultant de l'ordonnance n° 2016-307 
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
 
 </td>
       </tr>
@@ -14688,7 +14892,7 @@ L. 325-7 et L. 325-8
 </td>
         <td align="justify">
 
-Résultant de l'ordonnance n° 2016-307 
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
 
 </td>
       </tr>
@@ -14700,7 +14904,7 @@ L. 326-1
 </td>
         <td align="justify">
 
-Résultant de l'ordonnance n° 2016-307 
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
 
 </td>
       </tr>
@@ -14755,36 +14959,24 @@ Résultant de l'ordonnance n° 2016-307
       <tr>
         <td align="justify">
 
-L. 341-1 
+L. 341-1  et L. 341-2
 
 </td>
         <td align="justify">
 
-Résultant de l'ordonnance n° 2016-307 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-L. 342-1 et L. 342-2 
-
-</td>
-        <td align="justify">
-
-Résultant de l'ordonnance n° 2015-1341 
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
 
 </td>
       </tr>
       <tr>
         <td align="justify">
 
-L. 342-3 
-
-</td>
+L. 342-1 à L. 342-4 </td>
         <td align="justify">
 
-Résultant de l'ordonnance n° 2016-307 </td>
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
+
+</td>
       </tr>
     </tbody>
   </table>
@@ -14802,7 +14994,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2016-307 du 17 mars 2016 - art. 3
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 112
 
 
 ###### Article R*574-2
@@ -15091,35 +15283,35 @@ le cas échéant, industriel et commercial, d'autre part, dans leur rédaction i
 tableau. 
 
 <pre>
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ DISPOSITIONS APPLICABLES ┃ DANS LEUR RÉDACTION                    ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ L. 300-1 et L. 300-2     ┃ Résultant de l'ordonnance n° 2015-1341 ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ L. 311-1 à L. 311-3      ┃ Résultant de l'ordonnance n° 2015-1341 ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ L. 311-5 à L. 311-9      ┃ Résultant de l'ordonnance n° 2015-1341 ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ L. 312-1                 ┃ Résultant de l'ordonnance n° 2016-307  ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ L. 312-2                 ┃ Résultant de l'ordonnance n° 2015-1341 ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ L. 321-1 et L. 321-2     ┃ Résultant de l'ordonnance n° 2016-307  ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ L. 322-1 et L. 322-2     ┃ Résultant de l'ordonnance n° 2016-307  ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ L. 322-5 et L. 322-6     ┃ Résultant de l'ordonnance n° 2016-307  ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ L. 323-1 et L. 323-2     ┃ Résultant de l'ordonnance n° 2016-307  ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ L. 324-1 à L. 324-5      ┃ Résultant de l'ordonnance n° 2016-307  ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ L. 325-1 à L. 325-4      ┃ Résultant de l'ordonnance n° 2016-307  ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ L. 325-7 et L. 325-8     ┃ Résultant de l'ordonnance n° 2016-307  ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ L. 326-1                 ┃ Résultant de l'ordonnance n° 2016-307  ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ DISPOSITIONS APPLICABLES ┃ DANS LEUR RÉDACTION                                                              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ L. 300-1 à L. 300-4      ┃ Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ L. 311-1 à L. 311-3-1    ┃ Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ L. 311-5 à L. 311-9      ┃ Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ L. 312-1 à  L. 312-1-3   ┃ Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ L. 312-2                 ┃ Résultant de l'ordonnance n° 2015-1341                                           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ L. 321-1 à L. 321-4      ┃ Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ L. 322-1 et L. 322-2     ┃ Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ L. 322-5 et L. 322-6     ┃ Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ L. 323-1 et L. 323-2     ┃ Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ L. 324-1 à L. 324-6      ┃ Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ L. 325-1 à L. 325-4      ┃ Résultant de l'ordonnance n° 2016-307                                            ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ L. 325-7 et L. 325-8     ┃ Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ L. 326-1                 ┃ Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 </pre>
 
 
@@ -15136,7 +15328,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2016-307 du 17 mars 2016 - art. 3
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 112
 
 
 ###### Article R*574-5-1
