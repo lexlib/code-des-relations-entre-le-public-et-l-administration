@@ -1,5 +1,5 @@
 # Code des relations entre le public et l'administration  
-Version Consolidée au 2016-11-24
+Version Consolidée au 2016-12-31
 ## Contenu: 
   - [Dispositions préliminaires (art. L100-1 à L100-3)](#1)
   - [Livre Ier : LES ÉCHANGES AVEC L'ADMINISTRATION (art. L110-1 à L135-2)](#2)
@@ -8921,7 +8921,10 @@ production et de consommation ;
 21° Les dispositions relatives aux procès-verbaux des séances de la commission de surveillance et de contrôle des
 publications destinées à la jeunesse ; 
 
-22° L'article 1er de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique. 
+22° L'article 1er de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique ; 
+
+23° Les articles 1er et 3 de la loi n° 2016-1919 du 29 décembre 2016 relative à l'exercice, par la Croix-Rouge française, de
+sa mission statutaire de rétablissement des liens familiaux. 
 
 B.-A l'accès aux informations détenues par les exploitants d'une installation nucléaire de base et les personnes responsables
 de transport de substances radioactives dans les conditions définies aux articles L. 125-10 et L. 125-11 du code de
@@ -8936,13 +8939,14 @@ _Cite_:
 
   - Loi du 1er juillet 1901 - art. 5
   - Loi du 31 décembre 1913 - art. 17
-  - Loi n°2000-321 du 12 avril 2000 - art. 10 (V)
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 1 (V)
-  - Livre des procédures fiscales - art. L104 (V)
+  - Loi n°2000-321 du 12 avril 2000 - art. 10
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 1
+  - Loi n°2016-1919 du 29 décembre 2016 - art. 1 (V)
+  - Livre des procédures fiscales - art. L104
   - Livre des procédures fiscales - art. L106
-  - Livre des procédures fiscales - art. L107 A (V)
+  - Livre des procédures fiscales - art. L107 A
   - Livre des procédures fiscales - art. L111
-  - Livre des procédures fiscales - art. L135 B (VT)
+  - Livre des procédures fiscales - art. L135 B
   - Code électoral - art. L28
   - Code électoral - art. L68
   - Code électoral - art. LO179
@@ -8962,8 +8966,8 @@ _Cite_:
   - Code de la santé publique - art. L1131-1
   - Code de la sécurité sociale. - art. L161-37
   - Code de l'action sociale et des familles - art. L421-8
-  - Code de l'urbanisme - art. L121-5 (V)
-  - Code de l'urbanisme - art. L123-1 (V)
+  - Code de l'urbanisme - art. L121-5
+  - Code de l'urbanisme - art. L123-1
   - Code de l'urbanisme - art. L213-13
   - Code de l'urbanisme - art. L332-29
   - Code de l'environnement - art. L125-10
@@ -8982,7 +8986,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 1 (V)
+  - Loi n°2016-1919 du 29 décembre 2016 - art. 6 (V)
 
 _Cité par_:
 
@@ -11508,7 +11512,7 @@ droite du même tableau.
       <tr>
         <td>
 
-L. 300-1 à L. 300-4
+L. 300-1 à L. 300-4 
 
 </td>
         <td>
@@ -11556,7 +11560,7 @@ Résultant de l'ordonnance n° 2015-1341
       <tr>
         <td>
 
-L. 312-1 à L. 312-1-3
+L. 312-1 à L. 312-1-3 
 
 </td>
         <td>
@@ -11638,7 +11642,7 @@ Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numér
       <tr>
         <td>
 
-L. 324-1 à L. 324-6
+L. 324-1 à L. 324-6 
 
 </td>
         <td>
@@ -11730,7 +11734,7 @@ Résultant de l'ordonnance n° 2016-307
       <tr>
         <td>
 
-L. 341-1 et L. 341-2
+L. 341-1 et L. 341-2 
 
 </td>
         <td>
@@ -11747,9 +11751,8 @@ L. 342-1 à L. 342-4
 </td>
         <td>
 
-Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
-
-</td>
+Résultant de la loi n° 2016-1919 du 29 décembre 2016 relative à l'exercice, par la Croix-Rouge française, de sa mission
+statutaire de rétablissement des liens familiaux</td>
       </tr>
     </tbody>
   </table>
@@ -11760,6 +11763,7 @@ _Cite_:
 
   - ORDONNANCE n°2015-1341 du 23 octobre 2015
   - Ordonnance n°2016-307 du 17 mars 2016
+  - Loi n°2016-1919 du 29 décembre 2016 (V)
 
 _Codifié par_:
 
@@ -11767,7 +11771,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 112
+  - Loi n°2016-1919 du 29 décembre 2016 - art. 6 (V)
 
 
 ###### Article R*552-9
@@ -13020,9 +13024,9 @@ que les établissements publics, chargés par l'Etat et les communes d'une missi
 </th>
       </tr>
       <tr>
-        <td align="left"> </td>
-        <td align="left"> </td>
-      </tr>
+        <td align="left">
+        </td><td align="left">
+      </td></tr>
       <tr>
         <td align="justify">
 
@@ -13031,22 +13035,22 @@ L. 300-1 à L. 300-4
 </td>
         <td align="justify">
 
-Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
 
 </td>
       </tr>
       <tr>
-        <td align="left"> </td>
-        <td align="left"> </td>
-      </tr>
+        <td align="left">
+        </td><td align="left">
+      </td></tr>
       <tr>
         <td align="justify">
 
 Titre Ier 
 
 </td>
-        <td align="left"> </td>
-      </tr>
+        <td align="left">
+      </td></tr>
       <tr>
         <td align="justify">
 
@@ -13055,7 +13059,7 @@ L. 311-1 à L. 311-9
 </td>
         <td align="justify">
 
-Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique</td>
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique </td>
       </tr>
       <tr>
         <td align="justify">
@@ -13094,17 +13098,17 @@ Résultant de l'ordonnance n° 2015-1341
 </td>
       </tr>
       <tr>
-        <td align="left"> </td>
-        <td align="left"> </td>
-      </tr>
+        <td align="left">
+        </td><td align="left">
+      </td></tr>
       <tr>
         <td align="justify">
 
 Titre II 
 
 </td>
-        <td align="left"> </td>
-      </tr>
+        <td align="left">
+      </td></tr>
       <tr>
         <td align="justify">
 
@@ -13200,17 +13204,17 @@ Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numér
 </td>
       </tr>
       <tr>
-        <td align="left"> </td>
-        <td align="left"> </td>
-      </tr>
+        <td align="left">
+        </td><td align="left">
+      </td></tr>
       <tr>
         <td align="justify">
 
 Titre III 
 
 </td>
-        <td align="left"> </td>
-      </tr>
+        <td align="left">
+      </td></tr>
       <tr>
         <td align="justify">
 
@@ -13224,17 +13228,17 @@ Résultant de l'ordonnance n° 2015-1341
 </td>
       </tr>
       <tr>
-        <td align="left"> </td>
-        <td align="left"> </td>
-      </tr>
+        <td align="left">
+        </td><td align="left">
+      </td></tr>
       <tr>
         <td align="justify">
 
 Titre IV 
 
 </td>
-        <td align="left"> </td>
-      </tr>
+        <td align="left">
+      </td></tr>
       <tr>
         <td align="justify">
 
@@ -13250,7 +13254,7 @@ Résultant de l'ordonnance n° 2016-307
       <tr>
         <td align="justify">
 
-L. 341-1  et L. 341-2
+L. 341-1 et L. 341-2 
 
 </td>
         <td align="justify">
@@ -13267,7 +13271,8 @@ L. 342-1 à L. 342-4
 </td>
         <td align="justify">
 
-Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique</td>
+Résultant de la loi n° 2016-1919 du 29 décembre 2016 relative à l'exercice, par la Croix-Rouge française, de sa mission
+statutaire de rétablissement des liens familiaux</td>
       </tr>
     </tbody>
   </table>
@@ -13278,6 +13283,7 @@ _Cite_:
 
   - ORDONNANCE n°2015-1341 du 23 octobre 2015
   - Ordonnance n°2016-307 du 17 mars 2016
+  - Loi n°2016-1919 du 29 décembre 2016 (V)
 
 _Codifié par_:
 
@@ -13285,7 +13291,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 112
+  - Loi n°2016-1919 du 29 décembre 2016 - art. 6 (V)
 
 
 ###### Article R*562-9
@@ -14506,8 +14512,8 @@ industriel et commercial, d'autre part, dans leur rédaction indiquée dans la c
         <td align="justify">
 
 </td>
-        <td align="justify">
-      </td></tr>
+        <td align="justify"> </td>
+      </tr>
       <tr>
         <td align="justify">
 L. 200-1 
@@ -14521,14 +14527,14 @@ L. 200-1
         <td align="justify">
 
 </td>
-        <td align="justify">
-      </td></tr>
+        <td align="justify"> </td>
+      </tr>
       <tr>
         <td align="justify">Titre Ier 
 
 </td>
-        <td align="left">
-      </td></tr>
+        <td align="left"> </td>
+      </tr>
       <tr>
         <td align="justify">
 L. 211-1 à L. 211-6 
@@ -14539,10 +14545,7 @@ L. 211-1 à L. 211-6
 </td>
       </tr>
       <tr>
-        <td align="justify">
-L. 212-1 à L. 212-3 
-
-</td>
+        <td align="justify">L. 212-1 et L. 212-3 </td>
         <td align="justify">Résultant de l'ordonnance n° 2015-1341 
 
 </td>
@@ -14550,15 +14553,16 @@ L. 212-1 à L. 212-3
       <tr>
         <td align="justify">
 
-</td>
-        <td align="justify">
-      </td></tr>
+L. 212-2 
+        </td>
+        <td align="left">Résultant de la loi n° 2016-1918 du 29 décembre 2016 de finances rectificative pour 2016 </td>
+      </tr>
       <tr>
         <td align="justify">Titre II 
 
 </td>
-        <td align="left">
-      </td></tr>
+        <td align="left"> </td>
+      </tr>
       <tr>
         <td align="justify">
 L. 221-1 
@@ -14591,14 +14595,14 @@ L. 221-8
         <td align="justify">
 
 </td>
-        <td align="justify">
-      </td></tr>
+        <td align="justify"> </td>
+      </tr>
       <tr>
         <td align="justify">Titre III 
 
 </td>
-        <td align="left">
-      </td></tr>
+        <td align="left"> </td>
+      </tr>
       <tr>
         <td align="justify">
 L. 231-1 
@@ -14630,14 +14634,14 @@ L. 232-1 à L. 232-4
         <td align="justify">
 
 </td>
-        <td align="justify">
-      </td></tr>
+        <td align="justify"> </td>
+      </tr>
       <tr>
         <td align="justify">Titre IV 
 
 </td>
-        <td align="left">
-      </td></tr>
+        <td align="left"> </td>
+      </tr>
       <tr>
         <td align="justify">
 L. 240-1 et L. 240-2 
@@ -14681,29 +14685,29 @@ L. 243-1 à L. 243-4
 
 _Cite_:
 
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 (VD)
-  - Code des relations entre le public et l'adminis... - art. L200-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L211-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L212-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L221-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L221-2 (VD)
-  - Code des relations entre le public et l'adminis... - art. L221-7 (VD)
-  - Code des relations entre le public et l'adminis... - art. L221-8 (VD)
-  - Code des relations entre le public et l'adminis... - art. L231-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L231-4 (VD)
-  - Code des relations entre le public et l'adminis... - art. L232-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L240-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L241-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L242-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L243-1 (VD)
+  - ORDONNANCE n°2015-1341 du 23 octobre 2015
+  - Code des relations entre le public et l'administration - art. L200-1
+  - Code des relations entre le public et l'administration - art. L211-1
+  - Code des relations entre le public et l'administration - art. L212-1
+  - Code des relations entre le public et l'administration - art. L221-1
+  - Code des relations entre le public et l'administration - art. L221-2
+  - Code des relations entre le public et l'administration - art. L221-7
+  - Code des relations entre le public et l'administration - art. L221-8
+  - Code des relations entre le public et l'administration - art. L231-1
+  - Code des relations entre le public et l'administration - art. L231-4
+  - Code des relations entre le public et l'administration - art. L232-1
+  - Code des relations entre le public et l'administration - art. L240-1
+  - Code des relations entre le public et l'administration - art. L241-1
+  - Code des relations entre le public et l'administration - art. L242-1
+  - Code des relations entre le public et l'administration - art. L243-1
 
 _Codifié par_:
 
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 90 (V)
 
 
 ###### Article L573-3
@@ -14857,9 +14861,9 @@ personnes de droit public et de droit privé chargés par l'Etat d'une mission d
 </th>
       </tr>
       <tr>
-        <td align="left"> </td>
-        <td align="left"> </td>
-      </tr>
+        <td align="left">
+        </td><td align="left">
+      </td></tr>
       <tr>
         <td align="justify">
 
@@ -14873,17 +14877,17 @@ Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numér
 </td>
       </tr>
       <tr>
-        <td align="left"> </td>
-        <td align="left"> </td>
-      </tr>
+        <td align="left">
+        </td><td align="left">
+      </td></tr>
       <tr>
         <td align="justify">
 
 Titre Ier 
 
 </td>
-        <td align="left"> </td>
-      </tr>
+        <td align="left">
+      </td></tr>
       <tr>
         <td align="justify">
 
@@ -14911,7 +14915,7 @@ Résultant de l'ordonnance n° 2015-1341
       <tr>
         <td align="justify">
 
-L. 312-1 à L. 312-1-3
+L. 312-1 à L. 312-1-3 
 
 </td>
         <td align="justify">
@@ -14933,17 +14937,17 @@ Résultant de l'ordonnance n° 2015-1341
 </td>
       </tr>
       <tr>
-        <td align="left"> </td>
-        <td align="left"> </td>
-      </tr>
+        <td align="left">
+        </td><td align="left">
+      </td></tr>
       <tr>
         <td align="justify">
 
 Titre II 
 
 </td>
-        <td align="left"> </td>
-      </tr>
+        <td align="left">
+      </td></tr>
       <tr>
         <td align="justify">
 
@@ -15037,17 +15041,17 @@ Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numér
 </td>
       </tr>
       <tr>
-        <td align="left"> </td>
-        <td align="left"> </td>
-      </tr>
+        <td align="left">
+        </td><td align="left">
+      </td></tr>
       <tr>
         <td align="justify">
 
 Titre III 
 
 </td>
-        <td align="left"> </td>
-      </tr>
+        <td align="left">
+      </td></tr>
       <tr>
         <td align="justify">
 
@@ -15061,17 +15065,17 @@ Résultant de l'ordonnance n° 2015-1341
 </td>
       </tr>
       <tr>
-        <td align="left"> </td>
-        <td align="left"> </td>
-      </tr>
+        <td align="left">
+        </td><td align="left">
+      </td></tr>
       <tr>
         <td align="justify">
 
 Titre IV 
 
 </td>
-        <td align="left"> </td>
-      </tr>
+        <td align="left">
+      </td></tr>
       <tr>
         <td align="justify">
 
@@ -15087,7 +15091,7 @@ Résultant de l'ordonnance n° 2016-307
       <tr>
         <td align="justify">
 
-L. 341-1  et L. 341-2
+L. 341-1 et L. 341-2 
 
 </td>
         <td align="justify">
@@ -15102,9 +15106,8 @@ Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numér
 L. 342-1 à L. 342-4 </td>
         <td align="justify">
 
-Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
-
-</td>
+Résultant de la loi n° 2016-1919 du 29 décembre 2016 relative à l'exercice, par la Croix-Rouge française, de sa mission
+statutaire de rétablissement des liens familiaux</td>
       </tr>
     </tbody>
   </table>
@@ -15115,6 +15118,7 @@ _Cite_:
 
   - ORDONNANCE n°2015-1341 du 23 octobre 2015
   - Ordonnance n°2016-307 du 17 mars 2016
+  - Loi n°2016-1919 du 29 décembre 2016 (V)
 
 _Codifié par_:
 
@@ -15122,7 +15126,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 112
+  - Loi n°2016-1919 du 29 décembre 2016 - art. 6 (V)
 
 
 ###### Article R*574-2
