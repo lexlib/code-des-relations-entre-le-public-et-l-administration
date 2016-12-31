@@ -1,5 +1,5 @@
 # Code des relations entre le public et l'administration  
-Version Consolidée au 2017-01-01
+Version Consolidée au 2017-01-01 00:00:01 +0100
 ## Contenu: 
   - [Dispositions préliminaires (art. L100-1 à L100-3)](#1)
   - [Livre Ier : LES ÉCHANGES AVEC L'ADMINISTRATION (art. L110-1 à L135-2)](#2)
@@ -11249,15 +11249,17 @@ que les établissements publics, chargés par l'Etat et les communes d'une missi
 échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. 
 
 <pre>
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ DISPOSITIONS APPLICABLES │ DANS LEUR RÉDACTION              ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ D. 324-5-1               │ Résultant du décret n° 2016-1617 ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ D. 341-10                │ Résultant du décret n° 2016-308  ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ D. 341-11 à D. 341-15    │ Résultant du décret n° 2015-1342 ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ DISPOSITIONS APPLICABLES   │ DANS LEUR RÉDACTION              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ D. 312-1-1-1 et D. 312-1-4 │ Résultant du décret n° 2016-1922 ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ D. 324-5-1                 │ Résultant du décret n° 2016-1617 ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ D. 341-10                  │ Résultant du décret n° 2016-308  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ D. 341-11 à D. 341-15      │ Résultant du décret n° 2015-1342 ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 </pre>
 
 
@@ -11268,6 +11270,7 @@ _Cite_:
   - Décret n°2015-1342 du 23 octobre 2015 (V)
   - Décret n°2016-308 du 17 mars 2016 (V)
   - Décret n°2016-1617 du 29 novembre 2016 (V)
+  - Décret n°2016-1922 du 28 décembre 2016 (V)
 
 _Codifié par_:
 
@@ -11275,7 +11278,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1617 du 29 novembre 2016 - art. 2
+  - Décret n°2016-1922 du 28 décembre 2016 - art. 2
 
 
 ###### Article L552-8
@@ -12387,15 +12390,17 @@ que les établissements publics, chargés par l'Etat et les communes d'une missi
 échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. 
 
 <pre>
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ DISPOSITIONS APPLICABLES ┃ DANS LEUR RÉDACTION              ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ D. 324-5-1               ┃ Résultant du décret n° 2016-1617 ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ D. 341-10                ┃ Résultant du décret n° 2016-308  ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ D. 341-11 à D. 341-15    ┃ Résultant du décret n° 2015-1342 ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ DISPOSITIONS APPLICABLES   ┃ DANS LEUR RÉDACTION              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ D. 312-1-1-1 et D. 312-1-4 ┃ Résultant du décret n° 2016-1922 ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ D. 324-5-1                 ┃ Résultant du décret n° 2016-1617 ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ D. 341-10                  ┃ Résultant du décret n° 2016-308  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ D. 341-11 à D. 341-15      ┃ Résultant du décret n° 2015-1342 ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 </pre>
 
 
@@ -12405,6 +12410,8 @@ _Cite_:
 
   - Décret n°2015-1342 du 23 octobre 2015
   - Décret n°2016-308 du 17 mars 2016
+  - Décret n°2016-1617 du 29 novembre 2016 (V)
+  - Décret n°2016-1922 du 28 décembre 2016 (V)
 
 _Codifié par_:
 
@@ -12412,7 +12419,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1617 du 29 novembre 2016 - art. 2
+  - Décret n°2016-1922 du 28 décembre 2016 - art. 2
 
 
 ###### Article L562-8
@@ -13694,15 +13701,17 @@ public et de droit privé chargés par l'Etat d'une mission de service public ad
 commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. 
 
 <pre>
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ DISPOSITIONS APPLICABLES ┃ DANS LEUR RÉDACTION              ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ D. 324-5-1               ┃ Résultant du décret n° 2016-1617 ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ D. 341-10                ┃ Résultant du décret n° 2016-308  ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ D. 341-11 à D. 341-15    ┃ Résultant du décret n° 2015-1342 ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ DISPOSITIONS APPLICABLES   ┃ DANS LEUR RÉDACTION              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ D. 312-1-1-1 et D. 312-1-4 ┃ Résultant du décret n° 2016-1922 ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ D. 324-5-1                 ┃ Résultant du décret n° 2016-1617 ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ D. 341-10                  ┃ Résultant du décret n° 2016-308  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ D. 341-11 à D. 341-15      ┃ Résultant du décret n° 2015-1342 ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 </pre>
 
 
@@ -13712,6 +13721,8 @@ _Cite_:
 
   - Décret n°2015-1342 du 23 octobre 2015
   - Décret n°2016-308 du 17 mars 2016
+  - Décret n°2016-1617 du 29 novembre 2016 (V)
+  - Décret n°2016-1922 du 28 décembre 2016 (V)
 
 _Codifié par_:
 
@@ -13719,7 +13730,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1617 du 29 novembre 2016 - art. 2
+  - Décret n°2016-1922 du 28 décembre 2016 - art. 2
 
 
 ###### Article L574-1
