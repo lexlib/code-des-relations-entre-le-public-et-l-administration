@@ -1,5 +1,5 @@
 # Code des relations entre le public et l'administration  
-Version Consolidée au 2016-12-31
+Version Consolidée au 2017-01-01
 ## Contenu: 
   - [Dispositions préliminaires (art. L100-1 à L100-3)](#1)
   - [Livre Ier : LES ÉCHANGES AVEC L'ADMINISTRATION (art. L110-1 à L135-2)](#2)
@@ -101,8 +101,8 @@ Version Consolidée au 2016-12-31
       - [Chapitre Ier : Communication des documents administratifs (art. L311-1 à R311-15)](#98)
         - [Section 1 : Etendue du droit à communication (art. L311-1 à L311-8)](#99)
         - [Section 2 : Modalités du droit à communication (art. L311-9 à R311-15)](#100)
-      - [Chapitre II : Diffusion des documents administratifs (art. L312-1 à R312-9)](#101)
-        - [Section 1 : Règles générales (art. L312-1 à L312-1-3)](#102)
+      - [Chapitre II : Diffusion des documents administratifs (art. D312-1-1-1 à R312-9)](#101)
+        - [Section 1 : Règles générales (art. D312-1-1-1 à L312-1-3)](#102)
         - [Section 2 : Règles spécifiques aux instructions et circulaires (art. L312-2 à R312-9)](#103)
           - [Sous-section 1 : Règles de publication (art. L312-2 à R312-7)](#104)
           - [Sous-section 2 : Règles particulières applicables aux circulaires et instructions adressées par les ministres aux services et établissements de l'Etat (art. R312-8 à R312-9)](#105)
@@ -110,7 +110,7 @@ Version Consolidée au 2016-12-31
       - [Chapitre Ier : Etendue du droit de réutilisation (art. L321-1 à L321-3)](#107)
       - [Chapitre II : Règles générales (art. L322-1 à R322-7)](#108)
       - [Chapitre III : Etablissement d'une licence (art. L323-1 à R323-7)](#109)
-      - [Chapitre IV : Redevance (art. L324-1 à R324-7)](#110)
+      - [Chapitre IV : Redevance (art. D324-5-1 à R324-7)](#110)
       - [Chapitre V : Droit d'exclusivité (art. L325-1 à R325-5)](#111)
       - [Chapitre VI : Sanctions (art. L326-1)](#112)
       - [Chapitre VII : Dispositions diverses (art. L327-1)](#113)
@@ -187,7 +187,7 @@ Version Consolidée au 2016-12-31
       - [Chapitre III : Dispositions spécifiques relatives au livre II (art. D573-4 à R573-1-1)](#184)
       - [Chapitre IV : Dispositions spécifiques relatives au livre III (art. D574-4 à R574-8)](#185)
         - [Section 1 : Dispositions relatives à l'Etat et aux organismes placés sous son contrôle (art. D574-4 à R574-3)](#186)
-        - [Section 2 : Dispositions relatives à la collectivité de Wallis-et-Futuna et aux organismes placés sous son contrôle (art. L574-5 à R574-5-2)](#187)
+        - [Section 2 : Dispositions relatives à la collectivité de Wallis-et-Futuna et aux organismes placés sous son contrôle (art. D574-5-3 à R574-5-2)](#187)
         - [Section 3 : Dispositions d'adaptation (art. L574-6 à R574-8)](#188)
       - [Chapitre V : Dispositions spécifiques relatives au livre IV (art. L575-1)](#189)
     - [Titre VIII : DISPOSITIONS APPLICABLES DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES (art. L581-1 à R584-3)](#190)
@@ -4749,19 +4749,20 @@ _Créé par_:
 ###### Article L212-2
 
 Sont dispensés de la signature de leur auteur, dès lors qu'ils comportent ses prénom, nom et qualité ainsi que la mention du
-service auquel celui-ci appartient, les actes suivants : 
+service auquel celui-ci appartient, les actes suivants :
 
 1° Les décisions administratives qui sont notifiées au public par l'intermédiaire d'un téléservice conforme à l'article L.
 112-9 et aux articles 9 à 12 de l'ordonnance n° 2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les
 usagers et les autorités administratives et entre les autorités administratives ainsi que les actes préparatoires à ces
-décisions ; 
+décisions ;
 
 2° Quelles que soient les modalités selon lesquelles ils sont portés à la connaissance des intéressés, les avis à tiers
-détenteur, les oppositions à tiers détenteur, les oppositions administratives ainsi que les saisies à tiers détenteur,
-adressés tant au tiers saisi qu'au redevable, les lettres de relance relatives à l'assiette ou au recouvrement, les mises en
-demeure de souscrire une déclaration ou d'effectuer un paiement, les décisions d'admission totale d'une réclamation et les
-demandes de documents et de renseignements pouvant être obtenus par la mise en œuvre du droit de communication prévu au
-chapitre II du titre II de la première partie du livre des procédures fiscales.
+détenteur, les oppositions à tiers détenteur, les oppositions administratives, les saisies à tiers détenteur et les avis de
+saisie, adressés tant au tiers saisi qu'au redevable, les lettres de relance relatives à l'assiette ou au recouvrement,  les
+avis de mise en recouvrement, les mises en demeure de souscrire une déclaration ou d'effectuer un paiement, les décisions
+d'admission totale ou partielle d'une réclamation et les demandes de documents et de renseignements pouvant être obtenus par
+la mise en œuvre du droit de communication prévu au chapitre II du titre II de la première partie du livre des procédures
+fiscales.
 
 **Liens relatifs à cet article**
 
@@ -4772,15 +4773,16 @@ _Anciens textes_:
 _Cite_:
 
   - Ordonnance n°2005-1516 du 8 décembre 2005 - art. 9
-  - Code des relations entre le public et l'adminis... - art. L112-9 (VD)
+  - Code des relations entre le public et l'administration - art. L112-9
 
 _Codifié par_:
 
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 21 (V)
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 90 (V)
 
 _Cité par_:
 
@@ -7014,6 +7016,36 @@ _Cite_:
 
 #### Section 1 : Règles générales<a id=102></a>
 
+###### Article D312-1-1-1
+
+Le seuil prévu à l'article L. 312-1-1 est fixé à 50 agents ou salariés exprimé en équivalents temps plein.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1922 du 28 décembre 2016 - art. 1
+
+_Cite_:
+
+  - Code des relations entre le public et l'adminis... - art. L312-1-1 (V)
+
+
+###### Article D312-1-4
+
+Le seuil prévu à l'article L. 312-1-3 est fixé à 50 agents ou salariés exprimé en équivalents temps plein.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1922 du 28 décembre 2016 - art. 1
+
+_Cite_:
+
+  - Code des relations entre le public et l'administration - art. L312-1-3
+
+
 ###### Article L312-1
 
 Les administrations mentionnées à l'article L. 300-2 peuvent rendre publics les documents administratifs qu'elles produisent
@@ -7844,6 +7876,452 @@ _Cite_:
 
 ### Chapitre IV : Redevance<a id=110></a>
 
+###### Article D324-5-1
+
+Les informations et catégories d'informations susceptibles d'être soumises au paiement d'une redevance de réutilisation au
+sens de l'article L. 324-5 sont les suivantes : 
+
+<table border="1">
+    <tbody>
+      <tr>
+        <th>
+
+CATÉGORIE D'INFORMATIONS 
+
+</th>
+        <th>
+
+INFORMATIONS CONCERNÉES 
+
+</th>
+        <th>
+
+ADMINISTRATION CONCERNÉE 
+
+</th>
+      </tr>
+      <tr>
+        <td align="left">
+
+Informations géographiques 
+
+</td>
+        <td align="left">
+
+Bases de données issues de capteurs aéroportés ou aérospatiaux : orthophotographies et ortho-images de résolution inférieure
+ou égale à 50 cm ; modèles de surfaces de résolution inférieure à 75 m. 
+
+</td>
+        <td align="left">
+
+Institut national de l'information géographique et forestière 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Informations géographiques 
+
+</td>
+        <td align="left">
+
+Bases de données issues de capteurs embarqués dans des véhicules terrestres : images ; modèles de surfaces. 
+
+</td>
+        <td align="left">
+
+Institut national de l'information géographique et forestière 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Informations géographiques 
+
+</td>
+        <td align="left">
+
+Bases de données géographiques de précision géométrique inférieure à 25 m. 
+
+</td>
+        <td align="left">
+
+Institut national de l'information géographique et forestière 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Informations géographiques 
+
+</td>
+        <td align="left">
+
+Cartes et fonds cartographiques aux échelles supérieures à 1 : 1 000 000. 
+
+</td>
+        <td align="left">
+
+Institut national de l'information géographique et forestière 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Informations géographiques 
+
+</td>
+        <td align="left">
+
+Bases de données du parcellaire cadastral. 
+
+</td>
+        <td align="left">
+
+Institut national de l'information géographique et forestière 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Informations géographiques 
+
+</td>
+        <td align="left">
+
+Bases de données d'adresses géolocalisées. 
+
+</td>
+        <td align="left">
+
+Institut national de l'information géographique et forestière 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Informations météorologiques 
+
+</td>
+        <td align="left">
+
+Données d'observation : 
+
+données d'observation des réseaux de stations météorologiques françaises codées sous format recommandé par l'organisation
+météorologique mondiale. 
+
+</td>
+        <td align="left">
+
+Météo-France 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Informations météorologiques 
+
+</td>
+        <td align="left">
+
+Imagerie radar : 
+
+images individuelles des radars installés en France ; mosaïques radar nationales et internationales (réflectivité, lame
+d'eau). 
+
+</td>
+        <td align="left">
+
+Météo-France 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Informations météorologiques 
+
+</td>
+        <td align="left">
+
+Données radar en coordonnées polaires : 
+
+données issues de radars français exprimées en coordonnées polaires (réflectivité, vitesse radiale). 
+
+</td>
+        <td align="left">
+
+Météo-France 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Informations météorologiques 
+
+</td>
+        <td align="left">
+
+Profils de vent : 
+
+profils verticaux de vent mesurés à partir de radars UHF, VHF ou de tout autre système. 
+
+</td>
+        <td align="left">
+
+Météo-France 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Informations météorologiques 
+
+</td>
+        <td align="left">
+
+Données climatologiques : 
+
+données traitées et archivées issues des données d'observation. 
+
+</td>
+        <td align="left">
+
+Météo-France 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Informations météorologiques 
+
+</td>
+        <td align="left">
+
+Produits climatologiques : 
+
+bilans, moyennes, normales, extrêmes, séries et paramètres élaborés, calculés pour une station ou une zone, à partir des
+données climatologiques. 
+
+</td>
+        <td align="left">
+
+Météo-France 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Informations météorologiques 
+
+</td>
+        <td align="left">
+
+Données spatialisées : 
+
+données interpolées par différents algorithmes de traitement des autres types de données. Ces données sont fournies en point
+de grille. 
+
+</td>
+        <td align="left">
+
+Météo-France 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Informations météorologiques 
+
+</td>
+        <td align="left">
+
+Modèles de prévision : 
+
+données de sorties des modèles de simulation numérique de l'atmosphère, de l'océan superficiel, du manteau neigeux ou des
+conditions de surface de Météo-France. 
+
+</td>
+        <td align="left">
+
+Météo-France 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Informations météorologiques 
+
+</td>
+        <td align="left">
+
+Données de prévision expertisée : 
+
+données de prévision issues de l'expertise des prévisionnistes de Météo-France. 
+
+</td>
+        <td align="left">
+
+Météo-France 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Informations relatives à l'environnement physique marin et à son évolution 
+
+</td>
+        <td align="left">
+
+Informations de bathymétrie : 
+
+semis de sondes ; modélisation surfacique de la bathymétrie. 
+
+</td>
+        <td align="left">
+
+Service hydrographique et océanographique de la marine 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Informations relatives à l'environnement physique marin et à son évolution 
+
+</td>
+        <td align="left">
+
+Informations concernant les marées et courants : 
+
+prédictions de marée ; observations et prévisions du niveau de la mer ; courants de marée. 
+
+</td>
+        <td align="left">
+
+Service hydrographique et océanographique de la marine 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Informations relatives à l'environnement physique marin et à son évolution 
+
+</td>
+        <td align="left">
+
+Informations de cartographie : 
+
+données numériques vectorielles des cartes marines ; images numériques géoréférencées des cartes marines. 
+
+</td>
+        <td align="left">
+
+Service hydrographique et océanographique de la marine 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Informations relatives à l'environnement physique marin et à son évolution 
+
+</td>
+        <td align="left">
+
+Autres informations maritimes et littorales : 
+
+délimitations maritimes ; natures de fonds ; épaves et obstructions ; câbles et conduites sous-marines ; toponymes marins. 
+
+</td>
+        <td align="left">
+
+Service hydrographique et océanographique de la marine 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Informations relatives à l'environnement physique marin et à son évolution 
+
+</td>
+        <td align="left">
+
+Informations nautiques et réglementaires. 
+
+</td>
+        <td align="left">
+
+Service hydrographique et océanographique de la marine 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Informations relatives à l'environnement physique marin et à son évolution 
+
+</td>
+        <td align="left">
+
+Informations d'océanographie : 
+
+données numériques d'observation ; modèles de prévision de l'océan. 
+
+</td>
+        <td align="left">
+
+Service hydrographique et océanographique de la marine 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Informations issues d'opérations de numérisation 
+
+</td>
+        <td align="left">
+
+Informations issues des opérations de numérisation des fonds et des collections des bibliothèques, y compris des
+bibliothèques universitaires, des musées et des archives et, le cas échéant, les informations qui y sont associées lorsque
+ces dernières sont commercialisées conjointement. 
+
+</td>
+        <td align="left">
+
+L'Etat et les établissements publics de l'Etat à caractère administratif</td>
+      </tr>
+    </tbody>
+  </table>
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1617 du 29 novembre 2016 - art. 1
+
+_Cite_:
+
+  - Code des relations entre le public et l'administration - art. L324-5
+
+
 ###### Article L324-1
 
 La réutilisation d'informations publiques est gratuite. Toutefois, les administrations mentionnées au premier alinéa de
@@ -7959,6 +8437,110 @@ _Cité par_:
   - Décret n°2016-1617 du 29 novembre 2016 (V)
   - Code des relations entre le public et l'adminis... - art. D324-5-1 (VD)
   - Code des relations entre le public et l'adminis... - art. R324-6 (T)
+
+
+###### Article L324-6
+
+La réutilisation des informations publiques produites par le service statistique public mentionné à l'article 1er de la loi
+n° 51-711 du 7 juin 1951 sur l'obligation, la coordination et le secret en matière de statistiques ne peut donner lieu au
+versement d'une redevance.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°51-711 du 7 juin 1951 - art. 1
+
+_Créé par_:
+
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 12 (V)
+
+
+###### Article R324-4-1
+
+Sont seuls autorisés à établir des redevances de réutilisation en application de l'article L. 324-1 les services de l'Etat et
+les autres personnes mentionnées à l'article L. 300-2 dont l'activité principale consiste en la collecte, la production, la
+mise à disposition ou la diffusion d'informations publiques, lorsque la couverture des coûts liés à cette activité principale
+est assurée à moins de 75 % par des recettes fiscales, des dotations ou des subventions.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1036 du 28 juillet 2016 - art. 1
+
+_Cité par_:
+
+  - Code des relations entre le public et l'adminis... - art. R552-10 (VT)
+  - Code des relations entre le public et l'adminis... - art. R562-10 (VD)
+  - Code des relations entre le public et l'adminis... - art. R574-3 (VD)
+
+_Cite_:
+
+  - Code des relations entre le public et l'administration - art. L300-2
+  - Code des relations entre le public et l'administration - art. L324-1
+
+
+###### Article R324-4-2
+
+Le montant total des coûts prévus au deuxième alinéa de l'article L. 324-1 est apprécié sur la base de la moyenne de ces
+coûts calculée sur les trois derniers exercices budgétaires ou comptables.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1036 du 28 juillet 2016 - art. 1
+
+_Cite_:
+
+  - Code des relations entre le public et l'administration - art. L324-1
+
+
+###### Article R324-4-3
+
+Le montant total des coûts prévus à l'article L. 324-2 est apprécié sur la base de la moyenne de ces coûts calculée sur les
+trois derniers exercices budgétaires ou comptables. Toutefois, les coûts liés aux opérations de numérisation et d'acquisition
+des droits de propriété intellectuelle peuvent être appréciés sur la base de la moyenne de ces coûts calculée au maximum sur
+les dix derniers exercices budgétaires ou comptables.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1036 du 28 juillet 2016 - art. 1
+
+_Cite_:
+
+  - Code des relations entre le public et l'administration - art. L324-2
+
+
+###### Article R324-4-4
+
+Les coûts liés à la mise à disposition du public ou à la diffusion des informations publiques mentionnés aux articles L.
+324-1 et L. 324-2 comprennent, le cas échéant, le coût des traitements permettant de rendre ces informations anonymes.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1036 du 28 juillet 2016 - art. 1
+
+_Cite_:
+
+  - Code des relations entre le public et l'administration - art. L324-1
+
+
+###### Article R324-4-5
+
+Les modalités de calcul des redevances de réutilisation sont publiées sous forme électronique conjointement sur le site
+internet de l'administration concernée et sur un site des services du Premier ministre.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1036 du 28 juillet 2016 - art. 1
 
 
 ###### Article R324-6-1
@@ -11273,8 +11855,8 @@ que les établissements publics, chargés par l'Etat et les communes d'une missi
         <td align="justify">
 
 </td>
-        <td align="justify">
-      </td></tr>
+        <td align="justify"> </td>
+      </tr>
       <tr>
         <td align="justify">
 L. 200-1 
@@ -11288,44 +11870,44 @@ L. 200-1
         <td align="justify">
 
 </td>
-        <td align="justify">
-      </td></tr>
+        <td align="justify"> </td>
+      </tr>
       <tr>
         <td align="justify">Titre Ier 
 
 </td>
-        <td align="left">
-      </td></tr>
+        <td align="left"> </td>
+      </tr>
       <tr>
         <td align="justify">
 L. 211-1 à L. 211-6 
 
 </td>
+        <td align="left">Résultant de l'ordonnance n° 2015-1341 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">L. 212-1 et L. 212-3
+
+</td>
         <td align="justify">Résultant de l'ordonnance n° 2015-1341 
 
 </td>
       </tr>
       <tr>
         <td align="justify">
-L. 212-1 à L. 212-3 
 
-</td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
-
-</td>
+L. 212-2 
+        </td>
+        <td align="justify">Résultant de la loi n° 2016-1918 du 29 décembre 2016 de finances rectificative pour 2016 </td>
       </tr>
-      <tr>
-        <td align="justify">
-
-</td>
-        <td align="justify">
-      </td></tr>
       <tr>
         <td align="justify">Titre II 
 
 </td>
-        <td align="left">
-      </td></tr>
+        <td align="left"> </td>
+      </tr>
       <tr>
         <td align="justify">
 L. 221-1 
@@ -11358,14 +11940,14 @@ L. 221-8
         <td align="justify">
 
 </td>
-        <td align="justify">
-      </td></tr>
+        <td align="justify"> </td>
+      </tr>
       <tr>
         <td align="justify">Titre III 
 
 </td>
-        <td align="left">
-      </td></tr>
+        <td align="left"> </td>
+      </tr>
       <tr>
         <td align="justify">
 L. 231-1 
@@ -11397,14 +11979,14 @@ L. 232-1 à L. 232-4
         <td align="justify">
 
 </td>
-        <td align="justify">
-      </td></tr>
+        <td align="justify"> </td>
+      </tr>
       <tr>
         <td align="justify">Titre IV 
 
 </td>
-        <td align="left">
-      </td></tr>
+        <td align="left"> </td>
+      </tr>
       <tr>
         <td align="justify">
 L. 240-1 et L. 240-2 
@@ -11449,28 +12031,27 @@ L. 243-1 à L. 243-4
 _Cite_:
 
   - ORDONNANCE n°2015-1341 du 23 octobre 2015
-  - Code des relations entre le public et l'adminis... - art. L200-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L211-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L212-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L221-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L221-2 (VD)
-  - Code des relations entre le public et l'adminis... - art. L221-7 (VD)
-  - Code des relations entre le public et l'adminis... - art. L221-8 (VD)
-  - Code des relations entre le public et l'adminis... - art. L231-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L231-4 (VD)
-  - Code des relations entre le public et l'adminis... - art. L232-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L240-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L241-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L242-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L243-1 (VD)
+  - Code des relations entre le public et l'administration - art. L200-1
+  - Code des relations entre le public et l'administration - art. L211-1
+  - Code des relations entre le public et l'administration - art. L221-1
+  - Code des relations entre le public et l'administration - art. L221-2
+  - Code des relations entre le public et l'administration - art. L221-7
+  - Code des relations entre le public et l'administration - art. L221-8
+  - Code des relations entre le public et l'administration - art. L231-1
+  - Code des relations entre le public et l'administration - art. L231-4
+  - Code des relations entre le public et l'administration - art. L232-1
+  - Code des relations entre le public et l'administration - art. L240-1
+  - Code des relations entre le public et l'administration - art. L241-1
+  - Code des relations entre le public et l'administration - art. L242-1
+  - Code des relations entre le public et l'administration - art. L243-1
 
 _Codifié par_:
 
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 90 (V)
 
 
 ##### Sous-section 3 : Dispositions applicables du livre III<a id=161></a>
@@ -11482,15 +12063,27 @@ française aux relations entre le public, d'une part, et les organismes et perso
 que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas
 échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. 
 
-<table width="720" align="center" border="1">
+<table align="center" border="1" width="720">
     <tbody>
       <tr>
-        <th>DISPOSITIONS APPLICABLES 
+        <td>
 
-</th>
-        <th>DANS LEUR RÉDACTION 
+DISPOSITIONS APPLICABLES 
 
-</th>
+</td>
+        <td>
+
+DANS LEUR RÉDACTION 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 324-5-1 
+
+</td>
+        <td align="left">Résultant du décret n° 2016-1617 </td>
       </tr>
       <tr>
         <td>
@@ -11500,7 +12093,7 @@ D. 341-10
 </td>
         <td>
 
-Résultant du décret n° 2016-308
+Résultant du décret n° 2016-308 
 
 </td>
       </tr>
@@ -11522,8 +12115,9 @@ Résultant du décret n° 2015-1342
 
 _Cite_:
 
-  - Décret n°2015-1342 du 23 octobre 2015
-  - Décret n°2016-308 du 17 mars 2016
+  - Décret n°2015-1342 du 23 octobre 2015 (V)
+  - Décret n°2016-308 du 17 mars 2016 (V)
+  - Décret n°2016-1617 du 29 novembre 2016 (V)
 
 _Codifié par_:
 
@@ -11531,7 +12125,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-308 du 17 mars 2016 - art. 5
+  - Décret n°2016-1617 du 29 novembre 2016 - art. 2
 
 
 ###### Article L552-8
@@ -11876,142 +12470,228 @@ _Modifié par_:
 Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Polynésie
 française aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres
 que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas
-échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.
+échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. 
 
-<table align="center" border="1">
-  <tbody>
-    <tr>
-      <td align="center">DISPOSITIONS APPLICABLES</td>
-      <td align="center">DANS LEUR RÉDACTION</td>
-    </tr>
-    <tr>
-      <td align="left">Titre Ier</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 311-10 et R. 311-11</td>
-      <td align="left">Résultant du décret n° 2015-1342</td>
-    </tr>
-    <tr>
-      <td align="left">R. 311-13</td>
-      <td align="left">Résultant du décret n° 2015-1342</td>
-    </tr>
-    <tr>
-      <td align="left">R. 312-3 à R. 312-7</td>
-      <td align="left">Résultant du décret n° 2015-1342</td>
-    </tr>
-    <tr>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">Titre II</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 322-3</td>
-      <td align="left">Résultant du décret n° 2016-308</td>
-    </tr>
-    <tr>
-      <td align="left">R. 322-7</td>
-      <td align="left">Résultant du décret n° 2016-308</td>
-    </tr>
-    <tr>
-      <td align="left">R. 323-3 et R. 323-4</td>
-      <td align="left">Résultant du décret n° 2016-308</td>
-    </tr>
-    <tr>
-      <td align="left">R. 323-6 et R. 323-7</td>
-      <td align="left">Résultant du décret n° 2016-308</td>
-    </tr>
-    <tr>
-      <td align="left">R. 324-6-1</td>
-      <td align="left">Résultant du décret n° 2016-1564</td>
-    </tr>
-    <tr>
-      <td align="left">R. 324-7</td>
-      <td align="left">Résultant du décret n° 2016-308</td>
-    </tr>
-    <tr>
-      <td align="left">R. 325-5</td>
-      <td align="left">Résultant du décret n° 2016-308</td>
-    </tr>
-    <tr>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">Titre III</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 330-2 à R. 330-4</td>
-      <td align="left">Résultant du décret n° 2015-1342</td>
-    </tr>
-    <tr>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">Titre IV</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 341-2-1</td>
-      <td align="left">Résultant du décret n° 2016-1564</td>
-    </tr>
-    <tr>
-      <td align="left">R. 341-3 à R. 341-5</td>
-      <td align="left">Résultant du décret n° 2015-1342</td>
-    </tr>
-    <tr>
-      <td align="left">R. 341-5-1</td>
-      <td align="left">Résultant du décret n° 2016-1564</td>
-    </tr>
-    <tr>
-      <td>R. 341-6</td>
-      <td>Résultant du décret n° 2015-1342</td>
-    </tr>
-    <tr>
-      <td align="left">R. 341-7</td>
-      <td align="left">Résultant du décret n° 2016-308</td>
-    </tr>
-    <tr>
-      <td align="left">R. 341-8</td>
-      <td align="left">Résultant du décret n° 2015-1342</td>
-    </tr>
-    <tr>
-      <td align="left">R. 341-9</td>
-      <td align="left">Résultant du décret n° 2016-308</td>
-    </tr>
-    <tr>
-      <td align="left">R. 341-16</td>
-      <td align="left">Résultant du décret n° 2016-1564</td>
-    </tr>
-    <tr>
-      <td>R. 341-17</td>
-      <td>Résultant du décret n° 2015-1342</td>
-    </tr>
-    <tr>
-      <td align="left">R. 342-4-1</td>
-      <td align="left">Résultant du décret n° 2016-1564</td>
-    </tr>
-    <tr>
-      <td>R. 342-5</td>
-      <td>Résultant du décret n° 2015-1342</td>
-    </tr>
-    <tr>
-      <td align="left">R. 343-1 à R. 343-3</td>
-      <td align="left">Résultant du décret n° 2015-1342</td>
-    </tr>
-    <tr>
-      <td align="left">R. 343-5 à R. 343-12</td>
-      <td align="left">Résultant du décret n° 2015-1342</td>
-    </tr>
-  </tbody>
-</table>
+<table width="720" border="1" align="center">
+    <tbody>
+      <tr>
+        <th>DISPOSITIONS APPLICABLES 
+
+</th>
+        <th>DANS LEUR RÉDACTION 
+
+</th>
+      </tr>
+      <tr>
+        <td align="left">Titre Ier 
+
+</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td>
+R. 311-10 et R. 311-11 
+
+</td>
+        <td>Résultant du décret n° 2015-1342 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+R. 311-13 
+
+</td>
+        <td>Résultant du décret n° 2015-1342 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+R. 312-3 à R. 312-7 
+
+</td>
+        <td>Résultant du décret n° 2015-1342 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+        </td><td>
+      </td></tr>
+      <tr>
+        <td>Titre II 
+
+</td>
+        <td>
+      </td></tr>
+      <tr>
+        <td>R. 322-3 </td>
+        <td>Résultant du décret n° 2016-308 
+</td>
+      </tr>
+      <tr>
+        <td>R. 322-7 
+
+</td>
+        <td>Résultant du décret n° 2016-308 
+
+</td>
+      </tr>
+      <tr>
+        <td>R. 323-3 et R. 323-4 </td>
+        <td>Résultant du décret n° 2016-308 
+
+</td>
+      </tr>
+      <tr>
+        <td>R. 323-6 et R. 323-7 </td>
+        <td>Résultant du décret n° 2016-308 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+R. 324-4-1 à R. 324-4-5
+</td>
+        <td>Résultant du décret n° 2016-1036 
+
+</td>
+      </tr>
+      <tr>
+        <td>R. 324-6-1 </td>
+        <td>Résultant du décret n° 2016-1564 du 21 novembre 2016 </td>
+      </tr>
+      <tr>
+        <td>R. 324-7</td>
+        <td>
+
+Résultant du décret n° 2016-308
+
+</td>
+      </tr>
+      <tr>
+        <td>R. 325-5 </td>
+        <td>Résultant du décret n° 2016-308 </td>
+      </tr>
+      <tr>
+        <td>
+        </td><td>
+      </td></tr>
+      <tr>
+        <td align="left">Titre III 
+
+</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td>
+R. 330-2 à R. 330-4 
+
+</td>
+        <td>Résultant du décret n° 2015-1342 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+        </td><td>
+      </td></tr>
+      <tr>
+        <td align="left">Titre IV 
+
+</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td>R. 341-2-1 </td>
+        <td>Résultant du décret n° 2016-1564 du 21 novembre 2016 </td>
+      </tr>
+      <tr>
+        <td>R. 341-3 à R. 341-5</td>
+        <td>Résultant du décret n° 2015-1342</td>
+      </tr>
+      <tr>
+        <td>R. 341-5-1</td>
+        <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
+      </tr>
+      <tr>
+        <td>R. 341-6 </td>
+        <td>résultant du décret n° 2015-1342</td>
+      </tr>
+      <tr>
+        <td>R. 341-7 
+
+</td>
+        <td>Résultant du décret n° 2016-308 </td>
+      </tr>
+      <tr>
+        <td>R. 341-8 </td>
+        <td>Résultant du décret n° 2015-1342 </td>
+      </tr>
+      <tr>
+        <td>R. 341-9 </td>
+        <td>Résultant du décret n° 2016-308 
+
+</td>
+      </tr>
+      <tr>
+        <td>R. 341-16</td>
+        <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
+      </tr>
+      <tr>
+        <td>R. 341-17</td>
+        <td>Résultant du décret n° 2015-1342</td>
+      </tr>
+      <tr>
+        <td>R. 342-4-1</td>
+        <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
+      </tr>
+      <tr>
+        <td>R. 342-5 
+
+</td>
+        <td>Résultant du décret n° 2015-1342 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+R. 343-1 à R. 343-3 
+
+</td>
+        <td>Résultant du décret n° 2015-1342 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+R. 343-5 à R. 343-12 
+
+</td>
+        <td>Résultant du décret n° 2015-1342
+
+</td>
+      </tr>
+    </tbody>
+  </table>
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2015-1342 du 23 octobre 2015
+  - Décret n°2016-308 du 17 mars 2016
+  - Code des relations entre le public et l'administration - art. R311-10
+  - Code des relations entre le public et l'administration - art. R311-13
+  - Code des relations entre le public et l'administration - art. R312-3
+  - Code des relations entre le public et l'administration - art. R324-4-1
+  - Code des relations entre le public et l'administration - art. R330-2
+  - Code des relations entre le public et l'administration - art. R341-16
+  - Code des relations entre le public et l'administration - art. R341-2
+  - Code des relations entre le public et l'administration - art. R342-4
+  - Code des relations entre le public et l'administration - art. R343-1
+  - Code des relations entre le public et l'administration - art. R343-5
 
 _Codifié par_:
 
@@ -12019,6 +12699,7 @@ _Codifié par_:
 
 _Modifié par_:
 
+  - Décret n°2016-1036 du 28 juillet 2016 - art. 2
   - Décret n°2016-1564 du 21 novembre 2016 - art. 5
 
 
@@ -12795,201 +13476,208 @@ aux relations entre le public, d'une part, et les organismes et personnes de dro
 industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. 
 
 <table border="1">
-      <tbody><tr>
-        <th>
+    <tbody>
+      <tr>
+        <th>Dispositions applicables 
 
-Dispositions applicables </th>
-        <th>
+</th>
+        <th>Dans leur rédaction 
 
-Dans leur rédaction </th>
+</th>
       </tr>
       <tr>
         <th>
-        </th><th>
-      </th></tr>
+
+</th>
+        <th>
+
+</th>
+      </tr>
       <tr>
         <td align="justify">
-
 L. 200-1 
-</td>
-        <td align="justify">
 
-Résultant de l'ordonnance n° 2015-1341 
+</td>
+        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+
 </td>
       </tr>
       <tr>
-        <td align="justify">
-        </td><td align="justify">
-      </td></tr>
+        <td align="justify"> </td>
+        <td align="justify"> </td>
+      </tr>
       <tr>
-        <td align="left">
+        <td align="left">Titre Ier : 
 
-Titre Ier : </td>
-        <td align="left">
-      </td></tr>
+</td>
+        <td align="left"> </td>
+      </tr>
       <tr>
         <td align="justify">
-
 L. 211-1 à L. 211-6 
-</td>
-        <td align="justify">
 
-Résultant de l'ordonnance n° 2015-1341 </td>
+</td>
+        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">L. 212-1 et L. 212-3</td>
+        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">L. 212-2 </td>
+        <td align="left">Résultant de la loi n° 2016-1918 du 29 décembre 2016 de finances rectificative pour 2016 </td>
+      </tr>
+      <tr>
+        <td align="left">Titre II 
+
+</td>
+        <td align="left"> </td>
       </tr>
       <tr>
         <td align="justify">
-
-L. 212-1 à L. 212-3 
-</td>
-        <td align="justify">
-
-Résultant de l'ordonnance n° 2015-1341 </td>
-      </tr>
-      <tr>
-        <td align="left">
-
-Titre II </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
 L. 221-1 
-</td>
-        <td align="justify">
 
-Résultant de l'ordonnance n° 2015-1341 </td>
+</td>
+        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+
+</td>
       </tr>
       <tr>
         <td align="justify">
-
 L. 221-2, L. 221-3 et L. 221-7, en tant qu'elles concernent les décisions qui ne sont ni réglementaires ni individuelles et
-qui ne sont pas publiées au Journal officiel de la République française </td>
-        <td align="justify">
+qui ne sont pas publiées au Journal officiel de la République française 
 
-Résultant de l'ordonnance n° 2015-1341 </td>
+</td>
+        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+
+</td>
       </tr>
       <tr>
         <td align="justify">
-
 L. 221-8 
-</td>
-        <td align="justify">
 
-Résultant de l'ordonnance n° 2015-1341 </td>
+</td>
+        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify"> </td>
+        <td align="justify"> </td>
+      </tr>
+      <tr>
+        <td align="left">Titre III : 
+
+</td>
+        <td align="left"> </td>
       </tr>
       <tr>
         <td align="justify">
-        </td><td align="justify">
-      </td></tr>
-      <tr>
-        <td align="left">
-
-Titre III : </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
 L. 231-1 
-</td>
-        <td align="justify">
 
-Résultant de l'ordonnance n° 2015-1341 </td>
+</td>
+        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+
+</td>
       </tr>
       <tr>
         <td align="justify">
-
 L. 231-4 à L. 231-6 
-</td>
-        <td align="justify">
 
-Résultant de l'ordonnance n° 2015-1341 </td>
+</td>
+        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+
+</td>
       </tr>
       <tr>
         <td align="justify">
-
 L. 232-1 à L. 232-4 
-</td>
-        <td align="justify">
 
-Résultant de l'ordonnance n° 2015-1341 </td>
+</td>
+        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify"> </td>
+        <td align="justify"> </td>
+      </tr>
+      <tr>
+        <td align="left">Titre IV 
+
+</td>
+        <td align="left"> </td>
       </tr>
       <tr>
         <td align="justify">
-        </td><td align="justify">
-      </td></tr>
-      <tr>
-        <td align="left">
-
-Titre IV </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
 L. 240-1 et L. 240-2 
-</td>
-        <td align="justify">
 
-Résultant de l'ordonnance n° 2015-1341 </td>
+</td>
+        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+
+</td>
       </tr>
       <tr>
         <td align="justify">
-
 L. 241-1 et L. 241-2 
-</td>
-        <td align="justify">
 
-Résultant de l'ordonnance n° 2015-1341 </td>
+</td>
+        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+
+</td>
       </tr>
       <tr>
         <td align="justify">
-
 L. 242-1 à L. 242-5 
-</td>
-        <td align="justify">
 
-Résultant de l'ordonnance n° 2015-1341 </td>
+</td>
+        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+
+</td>
       </tr>
       <tr>
         <td align="justify">
-
 L. 243-1 à L. 243-4
-</td>
-        <td align="justify">
 
-Résultant de l'ordonnance n° 2015-1341</td>
+</td>
+        <td align="justify">Résultant de l'ordonnance n° 2015-1341
+
+</td>
       </tr>
-    </tbody></table>
+    </tbody>
+  </table>
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - ORDONNANCE n°2015-1341 du 23 octobre 2015
-  - Code des relations entre le public et l'adminis... - art. L200-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L211-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L212-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L221-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L221-2 (VD)
-  - Code des relations entre le public et l'adminis... - art. L221-7 (VD)
-  - Code des relations entre le public et l'adminis... - art. L221-8 (VD)
-  - Code des relations entre le public et l'adminis... - art. L231-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L231-4 (VD)
-  - Code des relations entre le public et l'adminis... - art. L232-4 (VD)
-  - Code des relations entre le public et l'adminis... - art. L240-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L241-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L242-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L243-1 (VD)
+  - Code des relations entre le public et l'administration - art. L200-1
+  - Code des relations entre le public et l'administration - art. L211-1
+  - Code des relations entre le public et l'administration - art. L212-1
+  - Code des relations entre le public et l'administration - art. L221-1
+  - Code des relations entre le public et l'administration - art. L221-2
+  - Code des relations entre le public et l'administration - art. L221-7
+  - Code des relations entre le public et l'administration - art. L221-8
+  - Code des relations entre le public et l'administration - art. L231-1
+  - Code des relations entre le public et l'administration - art. L231-4
+  - Code des relations entre le public et l'administration - art. L232-4
+  - Code des relations entre le public et l'administration - art. L240-1
+  - Code des relations entre le public et l'administration - art. L241-1
+  - Code des relations entre le public et l'administration - art. L242-1
+  - Code des relations entre le public et l'administration - art. L243-1
 
 _Codifié par_:
 
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 90 (V)
 
 
 ##### Sous-section 3 : Dispositions applicables du livre III<a id=174></a>
@@ -13010,6 +13698,10 @@ que les établissements publics, chargés par l'Etat et les communes d'une missi
         <th>DANS LEUR RÉDACTION 
 
 </th>
+      </tr>
+      <tr>
+        <td align="left">D. 324-5-1</td>
+        <td align="left">Résultant du décret n° 2016-1617</td>
       </tr>
       <tr>
         <td align="justify">
@@ -13050,7 +13742,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-308 du 17 mars 2016 - art. 5
+  - Décret n°2016-1617 du 29 novembre 2016 - art. 2
 
 
 ###### Article L562-8
@@ -13452,7 +14144,7 @@ R. 312-3 à R. 312-7
       </td></tr>
       <tr>
         <td>R. 322-3 </td>
-        <td>Résultant du décret n° 2016-308
+        <td>Résultant du décret n° 2016-308 
 </td>
       </tr>
       <tr>
@@ -13474,16 +14166,20 @@ R. 312-3 à R. 312-7
 </td>
       </tr>
       <tr>
-        <td>R. 324-6-1 </td>
-        <td>Résultant du décret n° 2016-1564 
+        <td>
+R. 324-4-1 à R. 324-4-5
+</td>
+        <td>Résultant du décret n° 2016-1036 
 
 </td>
       </tr>
       <tr>
+        <td>R. 324-6-1</td>
+        <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
+      </tr>
+      <tr>
         <td>R. 324-7 </td>
-        <td>Résultant du décret n° 2016-308 
-
-</td>
+        <td>Résultant du décret n° 2016-308</td>
       </tr>
       <tr>
         <td>R. 325-5 </td>
@@ -13522,32 +14218,18 @@ R. 330-2 à R. 330-4
       </td></tr>
       <tr>
         <td>R. 341-2-1</td>
-        <td>Résultant du décret n° 2016-1564 
-
-</td>
+        <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
       </tr>
       <tr>
-        <td>
-
-R. 341-3 à R. 341-5
-
-</td>
-        <td valign="middle" align="left">Résultant du décret n° 2015-1342  </td>
+        <td>R. 341-3 à R. 341-5</td>
+        <td>Résultant du décret n° 2015-1342</td>
       </tr>
       <tr>
-        <td>
-
-R. 341-5-1
-
-</td>
-        <td>Résultant du décret n° 2016-1564  </td>
+        <td>R. 341-5-1 </td>
+        <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
       </tr>
       <tr>
-        <td>
-
-R. 341-6 
-
-</td>
+        <td>R. 341-6 </td>
         <td>Résultant du décret n° 2015-1342 </td>
       </tr>
       <tr>
@@ -13571,56 +14253,32 @@ R. 341-6
 </td>
       </tr>
       <tr>
-        <td>
-
-R. 341-16 
-
-</td>
-        <td>Résultant du décret n° 2016-1564 
-
-</td>
+        <td>R. 341-16</td>
+        <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
       </tr>
       <tr>
-        <td>
-
-R. 341-17 
-
-</td>
-        <td>Résultant du décret n° 2015-1342  </td>
+        <td>R. 341-17</td>
+        <td>Résultant du décret n° 2015-1342</td>
       </tr>
       <tr>
         <td>R. 342-4-1</td>
-        <td>
-
-Résultant du décret n° 2016-1564
-
-</td>
+        <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
       </tr>
       <tr>
         <td>R. 342-5</td>
-        <td>
-
-Résultant du décret n° 2015-1342 
-
-</td>
+        <td>Résultant du décret n° 2015-1342</td>
       </tr>
       <tr>
         <td>
 R. 343-1 à R. 343-3 
-
 </td>
-        <td>Résultant du décret n° 2015-1342 
-
-</td>
+        <td>Résultant du décret n° 2015-1342</td>
       </tr>
       <tr>
         <td>
 R. 343-5 à R. 343-12 
-
 </td>
-        <td>Résultant du décret n° 2015-1342
-
-</td>
+        <td>Résultant du décret n° 2015-1342</td>
       </tr>
     </tbody>
   </table>
@@ -13634,6 +14292,7 @@ _Cite_:
   - Code des relations entre le public et l'administration - art. R311-10
   - Code des relations entre le public et l'administration - art. R311-13
   - Code des relations entre le public et l'administration - art. R312-3
+  - Code des relations entre le public et l'administration - art. R324-4-1
   - Code des relations entre le public et l'administration - art. R330-2
   - Code des relations entre le public et l'administration - art. R341-16
   - Code des relations entre le public et l'administration - art. R341-2
@@ -13647,6 +14306,7 @@ _Codifié par_:
 
 _Modifié par_:
 
+  - Décret n°2016-1036 du 28 juillet 2016 - art. 2
   - Décret n°2016-1564 du 21 novembre 2016 - art. 5
 
 
@@ -14849,6 +15509,10 @@ commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droi
 </th>
       </tr>
       <tr>
+        <td align="left">D. 324-5-1</td>
+        <td align="left">Résultant du décret n° 2016-1617</td>
+      </tr>
+      <tr>
         <td align="justify">
 
 D. 341-10 
@@ -14887,7 +15551,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-308 du 17 mars 2016 - art. 5
+  - Décret n°2016-1617 du 29 novembre 2016 - art. 2
 
 
 ###### Article L574-1
@@ -15290,7 +15954,7 @@ R. 312-3 à R. 312-9
         <td>R. 322-3 
 
 </td>
-        <td>Résultant du décret n° 2016-308
+        <td>Résultant du décret n° 2016-308 
 </td>
       </tr>
       <tr>
@@ -15312,26 +15976,24 @@ R. 312-3 à R. 312-9
 </td>
       </tr>
       <tr>
+        <td>
+R. 324-4-1 à R. 324-4-5
+</td>
+        <td>Résultant du décret n° 2016-1036 
+
+</td>
+      </tr>
+      <tr>
         <td>R. 324-6-1</td>
-        <td>Résultant du décret n° 2016-1564 
-
-</td>
+        <td>résultant du décret n° 2016-1564 du 21 novembre 2016 </td>
       </tr>
       <tr>
-        <td>
-
-R. 324-7 
-
-</td>
-        <td>Résultant du décret n° 2016-308 </td>
+        <td>R. 324-7 </td>
+        <td>Résultant du décret n° 2016-308</td>
       </tr>
       <tr>
-        <td>R. 325-5</td>
-        <td>
-
-Résultant du décret n° 2016-308 
-
-</td>
+        <td>R. 325-5 </td>
+        <td>Résultant du décret n° 2016-308</td>
       </tr>
       <tr>
         <td>
@@ -15363,34 +16025,20 @@ R. 330-2 à R. 330-4
         <td align="left">
       </td></tr>
       <tr>
-        <td>
-
-R. 341-2-1
-
-</td>
-        <td>Résultant du décret n° 2016-1564 
-
-</td>
+        <td>R. 341-2-1 </td>
+        <td>Résultant du décret n° 2016-1564 du 21 novembre 2016 </td>
       </tr>
       <tr>
-        <td>R. 341-3 à R. 341-5 </td>
-        <td>Résultant du décret n° 2015-1342 
-
-</td>
+        <td>R. 341-3 à R. 341-5</td>
+        <td>Résultant du décret n° 2015-1342</td>
       </tr>
       <tr>
-        <td>
-
-R. 341-5-1
-
-</td>
-        <td>Résultant du décret n° 2016-1564 </td>
+        <td>R. 341-5-1</td>
+        <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
       </tr>
       <tr>
-        <td>R. 341-6 </td>
-        <td>Résultant du décret n° 2015-1342 
-
-</td>
+        <td>R. 341-6</td>
+        <td>Résultant du décret n° 2015-1342</td>
       </tr>
       <tr>
         <td>R. 341-7 </td>
@@ -15414,29 +16062,19 @@ R. 341-5-1
       </tr>
       <tr>
         <td>R. 341-16</td>
-        <td>Résultant du décret n° 2016-1564 
-
-</td>
+        <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
       </tr>
       <tr>
-        <td>
-
-R. 341-17 
-
-</td>
-        <td>Résultant du décret n° 2015-1342  </td>
+        <td>R. 341-17</td>
+        <td>Résultant du décret n° 2015-1342</td>
       </tr>
       <tr>
         <td>R. 342-4-1</td>
-        <td>Résultant du décret n° 2016-1564 
-
-</td>
+        <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
       </tr>
       <tr>
         <td>R. 342-5 </td>
-        <td>Résultant du décret n° 2015-1342 
-
-</td>
+        <td>Résultant du décret n° 2015-1342</td>
       </tr>
       <tr>
         <td>
@@ -15468,6 +16106,7 @@ _Cite_:
   - Code des relations entre le public et l'administration - art. R311-10
   - Code des relations entre le public et l'administration - art. R311-13
   - Code des relations entre le public et l'administration - art. R312-3
+  - Code des relations entre le public et l'administration - art. R324-4-1
   - Code des relations entre le public et l'administration - art. R330-2
   - Code des relations entre le public et l'administration - art. R341-16
   - Code des relations entre le public et l'administration - art. R341-2
@@ -15481,10 +16120,35 @@ _Codifié par_:
 
 _Modifié par_:
 
+  - Décret n°2016-1036 du 28 juillet 2016 - art. 2
   - Décret n°2016-1564 du 21 novembre 2016 - art. 5
 
 
 #### Section 2 : Dispositions relatives à la collectivité de Wallis-et-Futuna et aux organismes placés sous son contrôle<a id=187></a>
+
+###### Article D574-5-3
+
+Les  dispositions du livre III mentionnées dans la colonne de gauche du  tableau ci-après sont applicables aux relations
+entre le public, d'une  part, et la collectivité de Wallis-et-Futuna, ses établissements publics  et les autres organismes et
+personnes de droit public et de droit privé  chargés par cette collectivité d'une mission de service public  administratif
+et, le cas échéant, industriel et commercial, d'autre  part, dans leur rédaction indiquée dans la colonne de droite du même
+tableau. 
+
+<pre>
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ DISPOSITIONS APPLICABLES ┃ DANS LEUR RÉDACTION              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ D. 324-5-1               ┃ Résultant du décret n° 2016-1617 ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+</pre>
+
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1617 du 29 novembre 2016 - art. 2
+
 
 ###### Article L574-5
 
@@ -15615,7 +16279,7 @@ R. 322-3
 </td>
         <td>
 
-Résultant du décret n° 2016-308 
+Résultant du décret n° 2016-308
 
 </td>
       </tr>
@@ -15656,16 +16320,16 @@ Résultant du décret n° 2016-308
 </td>
       </tr>
       <tr>
+        <td>R. 324-4-1 à R. 324-4-5 </td>
         <td>
 
-R. 324-6-1 
+Résultant du décret n° 2016-1036 
 
 </td>
-        <td>
-
-Résultant du décret n° 2016-1564
-
-</td>
+      </tr>
+      <tr>
+        <td>R. 324-6-1</td>
+        <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
       </tr>
       <tr>
         <td>
@@ -15673,7 +16337,11 @@ Résultant du décret n° 2016-1564
 R. 324-7 
 
 </td>
-        <td>Résultant du décret n° 2016-308 </td>
+        <td>
+
+Résultant du décret n° 2016-308 
+
+</td>
       </tr>
       <tr>
         <td>
@@ -15690,8 +16358,13 @@ Résultant du décret n° 2016-308 </td>
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Décret n°2016-308 du 17 mars 2016
+
 _Modifié par_:
 
+  - Décret n°2016-1036 du 28 juillet 2016 - art. 2
   - Décret n°2016-1564 du 21 novembre 2016 - art. 5
 
 
