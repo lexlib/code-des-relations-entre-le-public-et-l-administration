@@ -1,5 +1,5 @@
 # Code des relations entre le public et l'administration  
-Version Consolidée au 2017-03-02
+Version Consolidée au 2017-03-22
 ## Contenu: 
   - [Dispositions préliminaires (art. L100-1 à L100-3)](#1)
   - [Livre Ier : LES ÉCHANGES AVEC L'ADMINISTRATION (art. L110-1 à L135-2)](#2)
@@ -99,7 +99,7 @@ Version Consolidée au 2017-03-02
   - [Livre III : L'ACCÈS AUX DOCUMENTS ADMINISTRATIFS ET LA RÉUTILISATION DES INFORMATIONS PUBLIQUES (art. L300-1 à R343-12)](#96)
     - [Titre Ier : LE DROIT D'ACCÈS AUX DOCUMENTS ADMINISTRATIFS (art. L311-1 à R312-9)](#97)
       - [Chapitre Ier : Communication des documents administratifs (art. L311-1 à R311-15)](#98)
-        - [Section 1 : Etendue du droit à communication (art. L311-1 à L311-8)](#99)
+        - [Section 1 : Etendue du droit à communication (art. L311-1 à R311-8-2)](#99)
         - [Section 2 : Modalités du droit à communication (art. L311-9 à R311-15)](#100)
       - [Chapitre II : Diffusion des documents administratifs (art. D312-1-1-1 à R312-9)](#101)
         - [Section 1 : Règles générales (art. D312-1-1-1 à L312-1-3)](#102)
@@ -154,7 +154,7 @@ Version Consolidée au 2017-03-02
       - [Chapitre II : Dispositions spécifiques relatives au livre Ier (art. R542-1)](#151)
       - [Chapitre III : Dispositions spécifiques relatives au livre II (art. L543-1 à R543-2)](#152)
       - [Chapitre IV : Dispositions spécifiques relatives au livre III (art. L544-1 à R544-4)](#153)
-    - [Titre V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE (art. L551-1 à L553-3)](#154)
+    - [Titre V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE (art. L551-1 à R553-4)](#154)
       - [Chapitre Ier : Dispositions générales (art. L551-1)](#155)
       - [Chapitre II : Dispositions applicables à l'Etat, aux communes et à leurs établissements publics et autres organismes et personnes placés sous leur contrôle (art. L552-1 à R552-18)](#156)
         - [Section 1 : Dispositions applicables à l'Etat, aux communes et à leurs établissements publics (art. L552-1 à L552-2)](#157)
@@ -166,8 +166,8 @@ Version Consolidée au 2017-03-02
         - [Section 3 : Dispositions d'adaptation (art. L552-13 à R552-18)](#163)
           - [Sous-section 1 : Dispositions d'adaptation du livre Ier (art. L552-13 à R552-14)](#164)
           - [Sous-section 2 : Dispositions d'adaptation du livre III (art. L552-15 à R552-18)](#165)
-      - [Chapitre III : Dispositions applicables à la Polynésie française et aux organismes et personnes placées sous son contrôle (art. L553-1 à L553-3)](#166)
-    - [Titre VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE (art. L561-1 à L563-3)](#167)
+      - [Chapitre III : Dispositions applicables à la Polynésie française et aux organismes et personnes placées sous son contrôle (art. L553-1 à R553-4)](#166)
+    - [Titre VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE (art. L561-1 à R563-4)](#167)
       - [Chapitre Ier : Dispositions générales (art. L561-1)](#168)
       - [Chapitre II : Dispositions applicables à l'Etat, aux communes et à leurs établissements publics et aux autres organismes et personnes placés sous leur contrôle (art. L562-1 à R562-19)](#169)
         - [Section 1 : Dispositions applicables à l'Etat, aux communes et à leurs établissements publics (art. L562-1 à L562-2)](#170)
@@ -180,7 +180,7 @@ Version Consolidée au 2017-03-02
           - [Sous-section 1 : Dispositions d'adaptation du livre Ier (art. L562-13 à R562-14)](#177)
           - [Sous-section 2 : Dispositions d'adaptation du livre II (art. L562-15)](#178)
           - [Sous-section 3 : Dispositions d'adaptation du livre III (art. L562-16 à R562-19)](#179)
-      - [Chapitre III : Dispositions applicables à la Nouvelle-Calédonie, à ses provinces et aux organismes et personnes placés sous leur contrôle (art. L563-1 à L563-3)](#180)
+      - [Chapitre III : Dispositions applicables à la Nouvelle-Calédonie, à ses provinces et aux organismes et personnes placés sous leur contrôle (art. L563-1 à R563-4)](#180)
     - [Titre VII : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA (art. L571-1 à L575-1)](#181)
       - [Chapitre Ier : Dispositions générales (art. L571-1)](#182)
       - [Chapitre II : Dispositions spécifiques relatives au livre Ier (art. D572-4 à R572-6)](#183)
@@ -6816,6 +6816,69 @@ _Cite_:
   - Code du patrimoine - art. L213-3 (V)
 
 
+###### Article R311-8-1
+
+Sous réserve des dispositions particulières à certaines données, le comité du secret statistique est saisi en application du
+deuxième alinéa de l'article L. 311-8 soit par l'administration détenant une base de données, soit par l'administration des
+archives. L'administration qui sollicite l'avis du comité transmet à son secrétariat l'ensemble des éléments relatifs à la
+demande d'accès à la base de données présentée en application du I de l'article L. 213-3 du code du patrimoine.
+
+La demande d'accès est formulée par écrit et comporte :
+
+1° Le nom de la personne ayant soumis la demande d'accès et, le cas échéant, celui de l'organisme auquel elle est rattachée ;
+
+2° La nature des informations auxquelles elle souhaite avoir accès et l'identification de la base de données concernée ;
+
+3° La description des travaux à des fins de recherche ou d'étude présentant un caractère d'intérêt public envisagés ;
+
+4° La durée d'accès souhaitée ;
+
+5° L'engagement écrit du demandeur de respecter la confidentialité des informations communiquées en application du deuxième
+alinéa de l'article L. 311-8, sous peine des sanctions prévues par la loi, notamment celles de l'article 226-13 du code
+pénal.
+
+Le comité du secret statistique peut compléter et préciser la liste des informations à fournir par le demandeur.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2009-318 du 20 mars 2009 - art. 17 (V)
+
+_Créé par_:
+
+  - Décret n°2017-349 du 20 mars 2017 - art. 1
+
+_Cite_:
+
+  - Code pénal - art. 226-13
+  - Code du patrimoine - art. L213-3
+  - Code des relations entre le public et l'administration - art. L311-8
+
+
+###### Article R311-8-2
+
+Lorsque le comité du secret statistique le recommande, l'accès aux données mentionnées au deuxième alinéa de l'article L.
+311-8 s'effectue au moyen d'un dispositif d'accès sécurisé aux données, à distance ou sur place. Ce dispositif doit présenter
+toutes les garanties appropriées, compte tenu notamment de la nature des données et des risques présentés par le traitement,
+afin de préserver la sécurité des données et, notamment, d'empêcher que des tiers non autorisés y aient accès et que les
+données originales soient déformées ou endommagées.
+
+A cette fin, le comité précise les mesures de nature à assurer l'intégrité et la disponibilité des données et du dispositif
+d'accès, la confidentialité des données et des éléments critiques du dispositif d'accès, l'authentification du demandeur et
+la traçabilité des accès et des traitements réalisés sur le dispositif d'accès et sur les données.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-349 du 20 mars 2017 - art. 1
+
+_Cite_:
+
+  - Code des relations entre le public et l'administration - art. L311-8
+
+
 #### Section 2 : Modalités du droit à communication<a id=100></a>
 
 ###### Article L311-9
@@ -12549,211 +12612,169 @@ _Modifié par_:
 Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Polynésie
 française aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres
 que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas
-échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. 
+échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.
 
-<table align="center" border="1" width="720">
-    <tbody>
-      <tr>
-        <th>DISPOSITIONS APPLICABLES 
-
-</th>
-        <th>DANS LEUR RÉDACTION 
-
-</th>
-      </tr>
-      <tr>
-        <td align="left">Titre Ier 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td>
+<table align="center" border="1">
+  <tbody>
+    <tr>
+      <th>DISPOSITIONS APPLICABLES</th>
+      <th>DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="left">Titre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>R. 311-8-1 et R. 311-8-2</td>
+      <td>Résultant du décret n° 2017-349 du 20 mars 2017 relatif à la procédure d'accès sécurisé aux bases de données
+publiques</td>
+    </tr>
+    <tr>
+      <td>
 R. 311-10 et R. 311-11 
-
 </td>
-        <td>Résultant du décret n° 2015-1342 
-
+      <td>Résultant du décret n° 2015-1342 
 </td>
-      </tr>
-      <tr>
-        <td>
+    </tr>
+    <tr>
+      <td>
 R. 311-13 
-
 </td>
-        <td>Résultant du décret n° 2015-1342 
-
-</td>
-      </tr>
-      <tr>
-        <td>
+      <td>Résultant du décret n° 2015-1342</td>
+    </tr>
+    <tr>
+      <td>
 R. 312-3 à R. 312-7 
-
 </td>
-        <td>Résultant du décret n° 2015-1342 
-
+      <td>Résultant du décret n° 2015-1342</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>Titre II</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>R. 322-3</td>
+      <td>Résultant du décret n° 2016-308 
 </td>
-      </tr>
-      <tr>
-        <td>
-        </td><td>
-      </td></tr>
-      <tr>
-        <td>Titre II 
-
-</td>
-        <td>
-      </td></tr>
-      <tr>
-        <td>R. 322-3 </td>
-        <td>Résultant du décret n° 2016-308 
-</td>
-      </tr>
-      <tr>
-        <td>R. 322-7 
-
-</td>
-        <td>Résultant du décret n° 2016-308 
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 323-3 et R. 323-4 </td>
-        <td>Résultant du décret n° 2016-308 
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 323-6 et R. 323-7 </td>
-        <td>Résultant du décret n° 2016-308 
-
-</td>
-      </tr>
-      <tr>
-        <td>
+    </tr>
+    <tr>
+      <td>R. 322-7</td>
+      <td>Résultant du décret n° 2016-308</td>
+    </tr>
+    <tr>
+      <td>R. 323-3 et R. 323-4</td>
+      <td>Résultant du décret n° 2016-308</td>
+    </tr>
+    <tr>
+      <td>R. 323-6 et R. 323-7</td>
+      <td>Résultant du décret n° 2016-308</td>
+    </tr>
+    <tr>
+      <td>
 R. 324-4-1 à R. 324-4-5
 </td>
-        <td>Résultant du décret n° 2016-1036 
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 324-6-1 </td>
-        <td>Résultant du décret n° 2016-1564 du 21 novembre 2016 </td>
-      </tr>
-      <tr>
-        <td>R. 324-7</td>
-        <td>
+      <td>Résultant du décret n° 2016-1036</td>
+    </tr>
+    <tr>
+      <td>R. 324-6-1</td>
+      <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
+    </tr>
+    <tr>
+      <td>R. 324-7</td>
+      <td>
 
 Résultant du décret n° 2016-308
 
 </td>
-      </tr>
-      <tr>
-        <td>R. 325-5 </td>
-        <td>Résultant du décret n° 2016-308 </td>
-      </tr>
-      <tr>
-        <td>
-        </td><td>
-      </td></tr>
-      <tr>
-        <td align="left">Titre III 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td>
+    </tr>
+    <tr>
+      <td>R. 325-5</td>
+      <td>Résultant du décret n° 2016-308</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="left">Titre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
 R. 330-2 à R. 330-4 
-
 </td>
-        <td>Résultant du décret n° 2015-1342 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-        </td><td>
-      </td></tr>
-      <tr>
-        <td align="left">Titre IV 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td>R. 341-2-1 </td>
-        <td>Résultant du décret n° 2016-1564 du 21 novembre 2016 </td>
-      </tr>
-      <tr>
-        <td>R. 341-3 à R. 341-5</td>
-        <td>Résultant du décret n° 2015-1342</td>
-      </tr>
-      <tr>
-        <td>R. 341-5-1</td>
-        <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
-      </tr>
-      <tr>
-        <td>R. 341-6 </td>
-        <td>résultant du décret n° 2015-1342</td>
-      </tr>
-      <tr>
-        <td>R. 341-7 
-
-</td>
-        <td>Résultant du décret n° 2016-308 </td>
-      </tr>
-      <tr>
-        <td>R. 341-8 </td>
-        <td>Résultant du décret n° 2015-1342 </td>
-      </tr>
-      <tr>
-        <td>R. 341-9 </td>
-        <td>Résultant du décret n° 2016-308 
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 341-16</td>
-        <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
-      </tr>
-      <tr>
-        <td>R. 341-17</td>
-        <td>Résultant du décret n° 2015-1342</td>
-      </tr>
-      <tr>
-        <td>R. 342-4-1</td>
-        <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
-      </tr>
-      <tr>
-        <td>R. 342-5 
-
-</td>
-        <td>Résultant du décret n° 2015-1342 
-
-</td>
-      </tr>
-      <tr>
-        <td>
+      <td>Résultant du décret n° 2015-1342</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="left">Titre IV</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>R. 341-2-1</td>
+      <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
+    </tr>
+    <tr>
+      <td>R. 341-3 à R. 341-5</td>
+      <td>Résultant du décret n° 2015-1342</td>
+    </tr>
+    <tr>
+      <td>R. 341-5-1</td>
+      <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
+    </tr>
+    <tr>
+      <td>R. 341-6</td>
+      <td>résultant du décret n° 2015-1342</td>
+    </tr>
+    <tr>
+      <td>R. 341-7</td>
+      <td>Résultant du décret n° 2016-308</td>
+    </tr>
+    <tr>
+      <td>R. 341-8</td>
+      <td>Résultant du décret n° 2015-1342</td>
+    </tr>
+    <tr>
+      <td>R. 341-9</td>
+      <td>Résultant du décret n° 2016-308</td>
+    </tr>
+    <tr>
+      <td>R. 341-16</td>
+      <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
+    </tr>
+    <tr>
+      <td>R. 341-17</td>
+      <td>Résultant du décret n° 2015-1342</td>
+    </tr>
+    <tr>
+      <td>R. 342-4-1</td>
+      <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
+    </tr>
+    <tr>
+      <td>R. 342-5</td>
+      <td>Résultant du décret n° 2015-1342</td>
+    </tr>
+    <tr>
+      <td>
 R. 343-1 à R. 343-3 
-
 </td>
-        <td>Résultant du décret n° 2015-1342 
-
-</td>
-      </tr>
-      <tr>
-        <td>
+      <td>Résultant du décret n° 2015-1342</td>
+    </tr>
+    <tr>
+      <td>
 R. 343-5 à R. 343-12 
-
 </td>
-        <td>Résultant du décret n° 2015-1342
-
-</td>
-      </tr>
-    </tbody>
-  </table>
+      <td>Résultant du décret n° 2015-1342</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -12778,8 +12799,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1036 du 28 juillet 2016 - art. 2
-  - Décret n°2016-1564 du 21 novembre 2016 - art. 5
+  - Décret n°2017-349 du 20 mars 2017 - art. 2
 
 
 ##### Sous-section 4 : Dispositions applicables du livre IV<a id=162></a>
@@ -13073,6 +13093,41 @@ _Cite_:
   - Code du patrimoine - art. L213-2
   - Code du patrimoine - art. L213-3
   - Code des relations entre le public et l'adminis... - art. L311-8 (VD)
+
+
+###### Article R553-4
+
+Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables aux relations entre
+le public et la Polynésie française, ses établissements publics et les autres organismes et personnes de droit public et de
+droit privé chargés par cette collectivité d'une mission de service public administratif et, le cas échéant, industriel et
+commercial, dans leur rédaction indiquée dans la colonne de droite du même tableau.
+
+<table border="1">
+  <tbody>
+    <tr>
+      <th>
+
+DISPOSITIONS APPLICABLES</th>
+      <th>
+
+DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="justify">R. 311-8-1 et R. 311-8-2</td>
+      <td>
+
+Résultant du décret n° 2017-349 du 20 mars 2017 relatif à la procédure d'accès sécurisé aux bases de données publiques
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2017-349 du 20 mars 2017 - art. 2
 
 
 ## Titre VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE<a id=167></a>
@@ -14211,201 +14266,165 @@ _Modifié par_:
 Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Nouvelle-
 Calédonie aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres
 que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas
-échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. 
+échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.
 
 <table border="1">
-    <tbody>
-      <tr>
-        <th>DISPOSITIONS APPLICABLES 
-
-</th>
-        <th>DANS LEUR RÉDACTION 
-
-</th>
-      </tr>
-      <tr>
-        <td align="left">Titre Ier 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td>
+  <tbody>
+    <tr>
+      <th>DISPOSITIONS APPLICABLES</th>
+      <th>DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="left">Titre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 311-8-1 et R. 311-8-2</td>
+      <td align="left">Résultant du décret n° 2017-349 du 20 mars 2017 relatif à la procédure d'accès sécurisé aux bases de
+données publiques</td>
+    </tr>
+    <tr>
+      <td>
 R. 311-10 et R. 311-11 
-
 </td>
-        <td>Résultant du décret n° 2015-1342 
-
+      <td>Résultant du décret n° 2015-1342 
 </td>
-      </tr>
-      <tr>
-        <td>
+    </tr>
+    <tr>
+      <td>
 R. 311-13 
-
 </td>
-        <td>Résultant du décret n° 2015-1342 
-
-</td>
-      </tr>
-      <tr>
-        <td>
+      <td>Résultant du décret n° 2015-1342</td>
+    </tr>
+    <tr>
+      <td>
 R. 312-3 à R. 312-7 
-
 </td>
-        <td>Résultant du décret n° 2015-1342 
-
+      <td>Résultant du décret n° 2015-1342</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>Titre II</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>R. 322-3</td>
+      <td>Résultant du décret n° 2016-308 
 </td>
-      </tr>
-      <tr>
-        <td>
-        </td><td>
-      </td></tr>
-      <tr>
-        <td>Titre II 
-
-</td>
-        <td>
-      </td></tr>
-      <tr>
-        <td>R. 322-3 </td>
-        <td>Résultant du décret n° 2016-308 
-</td>
-      </tr>
-      <tr>
-        <td>R. 322-7 </td>
-        <td>Résultant du décret n° 2016-308 
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 323-3 et R. 323-4 </td>
-        <td>Résultant du décret n° 2016-308 
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 323-6 et R. 323-7 </td>
-        <td>Résultant du décret n° 2016-308 
-
-</td>
-      </tr>
-      <tr>
-        <td>
+    </tr>
+    <tr>
+      <td>R. 322-7</td>
+      <td>Résultant du décret n° 2016-308</td>
+    </tr>
+    <tr>
+      <td>R. 323-3 et R. 323-4</td>
+      <td>Résultant du décret n° 2016-308</td>
+    </tr>
+    <tr>
+      <td>R. 323-6 et R. 323-7</td>
+      <td>Résultant du décret n° 2016-308</td>
+    </tr>
+    <tr>
+      <td>
 R. 324-4-1 à R. 324-4-5
 </td>
-        <td>Résultant du décret n° 2016-1036 
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 324-6-1</td>
-        <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
-      </tr>
-      <tr>
-        <td>R. 324-7 </td>
-        <td>Résultant du décret n° 2016-308</td>
-      </tr>
-      <tr>
-        <td>R. 325-5 </td>
-        <td>Résultant du décret n° 2016-308 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-        </td><td>
-      </td></tr>
-      <tr>
-        <td align="left">Titre III 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td>
+      <td>Résultant du décret n° 2016-1036</td>
+    </tr>
+    <tr>
+      <td>R. 324-6-1</td>
+      <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
+    </tr>
+    <tr>
+      <td>R. 324-7</td>
+      <td>Résultant du décret n° 2016-308</td>
+    </tr>
+    <tr>
+      <td>R. 325-5</td>
+      <td>Résultant du décret n° 2016-308</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="left">Titre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
 R. 330-2 à R. 330-4 
-
 </td>
-        <td>Résultant du décret n° 2015-1342 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-        </td><td>
-      </td></tr>
-      <tr>
-        <td align="left">Titre IV 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td>R. 341-2-1</td>
-        <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
-      </tr>
-      <tr>
-        <td>R. 341-3 à R. 341-5</td>
-        <td>Résultant du décret n° 2015-1342</td>
-      </tr>
-      <tr>
-        <td>R. 341-5-1 </td>
-        <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
-      </tr>
-      <tr>
-        <td>R. 341-6 </td>
-        <td>Résultant du décret n° 2015-1342 </td>
-      </tr>
-      <tr>
-        <td>R. 341-7 </td>
-        <td>Résultant du décret n° 2016-308 
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 341-8 
-
-</td>
-        <td>Résultant du décret n° 2015-1342 
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 341-9 </td>
-        <td>Résultant du décret n° 2016-308 
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 341-16</td>
-        <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
-      </tr>
-      <tr>
-        <td>R. 341-17</td>
-        <td>Résultant du décret n° 2015-1342</td>
-      </tr>
-      <tr>
-        <td>R. 342-4-1</td>
-        <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
-      </tr>
-      <tr>
-        <td>R. 342-5</td>
-        <td>Résultant du décret n° 2015-1342</td>
-      </tr>
-      <tr>
-        <td>
+      <td>Résultant du décret n° 2015-1342</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="left">Titre IV</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>R. 341-2-1</td>
+      <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
+    </tr>
+    <tr>
+      <td>R. 341-3 à R. 341-5</td>
+      <td>Résultant du décret n° 2015-1342</td>
+    </tr>
+    <tr>
+      <td>R. 341-5-1</td>
+      <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
+    </tr>
+    <tr>
+      <td>R. 341-6</td>
+      <td>Résultant du décret n° 2015-1342</td>
+    </tr>
+    <tr>
+      <td>R. 341-7</td>
+      <td>Résultant du décret n° 2016-308</td>
+    </tr>
+    <tr>
+      <td>R. 341-8</td>
+      <td>Résultant du décret n° 2015-1342</td>
+    </tr>
+    <tr>
+      <td>R. 341-9</td>
+      <td>Résultant du décret n° 2016-308</td>
+    </tr>
+    <tr>
+      <td>R. 341-16</td>
+      <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
+    </tr>
+    <tr>
+      <td>R. 341-17</td>
+      <td>Résultant du décret n° 2015-1342</td>
+    </tr>
+    <tr>
+      <td>R. 342-4-1</td>
+      <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
+    </tr>
+    <tr>
+      <td>R. 342-5</td>
+      <td>Résultant du décret n° 2015-1342</td>
+    </tr>
+    <tr>
+      <td>
 R. 343-1 à R. 343-3 
 </td>
-        <td>Résultant du décret n° 2015-1342</td>
-      </tr>
-      <tr>
-        <td>
+      <td>Résultant du décret n° 2015-1342</td>
+    </tr>
+    <tr>
+      <td>
 R. 343-5 à R. 343-12 
 </td>
-        <td>Résultant du décret n° 2015-1342</td>
-      </tr>
-    </tbody>
-  </table>
+      <td>Résultant du décret n° 2015-1342</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -14430,8 +14449,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1036 du 28 juillet 2016 - art. 2
-  - Décret n°2016-1564 du 21 novembre 2016 - art. 5
+  - Décret n°2017-349 du 20 mars 2017 - art. 2
 
 
 ##### Sous-section 4 : Dispositions applicables du livre IV<a id=175></a>
@@ -14746,6 +14764,49 @@ _Cite_:
   - Code du patrimoine - art. L213-2
   - Code du patrimoine - art. L213-3
   - Code des relations entre le public et l'adminis... - art. L311-8 (VD)
+
+
+###### Article R563-4
+
+Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables aux relations entre
+le public et la Nouvelle-Calédonie, ses provinces, leurs établissements publics et les autres organismes et personnes de
+droit public et de droit privé chargés par ces collectivités d'une mission de service public administratif et, le cas
+échéant, industriel et commercial, dans leur rédaction indiquée dans la colonne de droite du même tableau.
+
+<table border="1">
+  <tbody>
+    <tr>
+      <th>
+
+DISPOSITIONS APPLICABLES</th>
+      <th>
+
+DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="justify">R. 311-3-1-1 et R. 311-3-1-2</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-330 du 14 mars 2017
+
+</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 311-8-1 et R. 311-8-2</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-349 du 20 mars 2017 relatif à la procédure d'accès sécurisé aux bases de données publiques</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2017-349 du 20 mars 2017 - art. 2
 
 
 ## Titre VII : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA<a id=181></a>
@@ -16037,207 +16098,165 @@ _Modifié par_:
 Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis
 et Futuna aux relations entre le public, d'une part, et l'Etat, ses établissements publics et les autres organismes et
 personnes de droit public et de droit privé chargés par l'Etat d'une mission de service public administratif et, le cas
-échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. 
+échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.
 
 <table border="1">
-    <tbody>
-      <tr>
-        <th>DISPOSITIONS APPLICABLES 
-
-</th>
-        <th>DANS LEUR RÉDACTION 
-
-</th>
-      </tr>
-      <tr>
-        <td align="left">Titre Ier 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td>
+  <tbody>
+    <tr>
+      <th>DISPOSITIONS APPLICABLES</th>
+      <th>DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="left">Titre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 311-8-1 et R. 311-8-2</td>
+      <td align="left">Résultant du décret n° 2017-349 du 20 mars 2017 relatif à la procédure d'accès sécurisé aux bases de
+données publiques</td>
+    </tr>
+    <tr>
+      <td>
 R. 311-10 et R. 311-11 
-
 </td>
-        <td>Résultant du décret n° 2015-1342 
-
+      <td>Résultant du décret n° 2015-1342 
 </td>
-      </tr>
-      <tr>
-        <td>
+    </tr>
+    <tr>
+      <td>
 R. 311-13 
-
 </td>
-        <td>Résultant du décret n° 2015-1342 
-
-</td>
-      </tr>
-      <tr>
-        <td>
+      <td>Résultant du décret n° 2015-1342</td>
+    </tr>
+    <tr>
+      <td>
 R. 312-3 à R. 312-9 
-
 </td>
-        <td>Résultant du décret n° 2015-1342 
-
+      <td>Résultant du décret n° 2015-1342</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>Titre II</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>R. 322-3</td>
+      <td>Résultant du décret n° 2016-308 
 </td>
-      </tr>
-      <tr>
-        <td>
-        </td><td>
-      </td></tr>
-      <tr>
-        <td>Titre II 
-
-</td>
-        <td>
-      </td></tr>
-      <tr>
-        <td>R. 322-3 
-
-</td>
-        <td>Résultant du décret n° 2016-308 
-</td>
-      </tr>
-      <tr>
-        <td>R. 322-7 </td>
-        <td>Résultant du décret n° 2016-308 
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 323-3 et R. 323-4 </td>
-        <td>Résultant du décret n° 2016-308 
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 323-6 et R. 323-7 </td>
-        <td>Résultant du décret n° 2016-308 
-
-</td>
-      </tr>
-      <tr>
-        <td>
+    </tr>
+    <tr>
+      <td>R. 322-7</td>
+      <td>Résultant du décret n° 2016-308</td>
+    </tr>
+    <tr>
+      <td>R. 323-3 et R. 323-4</td>
+      <td>Résultant du décret n° 2016-308</td>
+    </tr>
+    <tr>
+      <td>R. 323-6 et R. 323-7</td>
+      <td>Résultant du décret n° 2016-308</td>
+    </tr>
+    <tr>
+      <td>
 R. 324-4-1 à R. 324-4-5
 </td>
-        <td>Résultant du décret n° 2016-1036 
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 324-6-1</td>
-        <td>résultant du décret n° 2016-1564 du 21 novembre 2016 </td>
-      </tr>
-      <tr>
-        <td>R. 324-7 </td>
-        <td>Résultant du décret n° 2016-308</td>
-      </tr>
-      <tr>
-        <td>R. 325-5 </td>
-        <td>Résultant du décret n° 2016-308</td>
-      </tr>
-      <tr>
-        <td>
-        </td><td>
-      </td></tr>
-      <tr>
-        <td align="left">Titre III 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td>
+      <td>Résultant du décret n° 2016-1036</td>
+    </tr>
+    <tr>
+      <td>R. 324-6-1</td>
+      <td>résultant du décret n° 2016-1564 du 21 novembre 2016</td>
+    </tr>
+    <tr>
+      <td>R. 324-7</td>
+      <td>Résultant du décret n° 2016-308</td>
+    </tr>
+    <tr>
+      <td>R. 325-5</td>
+      <td>Résultant du décret n° 2016-308</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="left">Titre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
 R. 330-2 à R. 330-4 
-
 </td>
-        <td>Résultant du décret n° 2015-1342 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-        </td><td>
-      </td></tr>
-      <tr>
-        <td align="left">Titre IV 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td>R. 341-2-1 </td>
-        <td>Résultant du décret n° 2016-1564 du 21 novembre 2016 </td>
-      </tr>
-      <tr>
-        <td>R. 341-3 à R. 341-5</td>
-        <td>Résultant du décret n° 2015-1342</td>
-      </tr>
-      <tr>
-        <td>R. 341-5-1</td>
-        <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
-      </tr>
-      <tr>
-        <td>R. 341-6</td>
-        <td>Résultant du décret n° 2015-1342</td>
-      </tr>
-      <tr>
-        <td>R. 341-7 </td>
-        <td>Résultant du décret n° 2016-308 
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 341-8 
-
-</td>
-        <td>Résultant du décret n° 2015-1342 
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 341-9 </td>
-        <td>Résultant du décret n° 2016-308 
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 341-16</td>
-        <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
-      </tr>
-      <tr>
-        <td>R. 341-17</td>
-        <td>Résultant du décret n° 2015-1342</td>
-      </tr>
-      <tr>
-        <td>R. 342-4-1</td>
-        <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
-      </tr>
-      <tr>
-        <td>R. 342-5 </td>
-        <td>Résultant du décret n° 2015-1342</td>
-      </tr>
-      <tr>
-        <td>
+      <td>Résultant du décret n° 2015-1342</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="left">Titre IV</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>R. 341-2-1</td>
+      <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
+    </tr>
+    <tr>
+      <td>R. 341-3 à R. 341-5</td>
+      <td>Résultant du décret n° 2015-1342</td>
+    </tr>
+    <tr>
+      <td>R. 341-5-1</td>
+      <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
+    </tr>
+    <tr>
+      <td>R. 341-6</td>
+      <td>Résultant du décret n° 2015-1342</td>
+    </tr>
+    <tr>
+      <td>R. 341-7</td>
+      <td>Résultant du décret n° 2016-308</td>
+    </tr>
+    <tr>
+      <td>R. 341-8</td>
+      <td>Résultant du décret n° 2015-1342</td>
+    </tr>
+    <tr>
+      <td>R. 341-9</td>
+      <td>Résultant du décret n° 2016-308</td>
+    </tr>
+    <tr>
+      <td>R. 341-16</td>
+      <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
+    </tr>
+    <tr>
+      <td>R. 341-17</td>
+      <td>Résultant du décret n° 2015-1342</td>
+    </tr>
+    <tr>
+      <td>R. 342-4-1</td>
+      <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
+    </tr>
+    <tr>
+      <td>R. 342-5</td>
+      <td>Résultant du décret n° 2015-1342</td>
+    </tr>
+    <tr>
+      <td>
 R. 343-1 à R. 343-3 
-
 </td>
-        <td>Résultant du décret n° 2015-1342 
-
-</td>
-      </tr>
-      <tr>
-        <td>
+      <td>Résultant du décret n° 2015-1342</td>
+    </tr>
+    <tr>
+      <td>
 R. 343-5 à R. 343-12 
-
 </td>
-        <td>Résultant du décret n° 2015-1342
-
-</td>
-      </tr>
-    </tbody>
-  </table>
+      <td>Résultant du décret n° 2015-1342</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -16262,8 +16281,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1036 du 28 juillet 2016 - art. 2
-  - Décret n°2016-1564 du 21 novembre 2016 - art. 5
+  - Décret n°2017-349 du 20 mars 2017 - art. 2
 
 
 #### Section 2 : Dispositions relatives à la collectivité de Wallis-et-Futuna et aux organismes placés sous son contrôle<a id=187></a>
@@ -16387,116 +16405,92 @@ Les dispositions du livre III mentionnées dans la colonne de gauche du tableau 
 le public, d'une part, et la collectivité de Wallis-et-Futuna, ses établissements publics et les autres organismes et
 personnes de droit public et de droit privé chargés par cette collectivité d'une mission de service public administratif et,
 le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même
-tableau. 
+tableau.
 
 <table border="1">
-    <tbody>
-      <tr>
-        <th>
+  <tbody>
+    <tr>
+      <th>
 
-DISPOSITIONS APPLICABLES 
+DISPOSITIONS APPLICABLES</th>
+      <th>
 
-</th>
-        <th>
+DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="center">
 
-DANS LEUR RÉDACTION 
+TITRE II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>R. 311-8-1 et R. 311-8-2</td>
+      <td align="left">Résultant du décret n° 2017-349 du 20 mars 2017 relatif à la procédure d'accès sécurisé aux bases de
+données publiques</td>
+    </tr>
+    <tr>
+      <td>
 
-</th>
-      </tr>
-      <tr>
-        <td align="center" valign="middle">
-
-TITRE II 
-
-</td>
-        <td align="left">
-
-</td>
-      </tr>
-      <tr>
-        <td>
-
-R. 322-3 
-
-</td>
-        <td>
+R. 322-3</td>
+      <td>
 
 Résultant du décret n° 2016-308
-
 </td>
-      </tr>
-      <tr>
-        <td>
+    </tr>
+    <tr>
+      <td>
 
-R. 322-7 
+R. 322-7</td>
+      <td>
 
-</td>
-        <td>
+Résultant du décret n° 2016-308 </td>
+    </tr>
+    <tr>
+      <td>
 
-Résultant du décret n° 2016-308 
+R. 323-3 et R. 323-4</td>
+      <td>
 
-</td>
-      </tr>
-      <tr>
-        <td>
+Résultant du décret n° 2016-308 </td>
+    </tr>
+    <tr>
+      <td>
 
-R. 323-3 et R. 323-4 
+R. 323-6 et R. 323-7</td>
+      <td>
 
-</td>
-        <td>
-
-Résultant du décret n° 2016-308 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-
-R. 323-6 et R. 323-7 
-
-</td>
-        <td>
-
-Résultant du décret n° 2016-308 
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 324-4-1 à R. 324-4-5 </td>
-        <td>
+Résultant du décret n° 2016-308 </td>
+    </tr>
+    <tr>
+      <td>R. 324-4-1 à R. 324-4-5</td>
+      <td>
 
 Résultant du décret n° 2016-1036 
 
 </td>
-      </tr>
-      <tr>
-        <td>R. 324-6-1</td>
-        <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
-      </tr>
-      <tr>
-        <td>
+    </tr>
+    <tr>
+      <td>R. 324-6-1</td>
+      <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
+    </tr>
+    <tr>
+      <td>
 
-R. 324-7 
-
-</td>
-        <td>
-
-Résultant du décret n° 2016-308 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-
-R. 325-5 
-
-</td>
-        <td>
+R. 324-7</td>
+      <td>
 
 Résultant du décret n° 2016-308 </td>
-      </tr>
-    </tbody>
-  </table>
+    </tr>
+    <tr>
+      <td>
+
+R. 325-5</td>
+      <td>
+
+Résultant du décret n° 2016-308 </td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -16506,8 +16500,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2016-1036 du 28 juillet 2016 - art. 2
-  - Décret n°2016-1564 du 21 novembre 2016 - art. 5
+  - Décret n°2017-349 du 20 mars 2017 - art. 2
 
 
 #### Section 3 : Dispositions d'adaptation<a id=188></a>
