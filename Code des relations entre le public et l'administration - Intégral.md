@@ -1,5 +1,5 @@
 # Code des relations entre le public et l'administration  
-Version Consolidée au 2017-04-08
+Version Consolidée au 2017-04-29
 ## Contenu: 
   - [Dispositions préliminaires (art. L100-1 à L100-3)](#1)
   - [Livre Ier : LES ÉCHANGES AVEC L'ADMINISTRATION (art. L110-1 à L135-2)](#2)
@@ -109,7 +109,7 @@ Version Consolidée au 2017-04-08
     - [Titre II : LA RÉUTILISATION DES INFORMATIONS PUBLIQUES (art. L321-1 à L327-1)](#106)
       - [Chapitre Ier : Etendue du droit de réutilisation (art. L321-1 à R321-8)](#107)
       - [Chapitre II : Règles générales (art. L322-1 à R322-7)](#108)
-      - [Chapitre III : Etablissement d'une licence (art. L323-1 à R323-7)](#109)
+      - [Chapitre III : Etablissement d'une licence (art. D323-2-1 à R323-7)](#109)
       - [Chapitre IV : Redevance (art. D324-5-1 à R324-7)](#110)
       - [Chapitre V : Droit d'exclusivité (art. L325-1 à R325-5)](#111)
       - [Chapitre VI : Sanctions (art. L326-1)](#112)
@@ -7783,6 +7783,76 @@ _Cite_:
 
 ### Chapitre III : Etablissement d'une licence<a id=109></a>
 
+###### Article D323-2-1
+
+I. - L'administration peut soumettre la réutilisation à titre gratuit des informations publiques qu'elle détient aux licences
+suivantes :
+
+1° La licence ouverte de réutilisation d'informations publiques ;
+
+2° " L'Open Database License ".
+
+II. - Lorsque ces informations publiques revêtent la forme d'un logiciel, l'administration peut soumettre leur réutilisation
+à titre gratuit aux licences suivantes :
+
+1° Les licences dites " permissives " nommées " Berkeley Software Distribution License ", " Apache ", " CeCILL-B " et "
+Massachusetts Institute of Technology License " ;
+
+2° Les licences " avec obligation de réciprocité " nommées " Mozilla Public License ", " GNU General Public License " et "
+CeCILL ".
+
+Les licences susmentionnées sont accessibles en ligne, dans leur version en vigueur, sur le site internet :  http://
+www.data.gouv.fr.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-638 du 27 avril 2017 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 7 juillet 2017 - art. 8 (V)
+  - Code des relations entre le public et l'adminis... - art. D323-2-2 (V)
+
+
+###### Article D323-2-2
+
+I.-L'administration qui souhaite recourir à une licence qui ne figure pas à l'article D. 323-2-1 adresse à la direction
+interministérielle des systèmes d'information et de communication de l'Etat une demande d'homologation de la licence qu'elle
+souhaite mettre en œuvre. Cette homologation est prononcée par décision du Premier ministre pour les seules informations
+publiques qui constituent l'objet de la demande.
+
+II.-La demande d'homologation comporte, outre le projet de licence :
+
+1° Le nom de l'administration demanderesse ainsi que celui de la personne qui la représente ;
+
+2° La description des informations publiques dont la réutilisation sera encadrée par la licence dont l'homologation est
+demandée ainsi que les raisons ayant conduit à ne pas choisir une licence parmi celles figurant à l'article L. 323-2-1 ;
+
+3° Une synthèse des conclusions de la concertation menée avec les principaux réutilisateurs.
+
+III.-La direction interministérielle des systèmes d'information et de communication de l'Etat instruit la demande en
+examinant la spécificité de la situation couverte par la licence objet de la demande et sa conformité avec les règles prévues
+au présent titre. A cette fin, elle peut demander toute précision utile auprès de l'administration demanderesse.
+
+IV.-La décision est prise dans un délai de deux mois à compter de la réception de la demande. Les décisions de refus
+d'homologation sont motivées.
+
+V.-La licence homologuée ainsi que la description des informations publiques pour lesquelles cette homologation a été
+accordée sont rendues accessibles en ligne, dans leur version en vigueur, sur le site internet :  http://www.data.gouv.fr.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-638 du 27 avril 2017 - art. 1
+
+_Cite_:
+
+  - Code des relations entre le public et l'administration - art. D323-2-1
+
+
 ###### Article L323-1
 
 La réutilisation d'informations publiques peut donner lieu à l'établissement d'une licence. Cette licence est obligatoire
@@ -11538,17 +11608,19 @@ que les établissements publics, chargés par l'Etat et les communes d'une missi
 échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. 
 
 <pre>
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ DISPOSITIONS APPLICABLES   │ DANS LEUR RÉDACTION              ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ D. 312-1-1-1 et D. 312-1-4 │ Résultant du décret n° 2016-1922 ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ D. 324-5-1                 │ Résultant du décret n° 2016-1617 ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ D. 341-10                  │ Résultant du décret n° 2016-308  ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ D. 341-11 à D. 341-15      │ Résultant du décret n° 2015-1342 ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ DISPOSITIONS APPLICABLES   │ DANS LEUR RÉDACTION                              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ D. 312-1-1-1 et D. 312-1-4 │ Résultant du décret n° 2016-1922                 ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ D. 323-2-1 et D. 323-2-2   │ Résultant du décret n° 2017-638 du 27 avril 2017 ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ D. 324-5-1                 │ Résultant du décret n° 2016-1617                 ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ D. 341-10                  │ Résultant du décret n° 2016-308                  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ D. 341-11 à D. 341-15      │ Résultant du décret n° 2015-1342                 ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 </pre>
 
 
@@ -11556,10 +11628,11 @@ que les établissements publics, chargés par l'Etat et les communes d'une missi
 
 _Cite_:
 
-  - Décret n°2015-1342 du 23 octobre 2015 (V)
-  - Décret n°2016-308 du 17 mars 2016 (V)
-  - Décret n°2016-1617 du 29 novembre 2016 (V)
-  - Décret n°2016-1922 du 28 décembre 2016 (V)
+  - Décret n°2015-1342 du 23 octobre 2015
+  - Décret n°2016-308 du 17 mars 2016
+  - Décret n°2016-1617 du 29 novembre 2016
+  - Décret n°2016-1922 du 28 décembre 2016
+  - Décret n°2017-638 du 27 avril 2017
 
 _Codifié par_:
 
@@ -11567,7 +11640,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1922 du 28 décembre 2016 - art. 2
+  - Décret n°2017-638 du 27 avril 2017 - art. 2
 
 
 ###### Article L552-8
@@ -12663,17 +12736,19 @@ que les établissements publics, chargés par l'Etat et les communes d'une missi
 échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. 
 
 <pre>
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ DISPOSITIONS APPLICABLES   ┃ DANS LEUR RÉDACTION              ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ D. 312-1-1-1 et D. 312-1-4 ┃ Résultant du décret n° 2016-1922 ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ D. 324-5-1                 ┃ Résultant du décret n° 2016-1617 ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ D. 341-10                  ┃ Résultant du décret n° 2016-308  ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ D. 341-11 à D. 341-15      ┃ Résultant du décret n° 2015-1342 ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ DISPOSITIONS APPLICABLES   ┃ DANS LEUR RÉDACTION                              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ D. 312-1-1-1 et D. 312-1-4 ┃ Résultant du décret n° 2016-1922                 ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ D. 323-2-1 et D. 323-2-2   ┃ Résultant du décret n° 2017-638 du 27 avril 2017 ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ D. 324-5-1                 ┃ Résultant du décret n° 2016-1617                 ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ D. 341-10                  ┃ Résultant du décret n° 2016-308                  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ D. 341-11 à D. 341-15      ┃ Résultant du décret n° 2015-1342                 ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 </pre>
 
 
@@ -12683,8 +12758,9 @@ _Cite_:
 
   - Décret n°2015-1342 du 23 octobre 2015
   - Décret n°2016-308 du 17 mars 2016
-  - Décret n°2016-1617 du 29 novembre 2016 (V)
-  - Décret n°2016-1922 du 28 décembre 2016 (V)
+  - Décret n°2016-1617 du 29 novembre 2016
+  - Décret n°2016-1922 du 28 décembre 2016
+  - Décret n°2017-638 du 27 avril 2017
 
 _Codifié par_:
 
@@ -12692,7 +12768,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1922 du 28 décembre 2016 - art. 2
+  - Décret n°2017-638 du 27 avril 2017 - art. 2
 
 
 ###### Article L562-8
@@ -13992,17 +14068,19 @@ public et de droit privé chargés par l'Etat d'une mission de service public ad
 commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. 
 
 <pre>
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ DISPOSITIONS APPLICABLES   ┃ DANS LEUR RÉDACTION              ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ D. 312-1-1-1 et D. 312-1-4 ┃ Résultant du décret n° 2016-1922 ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ D. 324-5-1                 ┃ Résultant du décret n° 2016-1617 ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ D. 341-10                  ┃ Résultant du décret n° 2016-308  ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ D. 341-11 à D. 341-15      ┃ Résultant du décret n° 2015-1342 ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ DISPOSITIONS APPLICABLES   ┃ DANS LEUR RÉDACTION                              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ D. 312-1-1-1 et D. 312-1-4 ┃ Résultant du décret n° 2016-1922                 ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ D. 323-2-1 et D. 323-2-2   ┃ Résultant du décret n° 2017-638 du 27 avril 2017 ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ D. 324-5-1                 ┃ Résultant du décret n° 2016-1617                 ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ D. 341-10                  ┃ Résultant du décret n° 2016-308                  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ D. 341-11 à D. 341-15      ┃ Résultant du décret n° 2015-1342                 ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 </pre>
 
 
@@ -14012,8 +14090,9 @@ _Cite_:
 
   - Décret n°2015-1342 du 23 octobre 2015
   - Décret n°2016-308 du 17 mars 2016
-  - Décret n°2016-1617 du 29 novembre 2016 (V)
-  - Décret n°2016-1922 du 28 décembre 2016 (V)
+  - Décret n°2016-1617 du 29 novembre 2016
+  - Décret n°2016-1922 du 28 décembre 2016
+  - Décret n°2017-638 du 27 avril 2017
 
 _Codifié par_:
 
@@ -14021,7 +14100,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1922 du 28 décembre 2016 - art. 2
+  - Décret n°2017-638 du 27 avril 2017 - art. 2
 
 
 ###### Article L574-1
