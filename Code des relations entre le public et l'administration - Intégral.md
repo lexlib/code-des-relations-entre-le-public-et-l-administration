@@ -1,19 +1,19 @@
 # Code des relations entre le public et l'administration  
-Version Consolidée au 2017-09-01
+Version Consolidée au 2017-12-24
 ## Contenu: 
   - [Dispositions préliminaires (art. L100-1 à L100-3)](#1)
   - [Livre Ier : LES ÉCHANGES AVEC L'ADMINISTRATION (art. L110-1 à L135-2)](#2)
     - [Titre Ier : LES DEMANDES DU PUBLIC ET LEUR TRAITEMENT (art. L110-1 à L114-10)](#3)
       - [Chapitre Ier : Règles générales (art. L111-1 à L111-3)](#4)
-      - [Chapitre II : Modalités de saisine et d'échanges (art. L112-1 à L112-15)](#5)
+      - [Chapitre II : Modalités de saisine et d'échanges (art. L112-1 à R112-20)](#5)
         - [Section 1 : Règles générales (art. L112-1 à R112-5)](#6)
           - [Sous-section 1 : Certification de la date d'envoi (art. L112-1)](#7)
           - [Sous-section 2 : Délivrance d'un accusé de réception par l'administration (art. L112-2 à R112-5)](#8)
-        - [Section 2 : Règles particulières à la saisine et aux échanges par voie électronique (art. L112-7 à L112-15)](#9)
+        - [Section 2 : Règles particulières à la saisine et aux échanges par voie électronique (art. L112-7 à R112-20)](#9)
           - [Sous-section 1 : Droit de saisine par voie électronique (art. L112-8 à R112-9-2)](#10)
           - [Sous-section 2 : Délivrance d'un accusé de réception par l'administration (art. L112-11 à R112-11-4)](#11)
           - [Sous-section 3 : Certification de la date d'envoi (art. L112-13)](#12)
-          - [Sous-section 4 : Autres modalités d'échanges par voie électronique (art. L112-14 à L112-15)](#13)
+          - [Sous-section 4 : Autres modalités d'échanges par voie électronique (art. L112-14 à R112-20)](#13)
       - [Chapitre III : Contenu des dossiers (art. D113-1 à L113-13)](#14)
         - [Section 1 : Formulaires administratifs (art. D113-1 à D113-3)](#15)
         - [Section 2 : Pièces justificatives (art. L113-4 à L113-13)](#16)
@@ -1258,6 +1258,99 @@ _Anciens textes_:
 _Modifié par_:
 
   - Loi n°2016-1321 du 7 octobre 2016 - art. 93
+
+
+###### Article R112-16
+
+Dans les cas prévus au premier alinéa de l'article L. 112-15, l'administration informe le public du ou des procédés
+électroniques, équivalents à la lettre recommandée et conformes aux règles fixées par le référentiel général de sécurité
+prévu à l'article 9 de l'ordonnance n° 2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et
+les autorités administratives et entre les autorités administratives, qu'elle accepte.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°2005-1516 du 8 décembre 2005 - art. 9
+
+_Créé par_:
+
+  - Décret n°2017-1728 du 21 décembre 2017 - art. 1
+
+_Cité par_:
+
+  - Code des relations entre le public et l'adminis... - art. R552-5 (V)
+  - Code des relations entre le public et l'adminis... - art. R562-5 (V)
+  - Code des relations entre le public et l'adminis... - art. R572-3 (V)
+
+
+###### Article R112-17
+
+Lorsqu'une administration souhaite recourir à un procédé électronique, prévu au deuxième alinéa de l'article L. 112-15 et ne
+relevant pas de l'article L. 100 du code des postes et des communications électroniques, elle informe les personnes
+intéressées, dont il lui appartient de recueillir l'accord exprès, des caractéristiques du procédé utilisé, conforme aux
+règles fixées par le référentiel général de sécurité prévu à l'article 9 de l'ordonnance du 8 décembre 2005 précitée, ainsi
+que des conditions de mise à disposition du document notifié, de garantie de l'identité de son destinataire et de prise de
+connaissance par ce dernier. Elle leur indique également les modalités de mise à jour des coordonnées et le délai de préavis
+prévu à l'article R. 112-18 ainsi que le délai, fixé à l'article R. 112-20, au terme duquel, faute de consultation du
+document par le destinataire, celui-ci est réputé lui avoir été remis.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1728 du 21 décembre 2017 - art. 1
+
+
+###### Article R112-18
+
+Après accord exprès de la personne recueilli par voie électronique, celle-ci choisit, le cas échéant, parmi les moyens que
+lui propose l'administration, celui par lequel elle désire recevoir les avis de dépôt qui lui sont adressés. Elle maintient à
+jour, par la même voie, ses coordonnées afin que les avis de dépôt puissent lui parvenir.
+
+Si elle ne souhaite plus bénéficier du procédé électronique, elle en informe l'administration par voie électronique dans un
+délai de préavis, fixé au préalable par cette dernière, qui ne peut excéder trois mois.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1728 du 21 décembre 2017 - art. 1
+
+
+###### Article R112-19
+
+L'administration adresse à la personne un avis l'informant qu'un document est mis à sa disposition et qu'elle a la
+possibilité d'en prendre connaissance par le procédé prévu au deuxième alinéa de l'article L. 112-15. Cet avis mentionne la
+date de mise à disposition du document, les coordonnées du service expéditeur et le délai prévu à l'article R. 112-20.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1728 du 21 décembre 2017 - art. 1
+
+
+###### Article R112-20
+
+Le document notifié est réputé avoir été reçu par son destinataire à la date de sa première consultation. Cette date peut
+être consignée dans un accusé de réception adressé à l'administration par le procédé prévu au deuxième alinéa de l'article L.
+112-15.
+
+A défaut de consultation du document par son destinataire dans un délai de quinze jours, le document est réputé lui avoir été
+notifié à la date de mise à disposition.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1728 du 21 décembre 2017 - art. 1
+
+_Cité par_:
+
+  - Code des relations entre le public et l'adminis... - art. R552-5 (V)
+  - Code des relations entre le public et l'adminis... - art. R562-5 (V)
+  - Code des relations entre le public et l'adminis... - art. R572-3 (V)
 
 
 ### Chapitre III : Contenu des dossiers<a id=14></a>
@@ -12127,16 +12220,16 @@ _Créé par_:
 Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Polynésie
 française aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres
 que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas
-échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. 
+échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.
 
 <table align="center" border="1">
   <tbody>
     <tr>
-      <th>DISPOSITIONS APPLICABLES </th>
-      <th>DANS LEUR RÉDACTION </th>
+      <th>DISPOSITIONS APPLICABLES</th>
+      <th>DANS LEUR RÉDACTION</th>
     </tr>
     <tr>
-      <td align="left">Titre Ier </td>
+      <td align="left">Titre Ier</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -12176,12 +12269,16 @@ Résultant du décret n° 2016-1411 du 20 octobre 2016
 </td>
     </tr>
     <tr>
+      <td>R. 112-16 à R. 112-20</td>
+      <td>Résultant du décret n° 2017-1728 du 21 décembre 2017</td>
+    </tr>
+    <tr>
       <td>
 
 R. 113-5 à R. 113-11 
 
 </td>
-      <td>Résultant du décret n° 2015-1342 </td>
+      <td>Résultant du décret n° 2015-1342</td>
     </tr>
     <tr>
       <td>
@@ -12190,7 +12287,7 @@ R. 113-5 à R. 113-11
     <tr>
       <td align="left">
 
-Titre III 
+Titre III
 
 </td>
       <td align="left">
@@ -12201,7 +12298,7 @@ Titre III
 R. 134-3 à R. 134-30 
 
 </td>
-      <td>Résultant du décret n° 2015-1342 </td>
+      <td>Résultant du décret n° 2015-1342</td>
     </tr>
     <tr>
       <td>
@@ -12219,9 +12316,9 @@ R. 134-32
 _Cite_:
 
   - Décret n°2015-1342 du 23 octobre 2015
-  - Code des relations entre le public et l'adminis... - art. R112-11-1 (V)
-  - Code des relations entre le public et l'adminis... - art. R112-9-1 (V)
+  - Code des relations entre le public et l'administration - art. R112-11-1
   - Code des relations entre le public et l'administration - art. R112-4
+  - Code des relations entre le public et l'administration - art. R112-9-1
   - Code des relations entre le public et l'administration - art. R113-5
   - Code des relations entre le public et l'administration - art. R134-3
   - Code des relations entre le public et l'administration - art. R134-32
@@ -12232,7 +12329,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1411 du 20 octobre 2016 - art. 2
+  - Décret n°2017-1728 du 21 décembre 2017 - art. 2
 
 
 ##### Sous-section 2 : Dispositions applicables du livre II<a id=160></a>
@@ -13780,18 +13877,18 @@ _Créé par_:
 Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Nouvelle-
 Calédonie aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres
 que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas
-échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. 
+échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.
 
 <table border="1">
   <tbody>
     <tr>
-      <th>DISPOSITIONS APPLICABLES </th>
-      <th>DANS LEUR RÉDACTION </th>
+      <th>DISPOSITIONS APPLICABLES</th>
+      <th>DANS LEUR RÉDACTION</th>
     </tr>
     <tr>
       <td align="left">
 
-Titre Ier 
+Titre Ier
 
 </td>
       <td align="left">
@@ -13811,7 +13908,7 @@ R. 112-4 et R. 112-5
 R. 112-9-1 et R. 112-9-2 
 
 </td>
-      <td>Résultant du décret n° 2016-1411 du 20 octobre 2016 </td>
+      <td>Résultant du décret n° 2016-1411 du 20 octobre 2016</td>
     </tr>
     <tr>
       <td>
@@ -13826,12 +13923,16 @@ Résultant du décret n° 2016-1411 du 20 octobre 2016
 </td>
     </tr>
     <tr>
+      <td>R. 112-16 à R. 112-20</td>
+      <td>Résultant du décret n° 2017-1728 du 21 décembre 2017</td>
+    </tr>
+    <tr>
       <td>
 
 R. 113-5 à R. 113-11 
 
 </td>
-      <td>Résultant du décret n° 2015-1342 </td>
+      <td>Résultant du décret n° 2015-1342</td>
     </tr>
     <tr>
       <td>
@@ -13840,7 +13941,7 @@ R. 113-5 à R. 113-11
     <tr>
       <td align="left">
 
-Titre III 
+Titre III
 
 </td>
       <td align="left">
@@ -13851,7 +13952,7 @@ Titre III
 R. 134-3 à R. 134-30 
 
 </td>
-      <td>Résultant du décret n° 2015-1342 </td>
+      <td>Résultant du décret n° 2015-1342</td>
     </tr>
     <tr>
       <td>
@@ -13869,9 +13970,9 @@ R. 134-32
 _Cite_:
 
   - Décret n°2015-1342 du 23 octobre 2015
-  - Code des relations entre le public et l'adminis... - art. R112-11-1 (V)
-  - Code des relations entre le public et l'adminis... - art. R112-9-1 (V)
+  - Code des relations entre le public et l'administration - art. R112-11-1
   - Code des relations entre le public et l'administration - art. R112-4
+  - Code des relations entre le public et l'administration - art. R112-9-1
   - Code des relations entre le public et l'administration - art. R113-5
   - Code des relations entre le public et l'administration - art. R134-3
   - Code des relations entre le public et l'administration - art. R134-32
@@ -13882,7 +13983,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1411 du 20 octobre 2016 - art. 2
+  - Décret n°2017-1728 du 21 décembre 2017 - art. 2
 
 
 ##### Sous-section 2 : Dispositions applicables du livre II<a id=173></a>
@@ -15494,18 +15595,18 @@ _Créé par_:
 Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis
 et Futuna aux relations entre le public, d'une part, et l'Etat, ses établissements publics et les autres organismes et
 personnes de droit public et de droit privé chargés par l'Etat d'une mission de service public administratif et, le cas
-échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
+échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 <table border="1">
   <tbody>
     <tr>
-      <th>DISPOSITIONS APPLICABLES </th>
-      <th>DANS LEUR RÉDACTION </th>
+      <th>DISPOSITIONS APPLICABLES</th>
+      <th>DANS LEUR RÉDACTION</th>
     </tr>
     <tr>
       <td align="left">
 
-Titre Ier 
+Titre Ier
 
 </td>
       <td align="left">
@@ -15525,7 +15626,7 @@ R. 112-4 et R. 112-5
 R. 112-9-1 et R. 112-9-2 
 
 </td>
-      <td>Résultant du décret n° 2016-1411 du 20 octobre 2016 </td>
+      <td>Résultant du décret n° 2016-1411 du 20 octobre 2016</td>
     </tr>
     <tr>
       <td>
@@ -15540,12 +15641,16 @@ Résultant du décret n° 2016-1411 du 20 octobre 2016
 </td>
     </tr>
     <tr>
+      <td>R. 112-16 à R. 112-20</td>
+      <td>Résultant du décret n° 2017-1728 du 21 décembre 2017</td>
+    </tr>
+    <tr>
       <td>
 
 R. 113-5 à R. 113-11 
 
 </td>
-      <td>Résultant du décret n° 2015-1342 </td>
+      <td>Résultant du décret n° 2015-1342</td>
     </tr>
     <tr>
       <td>
@@ -15554,7 +15659,7 @@ R. 113-5 à R. 113-11
     <tr>
       <td align="left">
 
-Titre III 
+Titre III
 
 </td>
       <td align="left">
@@ -15565,7 +15670,7 @@ Titre III
 R. 133-3 à R. 133-13 
 
 </td>
-      <td>Résultant du décret n° 2015-1342 </td>
+      <td>Résultant du décret n° 2015-1342</td>
     </tr>
     <tr>
       <td>
@@ -15573,7 +15678,7 @@ R. 133-3 à R. 133-13
 R. 134-3 à R. 134-30 
 
 </td>
-      <td>Résultant du décret n° 2015-1342 </td>
+      <td>Résultant du décret n° 2015-1342</td>
     </tr>
     <tr>
       <td>
@@ -15591,9 +15696,9 @@ R. 134-32
 _Cite_:
 
   - Décret n°2015-1342 du 23 octobre 2015
-  - Code des relations entre le public et l'adminis... - art. R112-11-1 (V)
-  - Code des relations entre le public et l'adminis... - art. R112-9-1 (V)
+  - Code des relations entre le public et l'administration - art. R112-11-1
   - Code des relations entre le public et l'administration - art. R112-4
+  - Code des relations entre le public et l'administration - art. R112-9-1
   - Code des relations entre le public et l'administration - art. R113-5
   - Code des relations entre le public et l'administration - art. R133-3
   - Code des relations entre le public et l'administration - art. R134-3
@@ -15605,7 +15710,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1411 du 20 octobre 2016 - art. 2
+  - Décret n°2017-1728 du 21 décembre 2017 - art. 2
 
 
 ###### Article R572-6
@@ -17023,14 +17128,17 @@ _Cite_:
 
 ###### Article R582-2
 
-Pour l'application dans les Terres australes et antarctiques françaises des dispositions réglementaires du livre Ier : 
+Pour l'application dans les Terres australes et antarctiques françaises des dispositions réglementaires du livre Ier :
 
-1° La référence au préfet du département est remplacée par la référence à l'administrateur supérieur du territoire ; 
+1° La référence au préfet du département est remplacée par la référence à l'administrateur supérieur du territoire ;
+
+1° bis A l'article R. 112-17, la référence à l'article L. 100 du code des postes et des communications électroniques est
+supprimée ;
 
 2° A l'article R. 134-12, les mots : " régionaux ou " sont supprimés et les mots : " dans tout le département ou tous les
-départements concernés " sont remplacés par les mots : " dans le territoire " ; 
+départements concernés " sont remplacés par les mots : " dans le territoire " ;
 
-3° Le premier alinéa de l'article R. 134-17est supprimé ; 
+3° Le premier alinéa de l'article R. 134-17 est supprimé ;
 
 4° Les références au maire et à la commune sont supprimées.
 
@@ -17040,14 +17148,9 @@ _Codifié par_:
 
   - Décret n°2015-1342 du 23 octobre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1342 du 23 octobre 2015 - art.
-
-_Cite_:
-
-  - Code des relations entre le public et l'adminis... - art. R134-12 (VD)
-  - Code des relations entre le public et l'adminis... - art. R134-17 (VD)
+  - Décret n°2017-1728 du 21 décembre 2017 - art. 2
 
 
 ### Chapitre III : Dispositions spécifiques relatives au livre II<a id=193></a>
