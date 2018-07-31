@@ -1,5 +1,5 @@
 # Code des relations entre le public et l'administration  
-Version Consolidée au 2018-05-25
+Version Consolidée au 2018-08-01
 ## Contenu: 
   - [Dispositions préliminaires (art. L100-1 à L100-3)](#1)
   - [Livre Ier : LES ÉCHANGES AVEC L'ADMINISTRATION (art. L110-1 à L135-2)](#2)
@@ -6727,18 +6727,18 @@ _Modifié par_:
 
 ###### Article L311-6
 
-Ne sont communicables qu'à l'intéressé les documents administratifs : 
+Ne sont communicables qu'à l'intéressé les documents administratifs :
 
-1° Dont la communication porterait atteinte à la protection de la vie privée, au secret médical et au secret en matière
-commerciale et industrielle, lequel comprend le secret des procédés, des informations économiques et financières et des
-stratégies commerciales ou industrielles et est apprécié en tenant compte, le cas échéant, du fait que la mission de service
-public de l'administration mentionnée au premier alinéa de l'article L. 300-2 est soumise à la concurrence ; 
+1° Dont la communication porterait atteinte à la protection de la vie privée, au secret médical et au secret des affaires,
+lequel comprend le secret des procédés, des informations économiques et financières et des stratégies commerciales ou
+industrielles et est apprécié en tenant compte, le cas échéant, du fait que la mission de service public de l'administration
+mentionnée au premier alinéa de l'article L. 300-2 est soumise à la concurrence ;
 
 2° Portant une appréciation ou un jugement de valeur sur une personne physique, nommément désignée ou facilement
-identifiable ; 
+identifiable ;
 
 3° Faisant apparaître le comportement d'une personne, dès lors que la divulgation de ce comportement pourrait lui porter
-préjudice. 
+préjudice.
 
 Les informations à caractère médical sont communiquées à l'intéressé, selon son choix, directement ou par l'intermédiaire
 d'un médecin qu'il désigne à cet effet, dans le respect des dispositions de l'article L. 1111-7 du code de la santé publique.
@@ -6768,12 +6768,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 6 (V)
+  - Loi n°2018-670 du 30 juillet 2018 - art. 4
 
 _Cite_:
 
   - Code de la santé publique - art. L1111-7
-  - Code des relations entre le public et l'adminis... - art. L300-2 (V)
+  - Code des relations entre le public et l'administration - art. L300-2
 
 
 ###### Article L311-7
@@ -6814,12 +6814,12 @@ traitements à des fins de recherche ou d'étude présentant un caractère d'int
 données ou l'administration des archives peut demander l'avis du comité du secret statistique institué par l'article 6 bis de
 la loi n° 51-711 du 7 juin 1951 sur l'obligation, la coordination et le secret en matière de statistiques. Le comité peut
 recommander le recours à une procédure d'accès sécurisé aux données présentant les garanties appropriées, dans des conditions
-fixées par décret en Conseil d'Etat. 
+fixées par décret en Conseil d'Etat.
 
-L'avis du comité tient compte : 
+L'avis du comité tient compte :
 
 1° Des enjeux attachés aux secrets protégés par la loi, notamment la protection de la vie privée et la protection du secret
-industriel et commercial ; 
+des affaires ;
 
 2° De la nature et de la finalité des travaux pour l'exécution desquels la demande d'accès est formulée.
 
@@ -6848,13 +6848,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 36
+  - Loi n°2018-670 du 30 juillet 2018 - art. 4
 
 _Cite_:
 
   - Code du patrimoine - art. L213-1
-  - Code du patrimoine - art. L213-2
-  - Code du patrimoine - art. L213-3 (V)
+  - Code du patrimoine - art. L213-2 (V)
+  - Code du patrimoine - art. L213-3
 
 
 ###### Article R311-3-1-1
