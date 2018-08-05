@@ -1,5 +1,5 @@
 # Code des relations entre le public et l'administration  
-Version Consolidée au 2018-08-01
+Version Consolidée au 2018-08-06
 ## Contenu: 
   - [Dispositions préliminaires (art. L100-1 à L100-3)](#1)
   - [Livre Ier : LES ÉCHANGES AVEC L'ADMINISTRATION (art. L110-1 à L135-2)](#2)
@@ -96,7 +96,7 @@ Version Consolidée au 2018-08-01
       - [Chapitre III : Les actes réglementaires et les actes non réglementaires non créateurs de droits (art. L243-1 à L243-4)](#93)
         - [Section 1 : Abrogation (art. L243-1 à L243-2)](#94)
         - [Section 2 : Retrait (art. L243-3 à L243-4)](#95)
-  - [Livre III : L'ACCÈS AUX DOCUMENTS ADMINISTRATIFS ET LA RÉUTILISATION DES INFORMATIONS PUBLIQUES (art. L300-1 à R343-12)](#96)
+  - [Livre III : L'ACCÈS AUX DOCUMENTS ADMINISTRATIFS ET LA RÉUTILISATION DES INFORMATIONS PUBLIQUES (art. L300-1 à L351-1)](#96)
     - [Titre Ier : LE DROIT D'ACCÈS AUX DOCUMENTS ADMINISTRATIFS (art. L311-1 à R312-9)](#97)
       - [Chapitre Ier : Communication des documents administratifs (art. L311-1 à R311-15)](#98)
         - [Section 1 : Etendue du droit à communication (art. L311-1 à R311-8-2)](#99)
@@ -121,80 +121,82 @@ Version Consolidée au 2018-08-01
       - [Chapitre III : Procédures applicables devant la Commission d'accès aux documents administratifs (art. R*343-4 à R343-12)](#118)
         - [Section 1 : Procédure applicable aux demandes d'avis relatives à la communication de documents administratifs (art. R*343-4 à R343-5)](#119)
         - [Section 2 : Procédure applicable au prononcé de sanctions (art. R343-6 à R343-12)](#120)
-  - [Livre IV : LE RÈGLEMENT DES DIFFÉRENDS AVEC L'ADMINISTRATION (art. L410-1 à L432-1)](#121)
-    - [Titre Ier : LES RECOURS ADMINISTRATIFS (art. L410-1 à L412-8)](#122)
-      - [Chapitre Ier : Règles générales (art. L411-1 à L411-7)](#123)
-      - [Chapitre II : Recours administratifs préalables obligatoires (art. L412-1 à L412-8)](#124)
-    - [Titre II : LES AUTRES MODES NON JURIDICTIONNELS DE RÉSOLUTION DES DIFFÉRENDS (art. L421-1 à L424-1)](#125)
-      - [Chapitre Ier : Conciliation et médiation dans un cadre non juridictionnel (art. L421-1 à L421-2)](#126)
-      - [Chapitre II : Conciliation et médiation dans un cadre juridictionnel (art. L422-1 à L422-2)](#127)
-      - [Chapitre III : Transaction (art. L423-1)](#128)
-      - [Chapitre IV : Saisine du Défenseur des droits (art. L424-1)](#129)
-    - [Titre III : LES RECOURS JURIDICTIONNELS (art. L431-1 à L432-1)](#130)
-      - [Chapitre Ier : Recours juridictionnels de droit commun : les recours contentieux (art. L431-1)](#131)
-      - [Chapitre II : Arbitrage : principe de prohibition et dérogations (art. L432-1)](#132)
-  - [Livre V : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L500-1 à R584-3)](#133)
-    - [Titre Ier : DISPOSITIONS APPLICABLES EN GUADELOUPE, EN GUYANE, EN MARTINIQUE, À LA RÉUNION ET À MAYOTTE (art. L511-1 à R514-2)](#134)
-      - [Chapitre Ier : Dispositions générales (art. L511-1)](#135)
-      - [Chapitre II : Dispositions spécifiques relatives au livre Ier (art. R512-1 à R512-2)](#136)
-      - [Chapitre III : Dispositions spécifiques relatives au livre II (art. L513-1 à L513-2)](#137)
-      - [Chapitre IV : Dispositions spécifiques relatives au livre III (art. R514-1 à R514-2)](#138)
-    - [Titre II : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY (art. L521-1 à R524-3)](#139)
-      - [Chapitre Ier : Dispositions générales (art. L521-1)](#140)
-      - [Chapitre II : Dispositions spécifiques relatives au livre Ier (art. L522-1 à R522-2)](#141)
-      - [Chapitre III : Dispositions spécifiques relatives au livre II (art. L523-1 à L523-2)](#142)
-      - [Chapitre IV : Dispositions spécifiques relatives au livre III (art. L524-1 à R524-3)](#143)
-    - [Titre III : DISPOSITIONS APPLICABLES À SAINT-MARTIN (art. L531-1 à R534-3)](#144)
-      - [Chapitre Ier : Dispositions générales (art. L531-1)](#145)
-      - [Chapitre II : Dispositions spécifiques relatives au livre Ier (art. R532-1)](#146)
-      - [Chapitre III : Dispositions spécifiques relatives au livre II (art. L533-1 à L533-2)](#147)
-      - [Chapitre IV : Dispositions spécifiques relatives au livre III (art. L534-1 à R534-3)](#148)
-    - [Titre IV : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON (art. L541-1 à R544-4)](#149)
-      - [Chapitre Ier : Dispositions générales (art. L541-1)](#150)
-      - [Chapitre II : Dispositions spécifiques relatives au livre Ier (art. R542-1)](#151)
-      - [Chapitre III : Dispositions spécifiques relatives au livre II (art. L543-1 à R543-2)](#152)
-      - [Chapitre IV : Dispositions spécifiques relatives au livre III (art. L544-1 à R544-4)](#153)
-    - [Titre V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE (art. L551-1 à R553-4)](#154)
-      - [Chapitre Ier : Dispositions générales (art. L551-1)](#155)
-      - [Chapitre II : Dispositions applicables à l'Etat, aux communes et à leurs établissements publics et autres organismes et personnes placés sous leur contrôle (art. L552-1 à R552-18)](#156)
-        - [Section 1 : Dispositions applicables à l'Etat, aux communes et à leurs établissements publics (art. L552-1 à L552-2)](#157)
-        - [Section 2 : Dispositions applicables aux organismes et personnes de droit public et de droit privé, autres que les établissements publics, placés sous le contrôle de l'Etat ou des communes (art. L552-3 à L552-12)](#158)
-          - [Sous-section 1 : Dispositions applicables du livre Ier (art. L552-3 à R552-5)](#159)
-          - [Sous-section 2 : Dispositions applicables du livre II (art. D552-7 à L552-6)](#160)
-          - [Sous-section 3 : Dispositions applicables du livre III (art. D552-11 à R552-10)](#161)
-          - [Sous-section 4 : Dispositions applicables du livre IV (art. L552-12)](#162)
-        - [Section 3 : Dispositions d'adaptation (art. L552-13 à R552-18)](#163)
-          - [Sous-section 1 : Dispositions d'adaptation du livre Ier (art. L552-13 à R552-14)](#164)
-          - [Sous-section 2 : Dispositions d'adaptation du livre III (art. L552-15 à R552-18)](#165)
-      - [Chapitre III : Dispositions applicables à la Polynésie française et aux organismes et personnes placées sous son contrôle (art. L553-1 à R553-4)](#166)
-    - [Titre VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE (art. L561-1 à R563-4)](#167)
-      - [Chapitre Ier : Dispositions générales (art. L561-1)](#168)
-      - [Chapitre II : Dispositions applicables à l'Etat, aux communes et à leurs établissements publics et aux autres organismes et personnes placés sous leur contrôle (art. L562-1 à R562-19)](#169)
-        - [Section 1 : Dispositions applicables à l'Etat, aux communes et à leurs établissements publics (art. L562-1 à L562-2)](#170)
-        - [Section 2 : Dispositions applicables aux organismes et personnes de droit public et de droit privé, autres que les établissements publics, placés sous le contrôle de l'Etat et des communes (art. L562-3 à L562-12)](#171)
-          - [Sous-section 1 : Dispositions applicables du livre Ier (art. L562-3 à R562-5)](#172)
-          - [Sous-section 2 : Dispositions applicables du livre II (art. D562-7 à L562-6)](#173)
-          - [Sous-section 3 : Dispositions applicables du livre III (art. D562-11 à R562-10)](#174)
-          - [Sous-section 4 : Dispositions applicables du livre IV (art. L562-12)](#175)
-        - [Section 3 : Dispositions d'adaptation (art. L562-13 à R562-19)](#176)
-          - [Sous-section 1 : Dispositions d'adaptation du livre Ier (art. L562-13 à R562-14)](#177)
-          - [Sous-section 2 : Dispositions d'adaptation du livre II (art. L562-15)](#178)
-          - [Sous-section 3 : Dispositions d'adaptation du livre III (art. L562-16 à R562-19)](#179)
-      - [Chapitre III : Dispositions applicables à la Nouvelle-Calédonie, à ses provinces et aux organismes et personnes placés sous leur contrôle (art. L563-1 à R563-4)](#180)
-    - [Titre VII : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA (art. L571-1 à L575-1)](#181)
-      - [Chapitre Ier : Dispositions générales (art. L571-1)](#182)
-      - [Chapitre II : Dispositions spécifiques relatives au livre Ier (art. D572-4 à R572-6)](#183)
-      - [Chapitre III : Dispositions spécifiques relatives au livre II (art. D573-4 à R573-1-1)](#184)
-      - [Chapitre IV : Dispositions spécifiques relatives au livre III (art. D574-4 à R574-8)](#185)
-        - [Section 1 : Dispositions relatives à l'Etat et aux organismes placés sous son contrôle (art. D574-4 à R574-3)](#186)
-        - [Section 2 : Dispositions relatives à la collectivité de Wallis-et-Futuna et aux organismes placés sous son contrôle (art. D574-5-3 à R574-5-2)](#187)
-        - [Section 3 : Dispositions d'adaptation (art. L574-6 à R574-8)](#188)
-      - [Chapitre V : Dispositions spécifiques relatives au livre IV (art. L575-1)](#189)
-    - [Titre VIII : DISPOSITIONS APPLICABLES DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES (art. L581-1 à R584-3)](#190)
-      - [Chapitre Ier : Dispositions générales (art. L581-1)](#191)
-      - [Chapitre II : Dispositions spécifiques relatives au livre Ier (art. L582-1 à R582-2)](#192)
-      - [Chapitre III : Dispositions spécifiques relatives au livre II (art. L583-1)](#193)
-      - [Chapitre IV : Dispositions spécifiques relatives au livre III (art. L584-1 à R584-3)](#194)
+    - [Titre V : LA COMMISSION SUPÉRIEURE DE CODIFICATION (art. L351-1)](#121)
+      - [Chapitre unique : Missions et composition (art. L351-1)](#122)
+  - [Livre IV : LE RÈGLEMENT DES DIFFÉRENDS AVEC L'ADMINISTRATION (art. L410-1 à L432-1)](#123)
+    - [Titre Ier : LES RECOURS ADMINISTRATIFS (art. L410-1 à L412-8)](#124)
+      - [Chapitre Ier : Règles générales (art. L411-1 à L411-7)](#125)
+      - [Chapitre II : Recours administratifs préalables obligatoires (art. L412-1 à L412-8)](#126)
+    - [Titre II : LES AUTRES MODES NON JURIDICTIONNELS DE RÉSOLUTION DES DIFFÉRENDS (art. L421-1 à L424-1)](#127)
+      - [Chapitre Ier : Conciliation et médiation dans un cadre non juridictionnel (art. L421-1 à L421-2)](#128)
+      - [Chapitre II : Conciliation et médiation dans un cadre juridictionnel (art. L422-1 à L422-2)](#129)
+      - [Chapitre III : Transaction (art. L423-1)](#130)
+      - [Chapitre IV : Saisine du Défenseur des droits (art. L424-1)](#131)
+    - [Titre III : LES RECOURS JURIDICTIONNELS (art. L431-1 à L432-1)](#132)
+      - [Chapitre Ier : Recours juridictionnels de droit commun : les recours contentieux (art. L431-1)](#133)
+      - [Chapitre II : Arbitrage : principe de prohibition et dérogations (art. L432-1)](#134)
+  - [Livre V : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L500-1 à R584-3)](#135)
+    - [Titre Ier : DISPOSITIONS APPLICABLES EN GUADELOUPE, EN GUYANE, EN MARTINIQUE, À LA RÉUNION ET À MAYOTTE (art. L511-1 à R514-2)](#136)
+      - [Chapitre Ier : Dispositions générales (art. L511-1)](#137)
+      - [Chapitre II : Dispositions spécifiques relatives au livre Ier (art. R512-1 à R512-2)](#138)
+      - [Chapitre III : Dispositions spécifiques relatives au livre II (art. L513-1 à L513-2)](#139)
+      - [Chapitre IV : Dispositions spécifiques relatives au livre III (art. R514-1 à R514-2)](#140)
+    - [Titre II : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY (art. L521-1 à R524-3)](#141)
+      - [Chapitre Ier : Dispositions générales (art. L521-1)](#142)
+      - [Chapitre II : Dispositions spécifiques relatives au livre Ier (art. L522-1 à R522-2)](#143)
+      - [Chapitre III : Dispositions spécifiques relatives au livre II (art. L523-1 à L523-2)](#144)
+      - [Chapitre IV : Dispositions spécifiques relatives au livre III (art. L524-1 à R524-3)](#145)
+    - [Titre III : DISPOSITIONS APPLICABLES À SAINT-MARTIN (art. L531-1 à R534-3)](#146)
+      - [Chapitre Ier : Dispositions générales (art. L531-1)](#147)
+      - [Chapitre II : Dispositions spécifiques relatives au livre Ier (art. R532-1)](#148)
+      - [Chapitre III : Dispositions spécifiques relatives au livre II (art. L533-1 à L533-2)](#149)
+      - [Chapitre IV : Dispositions spécifiques relatives au livre III (art. L534-1 à R534-3)](#150)
+    - [Titre IV : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON (art. L541-1 à R544-4)](#151)
+      - [Chapitre Ier : Dispositions générales (art. L541-1)](#152)
+      - [Chapitre II : Dispositions spécifiques relatives au livre Ier (art. R542-1)](#153)
+      - [Chapitre III : Dispositions spécifiques relatives au livre II (art. L543-1 à R543-2)](#154)
+      - [Chapitre IV : Dispositions spécifiques relatives au livre III (art. L544-1 à R544-4)](#155)
+    - [Titre V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE (art. L551-1 à R553-4)](#156)
+      - [Chapitre Ier : Dispositions générales (art. L551-1)](#157)
+      - [Chapitre II : Dispositions applicables à l'Etat, aux communes et à leurs établissements publics et autres organismes et personnes placés sous leur contrôle (art. L552-1 à R552-18)](#158)
+        - [Section 1 : Dispositions applicables à l'Etat, aux communes et à leurs établissements publics (art. L552-1 à L552-2)](#159)
+        - [Section 2 : Dispositions applicables aux organismes et personnes de droit public et de droit privé, autres que les établissements publics, placés sous le contrôle de l'Etat ou des communes (art. L552-3 à L552-12)](#160)
+          - [Sous-section 1 : Dispositions applicables du livre Ier (art. L552-3 à R552-5)](#161)
+          - [Sous-section 2 : Dispositions applicables du livre II (art. D552-7 à L552-6)](#162)
+          - [Sous-section 3 : Dispositions applicables du livre III (art. D552-11 à R552-10)](#163)
+          - [Sous-section 4 : Dispositions applicables du livre IV (art. L552-12)](#164)
+        - [Section 3 : Dispositions d'adaptation (art. L552-13 à R552-18)](#165)
+          - [Sous-section 1 : Dispositions d'adaptation du livre Ier (art. L552-13 à R552-14)](#166)
+          - [Sous-section 2 : Dispositions d'adaptation du livre III (art. L552-15 à R552-18)](#167)
+      - [Chapitre III : Dispositions applicables à la Polynésie française et aux organismes et personnes placées sous son contrôle (art. L553-1 à R553-4)](#168)
+    - [Titre VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE (art. L561-1 à R563-4)](#169)
+      - [Chapitre Ier : Dispositions générales (art. L561-1)](#170)
+      - [Chapitre II : Dispositions applicables à l'Etat, aux communes et à leurs établissements publics et aux autres organismes et personnes placés sous leur contrôle (art. L562-1 à R562-19)](#171)
+        - [Section 1 : Dispositions applicables à l'Etat, aux communes et à leurs établissements publics (art. L562-1 à L562-2)](#172)
+        - [Section 2 : Dispositions applicables aux organismes et personnes de droit public et de droit privé, autres que les établissements publics, placés sous le contrôle de l'Etat et des communes (art. L562-3 à L562-12)](#173)
+          - [Sous-section 1 : Dispositions applicables du livre Ier (art. L562-3 à R562-5)](#174)
+          - [Sous-section 2 : Dispositions applicables du livre II (art. D562-7 à L562-6)](#175)
+          - [Sous-section 3 : Dispositions applicables du livre III (art. D562-11 à R562-10)](#176)
+          - [Sous-section 4 : Dispositions applicables du livre IV (art. L562-12)](#177)
+        - [Section 3 : Dispositions d'adaptation (art. L562-13 à R562-19)](#178)
+          - [Sous-section 1 : Dispositions d'adaptation du livre Ier (art. L562-13 à R562-14)](#179)
+          - [Sous-section 2 : Dispositions d'adaptation du livre II (art. L562-15)](#180)
+          - [Sous-section 3 : Dispositions d'adaptation du livre III (art. L562-16 à R562-19)](#181)
+      - [Chapitre III : Dispositions applicables à la Nouvelle-Calédonie, à ses provinces et aux organismes et personnes placés sous leur contrôle (art. L563-1 à R563-4)](#182)
+    - [Titre VII : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA (art. L571-1 à L575-1)](#183)
+      - [Chapitre Ier : Dispositions générales (art. L571-1)](#184)
+      - [Chapitre II : Dispositions spécifiques relatives au livre Ier (art. D572-4 à R572-6)](#185)
+      - [Chapitre III : Dispositions spécifiques relatives au livre II (art. D573-4 à R573-1-1)](#186)
+      - [Chapitre IV : Dispositions spécifiques relatives au livre III (art. D574-4 à R574-8)](#187)
+        - [Section 1 : Dispositions relatives à l'Etat et aux organismes placés sous son contrôle (art. D574-4 à R574-3)](#188)
+        - [Section 2 : Dispositions relatives à la collectivité de Wallis-et-Futuna et aux organismes placés sous son contrôle (art. D574-5-3 à R574-5-2)](#189)
+        - [Section 3 : Dispositions d'adaptation (art. L574-6 à R574-8)](#190)
+      - [Chapitre V : Dispositions spécifiques relatives au livre IV (art. L575-1)](#191)
+    - [Titre VIII : DISPOSITIONS APPLICABLES DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES (art. L581-1 à R584-3)](#192)
+      - [Chapitre Ier : Dispositions générales (art. L581-1)](#193)
+      - [Chapitre II : Dispositions spécifiques relatives au livre Ier (art. L582-1 à R582-2)](#194)
+      - [Chapitre III : Dispositions spécifiques relatives au livre II (art. L583-1)](#195)
+      - [Chapitre IV : Dispositions spécifiques relatives au livre III (art. L584-1 à R584-3)](#196)
 # Dispositions préliminaires<a id=1></a>
 
 ###### Article L100-1
@@ -10573,9 +10575,30 @@ _Créé par_:
   - Décret n°2015-1342 du 23 octobre 2015 - art.
 
 
-# Livre IV : LE RÈGLEMENT DES DIFFÉRENDS AVEC L'ADMINISTRATION<a id=121></a>
+## Titre V : LA COMMISSION SUPÉRIEURE DE CODIFICATION<a id=121></a>
 
-## Titre Ier : LES RECOURS ADMINISTRATIFS<a id=122></a>
+### Chapitre unique : Missions et composition<a id=122></a>
+
+###### Article L351-1
+
+I. - La Commission supérieure de codification comprend parmi ses membres un député et un sénateur.
+
+II. - Les missions, la composition, l'organisation et le fonctionnement de la commission sont précisés par décret.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-699 du 3 août 2018 - art. 29
+
+_Cité par_:
+
+  - Décret n°2019-60 du 30 janvier 2019 (V)
+
+
+# Livre IV : LE RÈGLEMENT DES DIFFÉRENDS AVEC L'ADMINISTRATION<a id=123></a>
+
+## Titre Ier : LES RECOURS ADMINISTRATIFS<a id=124></a>
 
 ###### Article L410-1
 
@@ -10609,7 +10632,7 @@ _Cité par_:
   - Code des relations entre le public et l'adminis... - art. L575-1 (VD)
 
 
-### Chapitre Ier : Règles générales<a id=123></a>
+### Chapitre Ier : Règles générales<a id=125></a>
 
 ###### Article L411-1
 
@@ -10775,7 +10798,7 @@ _Cité par_:
   - Code du travail - art. R5426-19 (V)
 
 
-### Chapitre II : Recours administratifs préalables obligatoires<a id=124></a>
+### Chapitre II : Recours administratifs préalables obligatoires<a id=126></a>
 
 ###### Article L412-1
 
@@ -10929,9 +10952,9 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. L211-2 (VD)
 
 
-## Titre II : LES AUTRES MODES NON JURIDICTIONNELS DE RÉSOLUTION DES DIFFÉRENDS<a id=125></a>
+## Titre II : LES AUTRES MODES NON JURIDICTIONNELS DE RÉSOLUTION DES DIFFÉRENDS<a id=127></a>
 
-### Chapitre Ier : Conciliation et médiation dans un cadre non juridictionnel<a id=126></a>
+### Chapitre Ier : Conciliation et médiation dans un cadre non juridictionnel<a id=128></a>
 
 ###### Article L421-1
 
@@ -10976,7 +10999,7 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-### Chapitre II : Conciliation et médiation dans un cadre juridictionnel<a id=127></a>
+### Chapitre II : Conciliation et médiation dans un cadre juridictionnel<a id=129></a>
 
 ###### Article L422-1
 
@@ -11010,7 +11033,7 @@ _Modifié par_:
   - Loi n°2016-1547 du 18 novembre 2016 - art. 5 (V)
 
 
-### Chapitre III : Transaction<a id=128></a>
+### Chapitre III : Transaction<a id=130></a>
 
 ###### Article L423-1
 
@@ -11038,7 +11061,7 @@ _Cité par_:
   - Code des relations entre le public et l'adminis... - art. L562-12 (VD)
 
 
-### Chapitre IV : Saisine du Défenseur des droits<a id=129></a>
+### Chapitre IV : Saisine du Défenseur des droits<a id=131></a>
 
 ###### Article L424-1
 
@@ -11060,9 +11083,9 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-## Titre III : LES RECOURS JURIDICTIONNELS<a id=130></a>
+## Titre III : LES RECOURS JURIDICTIONNELS<a id=132></a>
 
-### Chapitre Ier : Recours juridictionnels de droit commun : les recours contentieux<a id=131></a>
+### Chapitre Ier : Recours juridictionnels de droit commun : les recours contentieux<a id=133></a>
 
 ###### Article L431-1
 
@@ -11085,7 +11108,7 @@ _Cite_:
   - Code de justice administrative
 
 
-### Chapitre II : Arbitrage : principe de prohibition et dérogations<a id=132></a>
+### Chapitre II : Arbitrage : principe de prohibition et dérogations<a id=134></a>
 
 ###### Article L432-1
 
@@ -11111,7 +11134,7 @@ _Cite_:
   - Code de justice administrative - art. L311-6
 
 
-# Livre V : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=133></a>
+# Livre V : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=135></a>
 
 ###### Article L500-1
 
@@ -11130,9 +11153,9 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-## Titre Ier : DISPOSITIONS APPLICABLES EN GUADELOUPE, EN GUYANE, EN MARTINIQUE, À LA RÉUNION ET À MAYOTTE<a id=134></a>
+## Titre Ier : DISPOSITIONS APPLICABLES EN GUADELOUPE, EN GUYANE, EN MARTINIQUE, À LA RÉUNION ET À MAYOTTE<a id=136></a>
 
-### Chapitre Ier : Dispositions générales<a id=135></a>
+### Chapitre Ier : Dispositions générales<a id=137></a>
 
 ###### Article L511-1
 
@@ -11155,7 +11178,7 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-### Chapitre II : Dispositions spécifiques relatives au livre Ier<a id=136></a>
+### Chapitre II : Dispositions spécifiques relatives au livre Ier<a id=138></a>
 
 ###### Article R512-1
 
@@ -11209,7 +11232,7 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. R134-24 (VD)
 
 
-### Chapitre III : Dispositions spécifiques relatives au livre II<a id=137></a>
+### Chapitre III : Dispositions spécifiques relatives au livre II<a id=139></a>
 
 ###### Article L513-1
 
@@ -11251,7 +11274,7 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-### Chapitre IV : Dispositions spécifiques relatives au livre III<a id=138></a>
+### Chapitre IV : Dispositions spécifiques relatives au livre III<a id=140></a>
 
 ###### Article R514-1
 
@@ -11286,9 +11309,9 @@ _Créé par_:
   - Décret n°2015-1342 du 23 octobre 2015 - art.
 
 
-## Titre II : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY<a id=139></a>
+## Titre II : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY<a id=141></a>
 
-### Chapitre Ier : Dispositions générales<a id=140></a>
+### Chapitre Ier : Dispositions générales<a id=142></a>
 
 ###### Article L521-1
 
@@ -11317,7 +11340,7 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-### Chapitre II : Dispositions spécifiques relatives au livre Ier<a id=141></a>
+### Chapitre II : Dispositions spécifiques relatives au livre Ier<a id=143></a>
 
 ###### Article L522-1
 
@@ -11379,7 +11402,7 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. R134-32 (VD)
 
 
-### Chapitre III : Dispositions spécifiques relatives au livre II<a id=142></a>
+### Chapitre III : Dispositions spécifiques relatives au livre II<a id=144></a>
 
 ###### Article L523-1
 
@@ -11433,7 +11456,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. LO6241-1
 
 
-### Chapitre IV : Dispositions spécifiques relatives au livre III<a id=143></a>
+### Chapitre IV : Dispositions spécifiques relatives au livre III<a id=145></a>
 
 ###### Article L524-1
 
@@ -11492,9 +11515,9 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. R312-4 (VD)
 
 
-## Titre III : DISPOSITIONS APPLICABLES À SAINT-MARTIN<a id=144></a>
+## Titre III : DISPOSITIONS APPLICABLES À SAINT-MARTIN<a id=146></a>
 
-### Chapitre Ier : Dispositions générales<a id=145></a>
+### Chapitre Ier : Dispositions générales<a id=147></a>
 
 ###### Article L531-1
 
@@ -11523,7 +11546,7 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-### Chapitre II : Dispositions spécifiques relatives au livre Ier<a id=146></a>
+### Chapitre II : Dispositions spécifiques relatives au livre Ier<a id=148></a>
 
 ###### Article R532-1
 
@@ -11563,7 +11586,7 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. R134-32 (VD)
 
 
-### Chapitre III : Dispositions spécifiques relatives au livre II<a id=147></a>
+### Chapitre III : Dispositions spécifiques relatives au livre II<a id=149></a>
 
 ###### Article L533-1
 
@@ -11616,7 +11639,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. LO6341-1
 
 
-### Chapitre IV : Dispositions spécifiques relatives au livre III<a id=148></a>
+### Chapitre IV : Dispositions spécifiques relatives au livre III<a id=150></a>
 
 ###### Article L534-1
 
@@ -11675,9 +11698,9 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. R312-4 (VD)
 
 
-## Titre IV : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON<a id=149></a>
+## Titre IV : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON<a id=151></a>
 
-### Chapitre Ier : Dispositions générales<a id=150></a>
+### Chapitre Ier : Dispositions générales<a id=152></a>
 
 ###### Article L541-1
 
@@ -11706,7 +11729,7 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-### Chapitre II : Dispositions spécifiques relatives au livre Ier<a id=151></a>
+### Chapitre II : Dispositions spécifiques relatives au livre Ier<a id=153></a>
 
 ###### Article R542-1
 
@@ -11747,7 +11770,7 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. R134-32 (VD)
 
 
-### Chapitre III : Dispositions spécifiques relatives au livre II<a id=152></a>
+### Chapitre III : Dispositions spécifiques relatives au livre II<a id=154></a>
 
 ###### Article L543-1
 
@@ -11801,7 +11824,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. LO6451-1 (V)
 
 
-### Chapitre IV : Dispositions spécifiques relatives au livre III<a id=153></a>
+### Chapitre IV : Dispositions spécifiques relatives au livre III<a id=155></a>
 
 ###### Article L544-1
 
@@ -11881,9 +11904,9 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. R330-2 (VD)
 
 
-## Titre V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE<a id=154></a>
+## Titre V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE<a id=156></a>
 
-### Chapitre Ier : Dispositions générales<a id=155></a>
+### Chapitre Ier : Dispositions générales<a id=157></a>
 
 ###### Article L551-1
 
@@ -11901,9 +11924,9 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-### Chapitre II : Dispositions applicables à l'Etat, aux communes et à leurs établissements publics et autres organismes et personnes placés sous leur contrôle<a id=156></a>
+### Chapitre II : Dispositions applicables à l'Etat, aux communes et à leurs établissements publics et autres organismes et personnes placés sous leur contrôle<a id=158></a>
 
-#### Section 1 : Dispositions applicables à l'Etat, aux communes et à leurs établissements publics<a id=157></a>
+#### Section 1 : Dispositions applicables à l'Etat, aux communes et à leurs établissements publics<a id=159></a>
 
 ###### Article L552-1
 
@@ -11959,9 +11982,9 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-#### Section 2 : Dispositions applicables aux organismes et personnes de droit public et de droit privé, autres que les établissements publics, placés sous le contrôle de l'Etat ou des communes<a id=158></a>
+#### Section 2 : Dispositions applicables aux organismes et personnes de droit public et de droit privé, autres que les établissements publics, placés sous le contrôle de l'Etat ou des communes<a id=160></a>
 
-##### Sous-section 1 : Dispositions applicables du livre Ier<a id=159></a>
+##### Sous-section 1 : Dispositions applicables du livre Ier<a id=161></a>
 
 ###### Article L552-3
 
@@ -12323,7 +12346,7 @@ _Modifié par_:
   - Décret n°2017-1728 du 21 décembre 2017 - art. 2
 
 
-##### Sous-section 2 : Dispositions applicables du livre II<a id=160></a>
+##### Sous-section 2 : Dispositions applicables du livre II<a id=162></a>
 
 ###### Article D552-7
 
@@ -12575,7 +12598,7 @@ _Modifié par_:
   - Loi n°2017-258 du 28 février 2017 - art. 40
 
 
-##### Sous-section 3 : Dispositions applicables du livre III<a id=161></a>
+##### Sous-section 3 : Dispositions applicables du livre III<a id=163></a>
 
 ###### Article D552-11
 
@@ -13197,7 +13220,7 @@ _Modifié par_:
   - Décret n°2017-349 du 20 mars 2017 - art. 2
 
 
-##### Sous-section 4 : Dispositions applicables du livre IV<a id=162></a>
+##### Sous-section 4 : Dispositions applicables du livre IV<a id=164></a>
 
 ###### Article L552-12
 
@@ -13248,9 +13271,9 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-#### Section 3 : Dispositions d'adaptation<a id=163></a>
+#### Section 3 : Dispositions d'adaptation<a id=165></a>
 
-##### Sous-section 1 : Dispositions d'adaptation du livre Ier<a id=164></a>
+##### Sous-section 1 : Dispositions d'adaptation du livre Ier<a id=166></a>
 
 ###### Article L552-13
 
@@ -13315,7 +13338,7 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. R134-32 (VD)
 
 
-##### Sous-section 2 : Dispositions d'adaptation du livre III<a id=165></a>
+##### Sous-section 2 : Dispositions d'adaptation du livre III<a id=167></a>
 
 ###### Article L552-15
 
@@ -13403,7 +13426,7 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. R312-4 (VD)
 
 
-### Chapitre III : Dispositions applicables à la Polynésie française et aux organismes et personnes placées sous son contrôle<a id=166></a>
+### Chapitre III : Dispositions applicables à la Polynésie française et aux organismes et personnes placées sous son contrôle<a id=168></a>
 
 ###### Article L553-1
 
@@ -13535,9 +13558,9 @@ _Modifié par_:
   - Décret n°2017-349 du 20 mars 2017 - art. 2
 
 
-## Titre VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE<a id=167></a>
+## Titre VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE<a id=169></a>
 
-### Chapitre Ier : Dispositions générales<a id=168></a>
+### Chapitre Ier : Dispositions générales<a id=170></a>
 
 ###### Article L561-1
 
@@ -13555,9 +13578,9 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-### Chapitre II : Dispositions applicables à l'Etat, aux communes et à leurs établissements publics et aux autres organismes et personnes placés sous leur contrôle<a id=169></a>
+### Chapitre II : Dispositions applicables à l'Etat, aux communes et à leurs établissements publics et aux autres organismes et personnes placés sous leur contrôle<a id=171></a>
 
-#### Section 1 : Dispositions applicables à l'Etat, aux communes et à leurs établissements publics<a id=170></a>
+#### Section 1 : Dispositions applicables à l'Etat, aux communes et à leurs établissements publics<a id=172></a>
 
 ###### Article L562-1
 
@@ -13612,9 +13635,9 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-#### Section 2 : Dispositions applicables aux organismes et personnes de droit public et de droit privé, autres que les établissements publics, placés sous le contrôle de l'Etat et des communes<a id=171></a>
+#### Section 2 : Dispositions applicables aux organismes et personnes de droit public et de droit privé, autres que les établissements publics, placés sous le contrôle de l'Etat et des communes<a id=173></a>
 
-##### Sous-section 1 : Dispositions applicables du livre Ier<a id=172></a>
+##### Sous-section 1 : Dispositions applicables du livre Ier<a id=174></a>
 
 ###### Article L562-3
 
@@ -13977,7 +14000,7 @@ _Modifié par_:
   - Décret n°2017-1728 du 21 décembre 2017 - art. 2
 
 
-##### Sous-section 2 : Dispositions applicables du livre II<a id=173></a>
+##### Sous-section 2 : Dispositions applicables du livre II<a id=175></a>
 
 ###### Article D562-7
 
@@ -14245,7 +14268,7 @@ _Modifié par_:
   - Loi n°2017-258 du 28 février 2017 - art. 40
 
 
-##### Sous-section 3 : Dispositions applicables du livre III<a id=174></a>
+##### Sous-section 3 : Dispositions applicables du livre III<a id=176></a>
 
 ###### Article D562-11
 
@@ -14870,7 +14893,7 @@ _Modifié par_:
   - Décret n°2017-349 du 20 mars 2017 - art. 2
 
 
-##### Sous-section 4 : Dispositions applicables du livre IV<a id=175></a>
+##### Sous-section 4 : Dispositions applicables du livre IV<a id=177></a>
 
 ###### Article L562-12
 
@@ -14921,9 +14944,9 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-#### Section 3 : Dispositions d'adaptation<a id=176></a>
+#### Section 3 : Dispositions d'adaptation<a id=178></a>
 
-##### Sous-section 1 : Dispositions d'adaptation du livre Ier<a id=177></a>
+##### Sous-section 1 : Dispositions d'adaptation du livre Ier<a id=179></a>
 
 ###### Article L562-13
 
@@ -14983,7 +15006,7 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. R134-3 (VD)
 
 
-##### Sous-section 2 : Dispositions d'adaptation du livre II<a id=178></a>
+##### Sous-section 2 : Dispositions d'adaptation du livre II<a id=180></a>
 
 ###### Article L562-15
 
@@ -15008,7 +15031,7 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. L222-1 (VD)
 
 
-##### Sous-section 3 : Dispositions d'adaptation du livre III<a id=179></a>
+##### Sous-section 3 : Dispositions d'adaptation du livre III<a id=181></a>
 
 ###### Article L562-16
 
@@ -15098,7 +15121,7 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. R312-4 (VD)
 
 
-### Chapitre III : Dispositions applicables à la Nouvelle-Calédonie, à ses provinces et aux organismes et personnes placés sous leur contrôle<a id=180></a>
+### Chapitre III : Dispositions applicables à la Nouvelle-Calédonie, à ses provinces et aux organismes et personnes placés sous leur contrôle<a id=182></a>
 
 ###### Article L563-1
 
@@ -15232,9 +15255,9 @@ _Modifié par_:
   - Décret n°2017-349 du 20 mars 2017 - art. 2
 
 
-## Titre VII : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA<a id=181></a>
+## Titre VII : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA<a id=183></a>
 
-### Chapitre Ier : Dispositions générales<a id=182></a>
+### Chapitre Ier : Dispositions générales<a id=184></a>
 
 ###### Article L571-1
 
@@ -15252,7 +15275,7 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-### Chapitre II : Dispositions spécifiques relatives au livre Ier<a id=183></a>
+### Chapitre II : Dispositions spécifiques relatives au livre Ier<a id=185></a>
 
 ###### Article D572-4
 
@@ -15746,7 +15769,7 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. R134-32 (VD)
 
 
-### Chapitre III : Dispositions spécifiques relatives au livre II<a id=184></a>
+### Chapitre III : Dispositions spécifiques relatives au livre II<a id=186></a>
 
 ###### Article D573-4
 
@@ -16094,9 +16117,9 @@ _Cite_:
   - Code des relations entre le public et l'administration - art. R221-15
 
 
-### Chapitre IV : Dispositions spécifiques relatives au livre III<a id=185></a>
+### Chapitre IV : Dispositions spécifiques relatives au livre III<a id=187></a>
 
-#### Section 1 : Dispositions relatives à l'Etat et aux organismes placés sous son contrôle<a id=186></a>
+#### Section 1 : Dispositions relatives à l'Etat et aux organismes placés sous son contrôle<a id=188></a>
 
 ###### Article D574-4
 
@@ -16722,7 +16745,7 @@ _Modifié par_:
   - Décret n°2017-349 du 20 mars 2017 - art. 2
 
 
-#### Section 2 : Dispositions relatives à la collectivité de Wallis-et-Futuna et aux organismes placés sous son contrôle<a id=187></a>
+#### Section 2 : Dispositions relatives à la collectivité de Wallis-et-Futuna et aux organismes placés sous son contrôle<a id=189></a>
 
 ###### Article D574-5-3
 
@@ -16945,7 +16968,7 @@ _Modifié par_:
   - Décret n°2017-330 du 14 mars 2017 - art. 2
 
 
-#### Section 3 : Dispositions d'adaptation<a id=188></a>
+#### Section 3 : Dispositions d'adaptation<a id=190></a>
 
 ###### Article L574-6
 
@@ -17009,7 +17032,7 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. R312-4 (VD)
 
 
-### Chapitre V : Dispositions spécifiques relatives au livre IV<a id=189></a>
+### Chapitre V : Dispositions spécifiques relatives au livre IV<a id=191></a>
 
 ###### Article L575-1
 
@@ -17059,9 +17082,9 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-## Titre VIII : DISPOSITIONS APPLICABLES DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES<a id=190></a>
+## Titre VIII : DISPOSITIONS APPLICABLES DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES<a id=192></a>
 
-### Chapitre Ier : Dispositions générales<a id=191></a>
+### Chapitre Ier : Dispositions générales<a id=193></a>
 
 ###### Article L581-1
 
@@ -17086,7 +17109,7 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-### Chapitre II : Dispositions spécifiques relatives au livre Ier<a id=192></a>
+### Chapitre II : Dispositions spécifiques relatives au livre Ier<a id=194></a>
 
 ###### Article L582-1
 
@@ -17144,7 +17167,7 @@ _Modifié par_:
   - Décret n°2017-1728 du 21 décembre 2017 - art. 2
 
 
-### Chapitre III : Dispositions spécifiques relatives au livre II<a id=193></a>
+### Chapitre III : Dispositions spécifiques relatives au livre II<a id=195></a>
 
 ###### Article L583-1
 
@@ -17178,7 +17201,7 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-### Chapitre IV : Dispositions spécifiques relatives au livre III<a id=194></a>
+### Chapitre IV : Dispositions spécifiques relatives au livre III<a id=196></a>
 
 ###### Article L584-1
 
