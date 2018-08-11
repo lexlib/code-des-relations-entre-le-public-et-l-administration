@@ -1,9 +1,9 @@
 # Code des relations entre le public et l'administration  
-Version Consolidée au 2018-08-06
+Version Consolidée au 2018-08-12
 ## Contenu: 
   - [Dispositions préliminaires (art. L100-1 à L100-3)](#1)
   - [Livre Ier : LES ÉCHANGES AVEC L'ADMINISTRATION (art. L110-1 à L135-2)](#2)
-    - [Titre Ier : LES DEMANDES DU PUBLIC ET LEUR TRAITEMENT (art. L110-1 à L114-10)](#3)
+    - [Titre Ier : LES DEMANDES DU PUBLIC ET LEUR TRAITEMENT (art. L110-1 à L114-11)](#3)
       - [Chapitre Ier : Règles générales (art. L111-1 à L111-3)](#4)
       - [Chapitre II : Modalités de saisine et d'échanges (art. L112-1 à R112-20)](#5)
         - [Section 1 : Règles générales (art. L112-1 à R112-5)](#6)
@@ -20,183 +20,189 @@ Version Consolidée au 2018-08-06
           - [Sous-section 1 : Justification de l'identité, de l'état civil, de la situation familiale, de la nationalité française et du domicile (art. R113-5 à R113-9)](#17)
           - [Sous-section 2 : Certification conforme à l'original (art. R113-10 à R113-11)](#18)
           - [Sous-section 3 : Informations déjà produites ou pouvant être obtenues auprès d'une autre administration (art. L113-12 à L113-13)](#19)
-      - [Chapitre IV : Diligences de l'administration (art. L114-1 à L114-10)](#20)
+      - [Chapitre IV : Diligences de l'administration (art. L114-1 à L114-11)](#20)
         - [Section 1 : Transmission à l'autorité compétente (art. L114-2 à L114-4)](#21)
         - [Section 2 : Demandes de régularisation des dossiers incomplets ou irréguliers (art. L114-5 à L114-6)](#22)
         - [Section 3 : Communication des avis préalables (art. L114-7)](#23)
         - [Section 4 : Echanges de données entre administrations (art. L114-8 à L114-10)](#24)
-    - [Titre II : LE DROIT DE PRÉSENTER DES OBSERVATIONS AVANT L'INTERVENTION DE CERTAINES DÉCISIONS (art. L120-1 à L122-2)](#25)
-      - [Chapitre Ier : Décisions soumises au respect d'une procédure contradictoire préalable (art. L121-1 à L121-2)](#26)
-      - [Chapitre II : Modalités de mise en œuvre de la procédure contradictoire préalable (art. L122-1 à L122-2)](#27)
-    - [Titre III : L'ASSOCIATION DU PUBLIC AUX DÉCISIONS PRISES PAR L'ADMINISTRATION (art. L131-1 à L135-2)](#28)
-      - [Chapitre Ier : Principes généraux (art. L131-1)](#29)
-      - [Chapitre II : Consultation ouverte sur internet (art. L132-1 à R*132-10)](#30)
-        - [Section 1 : Consultation ouverte se substituant à la consultation d'une commission (art. L132-1 à R*132-7)](#31)
-        - [Section 2 : Autres consultations ouvertes sur internet (art. R*132-8 à R*132-10)](#32)
-      - [Chapitre III : Commissions administratives à caractère consultatif (art. R*133-1 à R133-13)](#33)
-        - [Section 1 : Champ d'application (art. R*133-1)](#34)
-        - [Section 2 : Durée maximale d'existence (art. R*133-2)](#35)
-        - [Section 3 : Règles de fonctionnement (art. R*133-14 à R133-13)](#36)
-      - [Chapitre IV : Enquêtes publiques (art. L134-1 à L134-34)](#37)
-        - [Section 1 : Objet et champ d'application (art. L134-1 à L134-2)](#38)
-        - [Section 2 : Ouverture de l'enquête (art. R134-3 à R134-14)](#39)
-          - [Sous-section 1 : Autorité compétente (art. R134-3 à R134-5)](#40)
-            - [Paragraphe 1 : Autorité préfectorale (art. R134-3 à R134-4)](#41)
-            - [Paragraphe 2 : Autres autorités (art. R134-5)](#42)
-          - [Sous-section 2 : Modalités (art. R134-6 à R134-14)](#43)
-        - [Section 3 : Désignation et indemnisation du commissaire enquêteur ou des membres de la commission d'enquête (art. R134-15 à R134-21)](#44)
-          - [Sous-section 1 : Désignation (art. R134-15 à R134-17)](#45)
-          - [Sous-section 2 : Indemnisation (art. R134-18 à R134-21)](#46)
-        - [Section 4 : Dossier soumis à l'enquête publique (art. R134-22 à R134-23)](#47)
-        - [Section 5 : Observations formulées au cours de l'enquête (art. R134-24)](#48)
-        - [Section 6 : Clôture de l'enquête (art. R134-25 à R134-30)](#49)
-          - [Sous-section 1 : Dispositions générales (art. R134-25 à R134-28)](#50)
-          - [Sous-section 2 : Dispositions particulières (art. R134-29 à R134-30)](#51)
-        - [Section 7 : Communication des conclusions du commissaire enquêteur ou de la commission d'enquête (art. L134-31 à R134-32)](#52)
-        - [Section 8 : Dispositions spécifiques à la protection de secrets de la défense nationale (art. L134-33 à L134-34)](#53)
-      - [Chapitre V : Participation du public aux décisions locales (art. L135-1 à L135-2)](#54)
-        - [Section 1 : Référendum local (art. L135-1)](#55)
-        - [Section 2 : Consultation locale (art. L135-2)](#56)
-  - [Livre II : LES ACTES UNILATÉRAUX PRIS PAR L'ADMINISTRATION (art. L200-1 à L243-4)](#57)
-    - [Titre Ier : LA MOTIVATION ET LA SIGNATURE DES ACTES ADMINISTRATIFS (art. L211-1 à L212-3)](#58)
-      - [Chapitre Ier : Motivation (art. L211-1 à L211-8)](#59)
-        - [Section 1 : Champ d'application matériel (art. L211-2 à L211-4)](#60)
-        - [Section 2 : Modalités (art. L211-5 à L211-6)](#61)
-        - [Section 3 : Règles spécifiques à certains organismes (art. L211-7 à L211-8)](#62)
-      - [Chapitre II : Signature (art. L212-1 à L212-3)](#63)
-    - [Titre II : L'ENTRÉE EN VIGUEUR DES ACTES ADMINISTRATIFS (art. L221-1 à L222-4)](#64)
-      - [Chapitre Ier : Règles générales (art. L221-1 à L221-17)](#65)
-        - [Section 1 : Règles d'entrée en vigueur et modalités d'application dans le temps (art. L221-2 à L221-8)](#66)
-          - [Sous-section 1 : Actes réglementaires (art. L221-2 à L221-6)](#67)
-          - [Sous-section 2 : Décisions ni réglementaires ni individuelles (art. L221-7)](#68)
-          - [Sous-section 3 : Décisions individuelles (art. L221-8)](#69)
-        - [Section 2 : Règles particulières de publication (art. L221-9 à L221-17)](#70)
-          - [Sous-section 1 : Règles particulières de publication au Journal officiel de la République française (art. L221-9 à R221-16)](#71)
-          - [Sous-section 2 : Règles particulières de publication au Bulletin officiel d'un ministère (art. L221-17)](#72)
-      - [Chapitre II : Autres règles applicables aux collectivités territoriales et à leurs établissements publics (art. L222-1 à L222-4)](#73)
-        - [Section 1 : Actes des communes et de leurs établissements publics (art. L222-1)](#74)
-        - [Section 2 : Actes des départements et de leurs établissements publics (art. L222-2)](#75)
-        - [Section 3 : Actes des régions et de leurs établissements publics (art. L222-3)](#76)
-        - [Section 4 : Actes des autres organismes et structures de coopération locale (art. L222-4)](#77)
-    - [Titre III : LES DÉCISIONS IMPLICITES (art. D231-2 à L232-4)](#78)
-      - [Chapitre Ier : Régimes de décisions implicites (art. D231-2 à L231-6)](#79)
-        - [Section 1 : Principe du silence valant acceptation (art. D231-2 à L231-1)](#80)
-        - [Section 2 : Exceptions (art. L231-4 à L231-6)](#81)
-          - [Sous-section 1 : Exceptions à la règle du silence valant acceptation (art. L231-4 à L231-5)](#82)
-          - [Sous-section 2 : Délais différents d'acquisition de la décision implicite d'acceptation ou de rejet (art. L231-6)](#83)
-      - [Chapitre II : Garanties procédurales (art. L232-1 à L232-4)](#84)
-        - [Section 1 : Délivrance d'une attestation et accomplissement de mesures de publicité (art. L232-1 à L232-3)](#85)
-        - [Section 2 : Communication des motifs (art. L232-4)](#86)
-    - [Titre IV : LA SORTIE DE VIGUEUR DES ACTES ADMINISTRATIFS (art. L240-1 à L243-4)](#87)
-      - [Chapitre Ier : Règles générales (art. L241-1 à L241-2)](#88)
-      - [Chapitre II : Les décisions créatrices de droits (art. L242-1 à L242-5)](#89)
-        - [Section 1 : Abrogation et retrait à l'initiative de l'administration ou sur demande d'un tiers (art. L242-1 à L242-2)](#90)
-        - [Section 2 : Abrogation et retrait sur demande du bénéficiaire (art. L242-3 à L242-4)](#91)
-        - [Section 3 : Abrogation et retrait dans le cadre d'un recours administratif préalable obligatoire (art. L242-5)](#92)
-      - [Chapitre III : Les actes réglementaires et les actes non réglementaires non créateurs de droits (art. L243-1 à L243-4)](#93)
-        - [Section 1 : Abrogation (art. L243-1 à L243-2)](#94)
-        - [Section 2 : Retrait (art. L243-3 à L243-4)](#95)
-  - [Livre III : L'ACCÈS AUX DOCUMENTS ADMINISTRATIFS ET LA RÉUTILISATION DES INFORMATIONS PUBLIQUES (art. L300-1 à L351-1)](#96)
-    - [Titre Ier : LE DROIT D'ACCÈS AUX DOCUMENTS ADMINISTRATIFS (art. L311-1 à R312-9)](#97)
-      - [Chapitre Ier : Communication des documents administratifs (art. L311-1 à R311-15)](#98)
-        - [Section 1 : Etendue du droit à communication (art. L311-1 à R311-8-2)](#99)
-        - [Section 2 : Modalités du droit à communication (art. L311-9 à R311-15)](#100)
-      - [Chapitre II : Diffusion des documents administratifs (art. D312-1-1-1 à R312-9)](#101)
-        - [Section 1 : Règles générales (art. D312-1-1-1 à L312-1-3)](#102)
-        - [Section 2 : Règles spécifiques aux instructions et circulaires (art. L312-2 à R312-9)](#103)
-          - [Sous-section 1 : Règles de publication (art. L312-2 à R312-7)](#104)
-          - [Sous-section 2 : Règles particulières applicables aux circulaires et instructions adressées par les ministres aux services et établissements de l'Etat (art. R312-8 à R312-9)](#105)
-    - [Titre II : LA RÉUTILISATION DES INFORMATIONS PUBLIQUES (art. L321-1 à L327-1)](#106)
-      - [Chapitre Ier : Etendue du droit de réutilisation (art. L321-1 à R321-8)](#107)
-      - [Chapitre II : Règles générales (art. L322-1 à R322-7)](#108)
-      - [Chapitre III : Etablissement d'une licence (art. D323-2-1 à R323-7)](#109)
-      - [Chapitre IV : Redevance (art. D324-5-1 à R324-7)](#110)
-      - [Chapitre V : Droit d'exclusivité (art. L325-1 à R325-5)](#111)
-      - [Chapitre VI : Sanctions (art. L326-1)](#112)
-      - [Chapitre VII : Dispositions diverses (art. L327-1)](#113)
-    - [Titre III : LES PERSONNES RESPONSABLES DE L'ACCÈS AUX DOCUMENTS ADMINISTRATIFS ET DES QUESTIONS RELATIVES À LA RÉUTILISATION DES INFORMATIONS PUBLIQUES (art. L330-1 à R330-4)](#114)
-    - [Titre IV : LA COMMISSION D'ACCÈS AUX DOCUMENTS ADMINISTRATIFS (art. L340-1 à R343-12)](#115)
-      - [Chapitre Ier : Composition et fonctionnement de la Commission d'accès aux documents administratifs (art. D341-10 à R341-17)](#116)
-      - [Chapitre II : Attributions de la Commission d'accès aux documents administratifs (art. L342-1 à R342-5)](#117)
-      - [Chapitre III : Procédures applicables devant la Commission d'accès aux documents administratifs (art. R*343-4 à R343-12)](#118)
-        - [Section 1 : Procédure applicable aux demandes d'avis relatives à la communication de documents administratifs (art. R*343-4 à R343-5)](#119)
-        - [Section 2 : Procédure applicable au prononcé de sanctions (art. R343-6 à R343-12)](#120)
-    - [Titre V : LA COMMISSION SUPÉRIEURE DE CODIFICATION (art. L351-1)](#121)
-      - [Chapitre unique : Missions et composition (art. L351-1)](#122)
-  - [Livre IV : LE RÈGLEMENT DES DIFFÉRENDS AVEC L'ADMINISTRATION (art. L410-1 à L432-1)](#123)
-    - [Titre Ier : LES RECOURS ADMINISTRATIFS (art. L410-1 à L412-8)](#124)
-      - [Chapitre Ier : Règles générales (art. L411-1 à L411-7)](#125)
-      - [Chapitre II : Recours administratifs préalables obligatoires (art. L412-1 à L412-8)](#126)
-    - [Titre II : LES AUTRES MODES NON JURIDICTIONNELS DE RÉSOLUTION DES DIFFÉRENDS (art. L421-1 à L424-1)](#127)
-      - [Chapitre Ier : Conciliation et médiation dans un cadre non juridictionnel (art. L421-1 à L421-2)](#128)
-      - [Chapitre II : Conciliation et médiation dans un cadre juridictionnel (art. L422-1 à L422-2)](#129)
-      - [Chapitre III : Transaction (art. L423-1)](#130)
-      - [Chapitre IV : Saisine du Défenseur des droits (art. L424-1)](#131)
-    - [Titre III : LES RECOURS JURIDICTIONNELS (art. L431-1 à L432-1)](#132)
-      - [Chapitre Ier : Recours juridictionnels de droit commun : les recours contentieux (art. L431-1)](#133)
-      - [Chapitre II : Arbitrage : principe de prohibition et dérogations (art. L432-1)](#134)
-  - [Livre V : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L500-1 à R584-3)](#135)
-    - [Titre Ier : DISPOSITIONS APPLICABLES EN GUADELOUPE, EN GUYANE, EN MARTINIQUE, À LA RÉUNION ET À MAYOTTE (art. L511-1 à R514-2)](#136)
-      - [Chapitre Ier : Dispositions générales (art. L511-1)](#137)
-      - [Chapitre II : Dispositions spécifiques relatives au livre Ier (art. R512-1 à R512-2)](#138)
-      - [Chapitre III : Dispositions spécifiques relatives au livre II (art. L513-1 à L513-2)](#139)
-      - [Chapitre IV : Dispositions spécifiques relatives au livre III (art. R514-1 à R514-2)](#140)
-    - [Titre II : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY (art. L521-1 à R524-3)](#141)
-      - [Chapitre Ier : Dispositions générales (art. L521-1)](#142)
-      - [Chapitre II : Dispositions spécifiques relatives au livre Ier (art. L522-1 à R522-2)](#143)
-      - [Chapitre III : Dispositions spécifiques relatives au livre II (art. L523-1 à L523-2)](#144)
-      - [Chapitre IV : Dispositions spécifiques relatives au livre III (art. L524-1 à R524-3)](#145)
-    - [Titre III : DISPOSITIONS APPLICABLES À SAINT-MARTIN (art. L531-1 à R534-3)](#146)
-      - [Chapitre Ier : Dispositions générales (art. L531-1)](#147)
-      - [Chapitre II : Dispositions spécifiques relatives au livre Ier (art. R532-1)](#148)
-      - [Chapitre III : Dispositions spécifiques relatives au livre II (art. L533-1 à L533-2)](#149)
-      - [Chapitre IV : Dispositions spécifiques relatives au livre III (art. L534-1 à R534-3)](#150)
-    - [Titre IV : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON (art. L541-1 à R544-4)](#151)
-      - [Chapitre Ier : Dispositions générales (art. L541-1)](#152)
-      - [Chapitre II : Dispositions spécifiques relatives au livre Ier (art. R542-1)](#153)
-      - [Chapitre III : Dispositions spécifiques relatives au livre II (art. L543-1 à R543-2)](#154)
-      - [Chapitre IV : Dispositions spécifiques relatives au livre III (art. L544-1 à R544-4)](#155)
-    - [Titre V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE (art. L551-1 à R553-4)](#156)
-      - [Chapitre Ier : Dispositions générales (art. L551-1)](#157)
-      - [Chapitre II : Dispositions applicables à l'Etat, aux communes et à leurs établissements publics et autres organismes et personnes placés sous leur contrôle (art. L552-1 à R552-18)](#158)
-        - [Section 1 : Dispositions applicables à l'Etat, aux communes et à leurs établissements publics (art. L552-1 à L552-2)](#159)
-        - [Section 2 : Dispositions applicables aux organismes et personnes de droit public et de droit privé, autres que les établissements publics, placés sous le contrôle de l'Etat ou des communes (art. L552-3 à L552-12)](#160)
-          - [Sous-section 1 : Dispositions applicables du livre Ier (art. L552-3 à R552-5)](#161)
-          - [Sous-section 2 : Dispositions applicables du livre II (art. D552-7 à L552-6)](#162)
-          - [Sous-section 3 : Dispositions applicables du livre III (art. D552-11 à R552-10)](#163)
-          - [Sous-section 4 : Dispositions applicables du livre IV (art. L552-12)](#164)
-        - [Section 3 : Dispositions d'adaptation (art. L552-13 à R552-18)](#165)
-          - [Sous-section 1 : Dispositions d'adaptation du livre Ier (art. L552-13 à R552-14)](#166)
-          - [Sous-section 2 : Dispositions d'adaptation du livre III (art. L552-15 à R552-18)](#167)
-      - [Chapitre III : Dispositions applicables à la Polynésie française et aux organismes et personnes placées sous son contrôle (art. L553-1 à R553-4)](#168)
-    - [Titre VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE (art. L561-1 à R563-4)](#169)
-      - [Chapitre Ier : Dispositions générales (art. L561-1)](#170)
-      - [Chapitre II : Dispositions applicables à l'Etat, aux communes et à leurs établissements publics et aux autres organismes et personnes placés sous leur contrôle (art. L562-1 à R562-19)](#171)
-        - [Section 1 : Dispositions applicables à l'Etat, aux communes et à leurs établissements publics (art. L562-1 à L562-2)](#172)
-        - [Section 2 : Dispositions applicables aux organismes et personnes de droit public et de droit privé, autres que les établissements publics, placés sous le contrôle de l'Etat et des communes (art. L562-3 à L562-12)](#173)
-          - [Sous-section 1 : Dispositions applicables du livre Ier (art. L562-3 à R562-5)](#174)
-          - [Sous-section 2 : Dispositions applicables du livre II (art. D562-7 à L562-6)](#175)
-          - [Sous-section 3 : Dispositions applicables du livre III (art. D562-11 à R562-10)](#176)
-          - [Sous-section 4 : Dispositions applicables du livre IV (art. L562-12)](#177)
-        - [Section 3 : Dispositions d'adaptation (art. L562-13 à R562-19)](#178)
-          - [Sous-section 1 : Dispositions d'adaptation du livre Ier (art. L562-13 à R562-14)](#179)
-          - [Sous-section 2 : Dispositions d'adaptation du livre II (art. L562-15)](#180)
-          - [Sous-section 3 : Dispositions d'adaptation du livre III (art. L562-16 à R562-19)](#181)
-      - [Chapitre III : Dispositions applicables à la Nouvelle-Calédonie, à ses provinces et aux organismes et personnes placés sous leur contrôle (art. L563-1 à R563-4)](#182)
-    - [Titre VII : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA (art. L571-1 à L575-1)](#183)
-      - [Chapitre Ier : Dispositions générales (art. L571-1)](#184)
-      - [Chapitre II : Dispositions spécifiques relatives au livre Ier (art. D572-4 à R572-6)](#185)
-      - [Chapitre III : Dispositions spécifiques relatives au livre II (art. D573-4 à R573-1-1)](#186)
-      - [Chapitre IV : Dispositions spécifiques relatives au livre III (art. D574-4 à R574-8)](#187)
-        - [Section 1 : Dispositions relatives à l'Etat et aux organismes placés sous son contrôle (art. D574-4 à R574-3)](#188)
-        - [Section 2 : Dispositions relatives à la collectivité de Wallis-et-Futuna et aux organismes placés sous son contrôle (art. D574-5-3 à R574-5-2)](#189)
-        - [Section 3 : Dispositions d'adaptation (art. L574-6 à R574-8)](#190)
-      - [Chapitre V : Dispositions spécifiques relatives au livre IV (art. L575-1)](#191)
-    - [Titre VIII : DISPOSITIONS APPLICABLES DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES (art. L581-1 à R584-3)](#192)
-      - [Chapitre Ier : Dispositions générales (art. L581-1)](#193)
-      - [Chapitre II : Dispositions spécifiques relatives au livre Ier (art. L582-1 à R582-2)](#194)
-      - [Chapitre III : Dispositions spécifiques relatives au livre II (art. L583-1)](#195)
-      - [Chapitre IV : Dispositions spécifiques relatives au livre III (art. L584-1 à R584-3)](#196)
+        - [Section 5 : Certificat d'information (art. L114-11)](#25)
+    - [Titre II : LE DROIT DE PRÉSENTER DES OBSERVATIONS AVANT L'INTERVENTION DE CERTAINES DÉCISIONS (art. L121-1 à L122-2)](#26)
+      - [Chapitre Ier : Décisions soumises au respect d'une procédure contradictoire préalable (art. L121-1 à L121-2)](#27)
+      - [Chapitre II : Modalités de mise en œuvre de la procédure contradictoire préalable (art. L122-1 à L122-2)](#28)
+    - [Titre II : LES PROCÉDURES PRÉALABLES A L'INTERVENTION DE CERTAINES DÉCISIONS (art. L120-1 à L124-2)](#29)
+      - [Chapitre Ier : Décisions soumises au respect d'une procédure contradictoire préalable (art.  à L120-1)](#30)
+      - [Chapitre II : Modalités de mise en œuvre de la procédure contradictoire préalable (art.  à L120-1)](#31)
+      - [Chapitre III : Droit à régularisation en cas d'erreur (art. L123-1 à L123-2)](#32)
+      - [Chapitre IV : Droit au contrôle et opposabilité du contrôle (art. L124-1 à L124-2)](#33)
+    - [Titre III : L'ASSOCIATION DU PUBLIC AUX DÉCISIONS PRISES PAR L'ADMINISTRATION (art. L131-1 à L135-2)](#34)
+      - [Chapitre Ier : Principes généraux (art. L131-1)](#35)
+      - [Chapitre II : Consultation ouverte sur internet (art. L132-1 à R*132-10)](#36)
+        - [Section 1 : Consultation ouverte se substituant à la consultation d'une commission (art. L132-1 à R*132-7)](#37)
+        - [Section 2 : Autres consultations ouvertes sur internet (art. R*132-8 à R*132-10)](#38)
+      - [Chapitre III : Commissions administratives à caractère consultatif (art. R*133-1 à R133-13)](#39)
+        - [Section 1 : Champ d'application (art. R*133-1)](#40)
+        - [Section 2 : Durée maximale d'existence (art. R*133-2)](#41)
+        - [Section 3 : Règles de fonctionnement (art. R*133-14 à R133-13)](#42)
+      - [Chapitre IV : Enquêtes publiques (art. L134-1 à L134-34)](#43)
+        - [Section 1 : Objet et champ d'application (art. L134-1 à L134-2)](#44)
+        - [Section 2 : Ouverture de l'enquête (art. R134-3 à R134-14)](#45)
+          - [Sous-section 1 : Autorité compétente (art. R134-3 à R134-5)](#46)
+            - [Paragraphe 1 : Autorité préfectorale (art. R134-3 à R134-4)](#47)
+            - [Paragraphe 2 : Autres autorités (art. R134-5)](#48)
+          - [Sous-section 2 : Modalités (art. R134-6 à R134-14)](#49)
+        - [Section 3 : Désignation et indemnisation du commissaire enquêteur ou des membres de la commission d'enquête (art. R134-15 à R134-21)](#50)
+          - [Sous-section 1 : Désignation (art. R134-15 à R134-17)](#51)
+          - [Sous-section 2 : Indemnisation (art. R134-18 à R134-21)](#52)
+        - [Section 4 : Dossier soumis à l'enquête publique (art. R134-22 à R134-23)](#53)
+        - [Section 5 : Observations formulées au cours de l'enquête (art. R134-24)](#54)
+        - [Section 6 : Clôture de l'enquête (art. R134-25 à R134-30)](#55)
+          - [Sous-section 1 : Dispositions générales (art. R134-25 à R134-28)](#56)
+          - [Sous-section 2 : Dispositions particulières (art. R134-29 à R134-30)](#57)
+        - [Section 7 : Communication des conclusions du commissaire enquêteur ou de la commission d'enquête (art. L134-31 à R134-32)](#58)
+        - [Section 8 : Dispositions spécifiques à la protection de secrets de la défense nationale (art. L134-33 à L134-34)](#59)
+      - [Chapitre V : Participation du public aux décisions locales (art. L135-1 à L135-2)](#60)
+        - [Section 1 : Référendum local (art. L135-1)](#61)
+        - [Section 2 : Consultation locale (art. L135-2)](#62)
+  - [Livre II : LES ACTES UNILATÉRAUX PRIS PAR L'ADMINISTRATION (art. L200-1 à L243-4)](#63)
+    - [Titre Ier : LA MOTIVATION ET LA SIGNATURE DES ACTES ADMINISTRATIFS (art. L211-1 à L212-3)](#64)
+      - [Chapitre Ier : Motivation (art. L211-1 à L211-8)](#65)
+        - [Section 1 : Champ d'application matériel (art. L211-2 à L211-4)](#66)
+        - [Section 2 : Modalités (art. L211-5 à L211-6)](#67)
+        - [Section 3 : Règles spécifiques à certains organismes (art. L211-7 à L211-8)](#68)
+      - [Chapitre II : Signature (art. L212-1 à L212-3)](#69)
+    - [Titre II : L'ENTRÉE EN VIGUEUR DES ACTES ADMINISTRATIFS (art. L221-1 à L222-4)](#70)
+      - [Chapitre Ier : Règles générales (art. L221-1 à L221-17)](#71)
+        - [Section 1 : Règles d'entrée en vigueur et modalités d'application dans le temps (art. L221-2 à L221-8)](#72)
+          - [Sous-section 1 : Actes réglementaires (art. L221-2 à L221-6)](#73)
+          - [Sous-section 2 : Décisions ni réglementaires ni individuelles (art. L221-7)](#74)
+          - [Sous-section 3 : Décisions individuelles (art. L221-8)](#75)
+        - [Section 2 : Règles particulières de publication (art. L221-9 à L221-17)](#76)
+          - [Sous-section 1 : Règles particulières de publication au Journal officiel de la République française (art. L221-9 à R221-16)](#77)
+          - [Sous-section 2 : Règles particulières de publication au Bulletin officiel d'un ministère (art. L221-17)](#78)
+      - [Chapitre II : Autres règles applicables aux collectivités territoriales et à leurs établissements publics (art. L222-1 à L222-4)](#79)
+        - [Section 1 : Actes des communes et de leurs établissements publics (art. L222-1)](#80)
+        - [Section 2 : Actes des départements et de leurs établissements publics (art. L222-2)](#81)
+        - [Section 3 : Actes des régions et de leurs établissements publics (art. L222-3)](#82)
+        - [Section 4 : Actes des autres organismes et structures de coopération locale (art. L222-4)](#83)
+    - [Titre III : LES DÉCISIONS IMPLICITES (art. D231-2 à L232-4)](#84)
+      - [Chapitre Ier : Régimes de décisions implicites (art. D231-2 à L231-6)](#85)
+        - [Section 1 : Principe du silence valant acceptation (art. D231-2 à L231-1)](#86)
+        - [Section 2 : Exceptions (art. L231-4 à L231-6)](#87)
+          - [Sous-section 1 : Exceptions à la règle du silence valant acceptation (art. L231-4 à L231-5)](#88)
+          - [Sous-section 2 : Délais différents d'acquisition de la décision implicite d'acceptation ou de rejet (art. L231-6)](#89)
+      - [Chapitre II : Garanties procédurales (art. L232-1 à L232-4)](#90)
+        - [Section 1 : Délivrance d'une attestation et accomplissement de mesures de publicité (art. L232-1 à L232-3)](#91)
+        - [Section 2 : Communication des motifs (art. L232-4)](#92)
+    - [Titre IV : LA SORTIE DE VIGUEUR DES ACTES ADMINISTRATIFS (art. L240-1 à L243-4)](#93)
+      - [Chapitre Ier : Règles générales (art. L241-1 à L241-2)](#94)
+      - [Chapitre II : Les décisions créatrices de droits (art. L242-1 à L242-5)](#95)
+        - [Section 1 : Abrogation et retrait à l'initiative de l'administration ou sur demande d'un tiers (art. L242-1 à L242-2)](#96)
+        - [Section 2 : Abrogation et retrait sur demande du bénéficiaire (art. L242-3 à L242-4)](#97)
+        - [Section 3 : Abrogation et retrait dans le cadre d'un recours administratif préalable obligatoire (art. L242-5)](#98)
+      - [Chapitre III : Les actes réglementaires et les actes non réglementaires non créateurs de droits (art. L243-1 à L243-4)](#99)
+        - [Section 1 : Abrogation (art. L243-1 à L243-2)](#100)
+        - [Section 2 : Retrait (art. L243-3 à L243-4)](#101)
+  - [Livre III : L'ACCÈS AUX DOCUMENTS ADMINISTRATIFS ET LA RÉUTILISATION DES INFORMATIONS PUBLIQUES (art. L300-1 à L351-1)](#102)
+    - [Titre Ier : LE DROIT D'ACCÈS AUX DOCUMENTS ADMINISTRATIFS (art. L311-1 à R312-9)](#103)
+      - [Chapitre Ier : Communication des documents administratifs (art. L311-1 à R311-15)](#104)
+        - [Section 1 : Etendue du droit à communication (art. L311-1 à R311-8-2)](#105)
+        - [Section 2 : Modalités du droit à communication (art. L311-9 à R311-15)](#106)
+      - [Chapitre II : Diffusion des documents administratifs (art. D312-1-1-1 à R312-9)](#107)
+        - [Section 1 : Règles générales (art. D312-1-1-1 à L312-1-3)](#108)
+        - [Section 2 : Règles spécifiques aux instructions et circulaires (art. L312-2 à R312-9)](#109)
+          - [Sous-section 1 : Règles de publication (art. L312-2 à R312-7)](#110)
+          - [Sous-section 2 : Règles particulières applicables aux circulaires et instructions adressées par les ministres aux services et établissements de l'Etat (art. R312-8 à R312-9)](#111)
+    - [Titre II : LA RÉUTILISATION DES INFORMATIONS PUBLIQUES (art. L321-1 à L327-1)](#112)
+      - [Chapitre Ier : Etendue du droit de réutilisation (art. L321-1 à R321-8)](#113)
+      - [Chapitre II : Règles générales (art. L322-1 à R322-7)](#114)
+      - [Chapitre III : Etablissement d'une licence (art. D323-2-1 à R323-7)](#115)
+      - [Chapitre IV : Redevance (art. D324-5-1 à R324-7)](#116)
+      - [Chapitre V : Droit d'exclusivité (art. L325-1 à R325-5)](#117)
+      - [Chapitre VI : Sanctions (art. L326-1)](#118)
+      - [Chapitre VII : Dispositions diverses (art. L327-1)](#119)
+    - [Titre III : LES PERSONNES RESPONSABLES DE L'ACCÈS AUX DOCUMENTS ADMINISTRATIFS ET DES QUESTIONS RELATIVES À LA RÉUTILISATION DES INFORMATIONS PUBLIQUES (art. L330-1 à R330-4)](#120)
+    - [Titre IV : LA COMMISSION D'ACCÈS AUX DOCUMENTS ADMINISTRATIFS (art. L340-1 à R343-12)](#121)
+      - [Chapitre Ier : Composition et fonctionnement de la Commission d'accès aux documents administratifs (art. D341-10 à R341-17)](#122)
+      - [Chapitre II : Attributions de la Commission d'accès aux documents administratifs (art. L342-1 à R342-5)](#123)
+      - [Chapitre III : Procédures applicables devant la Commission d'accès aux documents administratifs (art. R*343-4 à R343-12)](#124)
+        - [Section 1 : Procédure applicable aux demandes d'avis relatives à la communication de documents administratifs (art. R*343-4 à R343-5)](#125)
+        - [Section 2 : Procédure applicable au prononcé de sanctions (art. R343-6 à R343-12)](#126)
+    - [Titre V : LA COMMISSION SUPÉRIEURE DE CODIFICATION (art. L351-1)](#127)
+      - [Chapitre unique : Missions et composition (art. L351-1)](#128)
+  - [Livre IV : LE RÈGLEMENT DES DIFFÉRENDS AVEC L'ADMINISTRATION (art. L410-1 à L432-1)](#129)
+    - [Titre Ier : LES RECOURS ADMINISTRATIFS (art. L410-1 à L412-8)](#130)
+      - [Chapitre Ier : Règles générales (art. L411-1 à L411-7)](#131)
+      - [Chapitre II : Recours administratifs préalables obligatoires (art. L412-1 à L412-8)](#132)
+    - [Titre II : LES AUTRES MODES NON JURIDICTIONNELS DE RÉSOLUTION DES DIFFÉRENDS (art. L421-1 à L424-1)](#133)
+      - [Chapitre Ier : Conciliation et médiation dans un cadre non juridictionnel (art. L421-1 à L421-2)](#134)
+      - [Chapitre II : Conciliation et médiation dans un cadre juridictionnel (art. L422-1 à L422-2)](#135)
+      - [Chapitre III : Transaction (art. L423-1 à L423-2)](#136)
+      - [Chapitre IV : Saisine du Défenseur des droits (art. L424-1)](#137)
+    - [Titre III : LES RECOURS JURIDICTIONNELS (art. L431-1 à L432-1)](#138)
+      - [Chapitre Ier : Recours juridictionnels de droit commun : les recours contentieux (art. L431-1)](#139)
+      - [Chapitre II : Arbitrage : principe de prohibition et dérogations (art. L432-1)](#140)
+  - [Livre V : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L500-1 à R584-3)](#141)
+    - [Titre Ier : DISPOSITIONS APPLICABLES EN GUADELOUPE, EN GUYANE, EN MARTINIQUE, À LA RÉUNION ET À MAYOTTE (art. L511-1 à R514-2)](#142)
+      - [Chapitre Ier : Dispositions générales (art. L511-1)](#143)
+      - [Chapitre II : Dispositions spécifiques relatives au livre Ier (art. R512-1 à R512-2)](#144)
+      - [Chapitre III : Dispositions spécifiques relatives au livre II (art. L513-1 à L513-2)](#145)
+      - [Chapitre IV : Dispositions spécifiques relatives au livre III (art. R514-1 à R514-2)](#146)
+    - [Titre II : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY (art. L521-1 à R524-3)](#147)
+      - [Chapitre Ier : Dispositions générales (art. L521-1)](#148)
+      - [Chapitre II : Dispositions spécifiques relatives au livre Ier (art. L522-1 à R522-2)](#149)
+      - [Chapitre III : Dispositions spécifiques relatives au livre II (art. L523-1 à L523-2)](#150)
+      - [Chapitre IV : Dispositions spécifiques relatives au livre III (art. L524-1 à R524-3)](#151)
+    - [Titre III : DISPOSITIONS APPLICABLES À SAINT-MARTIN (art. L531-1 à R534-3)](#152)
+      - [Chapitre Ier : Dispositions générales (art. L531-1)](#153)
+      - [Chapitre II : Dispositions spécifiques relatives au livre Ier (art. R532-1)](#154)
+      - [Chapitre III : Dispositions spécifiques relatives au livre II (art. L533-1 à L533-2)](#155)
+      - [Chapitre IV : Dispositions spécifiques relatives au livre III (art. L534-1 à R534-3)](#156)
+    - [Titre IV : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON (art. L541-1 à R544-4)](#157)
+      - [Chapitre Ier : Dispositions générales (art. L541-1)](#158)
+      - [Chapitre II : Dispositions spécifiques relatives au livre Ier (art. R542-1)](#159)
+      - [Chapitre III : Dispositions spécifiques relatives au livre II (art. L543-1 à R543-2)](#160)
+      - [Chapitre IV : Dispositions spécifiques relatives au livre III (art. L544-1 à R544-4)](#161)
+    - [Titre V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE (art. L551-1 à R553-4)](#162)
+      - [Chapitre Ier : Dispositions générales (art. L551-1)](#163)
+      - [Chapitre II : Dispositions applicables à l'Etat, aux communes et à leurs établissements publics et autres organismes et personnes placés sous leur contrôle (art. L552-1 à R552-18)](#164)
+        - [Section 1 : Dispositions applicables à l'Etat, aux communes et à leurs établissements publics (art. L552-1 à L552-2)](#165)
+        - [Section 2 : Dispositions applicables aux organismes et personnes de droit public et de droit privé, autres que les établissements publics, placés sous le contrôle de l'Etat ou des communes (art. L552-3 à L552-12)](#166)
+          - [Sous-section 1 : Dispositions applicables du livre Ier (art. L552-3 à R552-5)](#167)
+          - [Sous-section 2 : Dispositions applicables du livre II (art. D552-7 à L552-6)](#168)
+          - [Sous-section 3 : Dispositions applicables du livre III (art. D552-11 à R552-10)](#169)
+          - [Sous-section 4 : Dispositions applicables du livre IV (art. L552-12)](#170)
+        - [Section 3 : Dispositions d'adaptation (art. L552-13 à R552-18)](#171)
+          - [Sous-section 1 : Dispositions d'adaptation du livre Ier (art. L552-13 à R552-14)](#172)
+          - [Sous-section 2 : Dispositions d'adaptation du livre III (art. L552-15 à R552-18)](#173)
+      - [Chapitre III : Dispositions applicables à la Polynésie française et aux organismes et personnes placées sous son contrôle (art. L553-1 à R553-4)](#174)
+    - [Titre VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE (art. L561-1 à R563-4)](#175)
+      - [Chapitre Ier : Dispositions générales (art. L561-1)](#176)
+      - [Chapitre II : Dispositions applicables à l'Etat, aux communes et à leurs établissements publics et aux autres organismes et personnes placés sous leur contrôle (art. L562-1 à R562-19)](#177)
+        - [Section 1 : Dispositions applicables à l'Etat, aux communes et à leurs établissements publics (art. L562-1 à L562-2)](#178)
+        - [Section 2 : Dispositions applicables aux organismes et personnes de droit public et de droit privé, autres que les établissements publics, placés sous le contrôle de l'Etat et des communes (art. L562-3 à L562-12)](#179)
+          - [Sous-section 1 : Dispositions applicables du livre Ier (art. L562-3 à R562-5)](#180)
+          - [Sous-section 2 : Dispositions applicables du livre II (art. D562-7 à L562-6)](#181)
+          - [Sous-section 3 : Dispositions applicables du livre III (art. D562-11 à R562-10)](#182)
+          - [Sous-section 4 : Dispositions applicables du livre IV (art. L562-12)](#183)
+        - [Section 3 : Dispositions d'adaptation (art. L562-13 à R562-19)](#184)
+          - [Sous-section 1 : Dispositions d'adaptation du livre Ier (art. L562-13 à R562-14)](#185)
+          - [Sous-section 2 : Dispositions d'adaptation du livre II (art. L562-15)](#186)
+          - [Sous-section 3 : Dispositions d'adaptation du livre III (art. L562-16 à R562-19)](#187)
+      - [Chapitre III : Dispositions applicables à la Nouvelle-Calédonie, à ses provinces et aux organismes et personnes placés sous leur contrôle (art. L563-1 à R563-4)](#188)
+    - [Titre VII : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA (art. L571-1 à L575-1)](#189)
+      - [Chapitre Ier : Dispositions générales (art. L571-1)](#190)
+      - [Chapitre II : Dispositions spécifiques relatives au livre Ier (art. D572-4 à R572-6)](#191)
+      - [Chapitre III : Dispositions spécifiques relatives au livre II (art. D573-4 à R573-1-1)](#192)
+      - [Chapitre IV : Dispositions spécifiques relatives au livre III (art. D574-4 à R574-8)](#193)
+        - [Section 1 : Dispositions relatives à l'Etat et aux organismes placés sous son contrôle (art. D574-4 à R574-3)](#194)
+        - [Section 2 : Dispositions relatives à la collectivité de Wallis-et-Futuna et aux organismes placés sous son contrôle (art. D574-5-3 à R574-5-2)](#195)
+        - [Section 3 : Dispositions d'adaptation (art. L574-6 à R574-8)](#196)
+      - [Chapitre V : Dispositions spécifiques relatives au livre IV (art. L575-1)](#197)
+    - [Titre VIII : DISPOSITIONS APPLICABLES DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES (art. L581-1 à R584-3)](#198)
+      - [Chapitre Ier : Dispositions générales (art. L581-1)](#199)
+      - [Chapitre II : Dispositions spécifiques relatives au livre Ier (art. L582-1 à R582-2)](#200)
+      - [Chapitre III : Dispositions spécifiques relatives au livre II (art. L583-1)](#201)
+      - [Chapitre IV : Dispositions spécifiques relatives au livre III (art. L584-1 à R584-3)](#202)
 # Dispositions préliminaires<a id=1></a>
 
 ###### Article L100-1
@@ -1779,9 +1785,7 @@ _Cité par_:
 
 Une personne présentant une demande ou produisant une déclaration dans le cadre d'une procédure relevant de l'article L.
 114-9 ne peut être tenue de produire des informations ou données qu'elle a déjà produites auprès de la même administration ou
-d'une autre administration participant au même système d'échanges de données tel que défini à l'article L. 114-8. 
-
-Elle informe par tout moyen l'administration du lieu et de la période de la première production du document.
+d'une autre administration participant au même système d'échanges de données tel que défini à l'article L. 114-8.
 
 **Liens relatifs à cet article**
 
@@ -1793,24 +1797,24 @@ _Codifié par_:
 
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
-_Créé par_:
-
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
-
 _Cité par_:
 
   - Décret n°2016-1971 du 28 décembre 2016 - art. 2 (V)
   - Arrêté du 21 août 2018 - art. 2 (VD)
   - Arrêté du 8 novembre 2018 (V)
   - Arrêté du 8 novembre 2018 - art. 2 (V)
-  - Code des relations entre le public et l'adminis... - art. L552-3 (M)
+  - Code des relations entre le public et l'adminis... - art. L552-3 (V)
   - Code des relations entre le public et l'adminis... - art. L562-3 (V)
   - Code des relations entre le public et l'adminis... - art. L572-1 (V)
 
+_Modifié par_:
+
+  - Loi n°2018-727 du 10 août 2018 - art. 41
+
 _Cite_:
 
-  - Code des relations entre le public et l'adminis... - art. L114-8 (V)
-  - Code des relations entre le public et l'adminis... - art. L114-9 (V)
+  - Code des relations entre le public et l'administration - art. L114-8
+  - Code des relations entre le public et l'administration - art. L114-9
 
 
 ###### Article L113-13
@@ -2041,6 +2045,31 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. L114-3 (V)
 
 
+###### Article L114-5-1
+
+L'absence d'une pièce au sein d'un dossier déposé par un usager en vue de l'attribution d'un droit ne peut conduire
+l'administration à suspendre l'instruction de ce dossier dans l'attente de la transmission de la pièce manquante.
+
+Si la pièce fait toujours défaut au moment de la décision d'attribution du droit concerné, cette attribution n'est effective
+qu'après la réception par l'administration de cette pièce.
+
+Le présent article ne s'applique pas dans le cas où la pièce manquante est indispensable à l'administration pour instruire
+valablement le dossier.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-727 du 10 août 2018 - art. 4
+
+_Cité par_:
+
+  - Décret n°2019-570 du 7 juin 2019 - art. 10 (V)
+  - Code des relations entre le public et l'adminis... - art. L552-3 (V)
+  - Code des relations entre le public et l'adminis... - art. L562-3 (V)
+  - Code des relations entre le public et l'adminis... - art. L572-1 (V)
+
+
 ###### Article L114-6
 
 Lorsqu'une demande adressée à une administration est affectée par un vice de forme ou de procédure faisant obstacle à son
@@ -2190,9 +2219,9 @@ _Cite_:
 
 ###### Article L114-10
 
-Lorsque les informations ou données nécessaires pour traiter la demande ou la déclaration ne peuvent être obtenues
-directement par une administration auprès d'une autre dans les conditions prévues aux articles L. 114-8 ou L. 114-9, il
-revient à la personne concernée de les communiquer à l'administration.
+Lorsqu'en raison de leur nature ou d'une impossibilité technique, les informations ou données nécessaires pour traiter la
+demande ou la déclaration ne peuvent être obtenues directement par une administration auprès d'une autre dans les conditions
+prévues aux articles L. 114-8 ou L. 114-9, il revient à la personne concernée de les communiquer à l'administration.
 
 **Liens relatifs à cet article**
 
@@ -2204,41 +2233,9 @@ _Codifié par_:
 
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
-
-_Cite_:
-
-  - Code des relations entre le public et l'adminis... - art. L114-8 (V)
-
-_Cité par_:
-
-  - Code des relations entre le public et l'adminis... - art. L552-3 (V)
-  - Code des relations entre le public et l'adminis... - art. L562-3 (V)
-
-
-## Titre II : LE DROIT DE PRÉSENTER DES OBSERVATIONS AVANT L'INTERVENTION DE CERTAINES DÉCISIONS<a id=25></a>
-
-###### Article L120-1
-
-Le présent titre est applicable, outre aux administrations mentionnées au 1° de l'article L. 100-3, aux organismes et
-personnes chargés d'une mission de service public industriel et commercial, pour les décisions qu'ils prennent au titre de
-cette mission.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
-
-_Créé par_:
-
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
-
-_Cite_:
-
-  - Code des relations entre le public et l'adminis... - art. L100-3 (V)
+  - Loi n°2018-727 du 10 août 2018 - art. 41
 
 _Cité par_:
 
@@ -2246,8 +2243,43 @@ _Cité par_:
   - Code des relations entre le public et l'adminis... - art. L562-3 (V)
   - Code des relations entre le public et l'adminis... - art. L572-1 (V)
 
+_Cite_:
 
-### Chapitre Ier : Décisions soumises au respect d'une procédure contradictoire préalable<a id=26></a>
+  - Code des relations entre le public et l'administration - art. L114-8
+
+
+#### Section 5 : Certificat d'information<a id=25></a>
+
+###### Article L114-11
+
+Tout usager peut obtenir, préalablement à l'exercice de certaines activités, une information sur l'existence et le contenu
+des règles régissant cette activité.
+
+L'administration saisie délivre à l'usager mentionné au premier alinéa un certificat d'information sur l'ensemble des règles
+qu'elle a mission d'appliquer. Toute information incomplète ou erronée figurant dans le certificat à l'origine d'un préjudice
+pour l'usager engage la responsabilité de l'administration.
+
+Un décret dresse la liste des activités mentionnées au même premier alinéa, le délai de délivrance du certificat
+d'information, qui ne saurait être supérieur à cinq mois ainsi que ses conditions et modalités de délivrance.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-727 du 10 août 2018 - art. 23
+
+_Cité par_:
+
+  - Décret n°2018-729 du 21 août 2018 (V)
+  - Décret n°2018-729 du 21 août 2018 - art. 1
+  - Code des relations entre le public et l'adminis... - art. L552-3 (V)
+  - Code des relations entre le public et l'adminis... - art. L562-3 (V)
+  - Code des relations entre le public et l'adminis... - art. L572-1 (V)
+
+
+## Titre II : LE DROIT DE PRÉSENTER DES OBSERVATIONS AVANT L'INTERVENTION DE CERTAINES DÉCISIONS<a id=26></a>
+
+### Chapitre Ier : Décisions soumises au respect d'une procédure contradictoire préalable<a id=27></a>
 
 ###### Article L121-1
 
@@ -2388,7 +2420,7 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. L211-2 (V)
 
 
-### Chapitre II : Modalités de mise en œuvre de la procédure contradictoire préalable<a id=27></a>
+### Chapitre II : Modalités de mise en œuvre de la procédure contradictoire préalable<a id=28></a>
 
 ###### Article L122-1
 
@@ -2517,9 +2549,166 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. L121-1 (V)
 
 
-## Titre III : L'ASSOCIATION DU PUBLIC AUX DÉCISIONS PRISES PAR L'ADMINISTRATION<a id=28></a>
+## Titre II : LES PROCÉDURES PRÉALABLES A L'INTERVENTION DE CERTAINES DÉCISIONS<a id=29></a>
 
-### Chapitre Ier : Principes généraux<a id=29></a>
+###### Article L120-1
+
+Le présent titre est applicable, outre aux administrations mentionnées au 1° de l'article L. 100-3, aux organismes et
+personnes chargés d'une mission de service public industriel et commercial, pour les décisions qu'ils prennent au titre de
+cette mission.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+
+_Créé par_:
+
+  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+
+_Cite_:
+
+  - Code des relations entre le public et l'adminis... - art. L100-3 (V)
+
+_Cité par_:
+
+  - Code des relations entre le public et l'adminis... - art. L552-3 (V)
+  - Code des relations entre le public et l'adminis... - art. L562-3 (V)
+  - Code des relations entre le public et l'adminis... - art. L572-1 (V)
+
+
+### Chapitre Ier : Décisions soumises au respect d'une procédure contradictoire préalable<a id=30></a>
+
+### Chapitre II : Modalités de mise en œuvre de la procédure contradictoire préalable<a id=31></a>
+
+### Chapitre III : Droit à régularisation en cas d'erreur<a id=32></a>
+
+###### Article L123-1
+
+Une personne ayant méconnu pour la première fois une règle applicable à sa situation ou ayant commis une erreur matérielle
+lors du renseignement de sa situation ne peut faire l'objet, de la part de l'administration, d'une sanction, pécuniaire ou
+consistant en la privation de tout ou partie d'une prestation due, si elle a régularisé sa situation de sa propre initiative
+ou après avoir été invitée à le faire par l'administration dans le délai que celle-ci lui a indiqué.
+
+La sanction peut toutefois être prononcée, sans que la personne en cause ne soit invitée à régulariser sa situation, en cas
+de mauvaise foi ou de fraude.
+
+Les premier et deuxième alinéas ne sont pas applicables :
+
+1° Aux sanctions requises pour la mise en œuvre du droit de l'Union européenne ;
+
+2° Aux sanctions prononcées en cas de méconnaissance des règles préservant directement la santé publique, la sécurité des
+personnes et des biens ou l'environnement ;
+
+3° Aux sanctions prévues par un contrat ;
+
+4° Aux sanctions prononcées par les autorités de régulation à l'égard des professionnels soumis à leur contrôle.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-727 du 10 août 2018 - art. 2 (V)
+
+_Cité par_:
+
+  - Code des relations entre le public et l'adminis... - art. L124-2 (V)
+  - Code des relations entre le public et l'adminis... - art. L552-3 (V)
+  - Code des relations entre le public et l'adminis... - art. L562-3 (V)
+  - Code des relations entre le public et l'adminis... - art. L572-1 (V)
+
+
+###### Article L123-2
+
+Est de mauvaise foi, au sens du présent titre, toute personne ayant délibérément méconnu une règle applicable à sa situation.
+
+En cas de contestation, la preuve de la mauvaise foi et de la fraude incombe à l'administration.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-727 du 10 août 2018 - art. 2 (V)
+
+_Cité par_:
+
+  - Code des relations entre le public et l'adminis... - art. L124-2 (V)
+  - Code des relations entre le public et l'adminis... - art. L552-3 (V)
+  - Code des relations entre le public et l'adminis... - art. L562-3 (V)
+  - Code des relations entre le public et l'adminis... - art. L572-1 (V)
+
+
+### Chapitre IV : Droit au contrôle et opposabilité du contrôle<a id=33></a>
+
+###### Article L124-1
+
+Sous réserve des obligations qui résultent d'une convention internationale et sans préjudice des obligations qui lui
+incombent, toute personne peut demander à faire l'objet d'un contrôle prévu par les dispositions législatives et
+réglementaires en vigueur. La demande précise les points sur lesquels le contrôle est sollicité.
+
+L'administration procède à ce contrôle dans un délai raisonnable, sauf en cas de mauvaise foi du demandeur, de demande
+abusive ou lorsque la demande a manifestement pour effet de compromettre le bon fonctionnement du service ou de mettre
+l'administration dans l'impossibilité matérielle de mener à bien son programme de contrôle.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°2018-727 du 10 août 2018 - art. 32 (V)
+  - Code des relations entre le public et l'adminis... - art. L124-2 (V)
+  - Code des relations entre le public et l'adminis... - art. L552-3 (V)
+  - Code des relations entre le public et l'adminis... - art. L562-3 (V)
+  - Code des relations entre le public et l'adminis... - art. L572-1 (V)
+
+_Créé par_:
+
+  - Loi n°2018-727 du 10 août 2018 - art. 2 (V)
+
+
+###### Article L124-2
+
+Sous réserve des droits des tiers, toute personne contrôlée peut opposer les conclusions expresses d'un contrôle effectué en
+application de l'article L. 124-1 à l'administration dont elles émanent. 
+
+Ces conclusions expresses cessent d'être opposables : 
+
+1° En cas de changement de circonstances de droit ou de fait postérieur de nature à affecter leur validité ; 
+
+2° Lorsque l'administration procède à un nouveau contrôle donnant lieu à de nouvelles conclusions expresses. 
+
+Les premier à quatrième alinéas du présent article ne peuvent faire obstacle à l'application des dispositions législatives ou
+réglementaires préservant directement la santé publique, la sécurité des personnes et des biens ou l'environnement. 
+
+Lorsque l'administration constate, à l'issue de son contrôle, une méconnaissance des règles applicables à la situation de la
+personne contrôlée, celle-ci peut régulariser sa situation dans les conditions prévues aux articles L. 123-1 et L. 123-2.
+
+**Nota:**
+
+Conformément à l'article 2 de la loi n° 2018-727 du 10 août 2018, l'article L. 124-2 du code des relations entre le public et
+l'administration est applicable aux contrôles initiés à compter de la publication de ladite loi.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-727 du 10 août 2018 - art. 2 (V)
+
+_Cité par_:
+
+  - Code des relations entre le public et l'adminis... - art. L562-3 (V)
+  - Code des relations entre le public et l'adminis... - art. L572-1 (V)
+
+_Cite_:
+
+  - Code des relations entre le public et l'administration - art. L123-1
+  - Code des relations entre le public et l'administration - art. L123-2
+  - Code des relations entre le public et l'administration - art. L124-1
+
+
+## Titre III : L'ASSOCIATION DU PUBLIC AUX DÉCISIONS PRISES PAR L'ADMINISTRATION<a id=34></a>
+
+### Chapitre Ier : Principes généraux<a id=35></a>
 
 ###### Article L131-1
 
@@ -2545,9 +2734,9 @@ _Cité par_:
   - Code des relations entre le public et l'adminis... - art. L572-1 (V)
 
 
-### Chapitre II : Consultation ouverte sur internet<a id=30></a>
+### Chapitre II : Consultation ouverte sur internet<a id=36></a>
 
-#### Section 1 : Consultation ouverte se substituant à la consultation d'une commission<a id=31></a>
+#### Section 1 : Consultation ouverte se substituant à la consultation d'une commission<a id=37></a>
 
 ###### Article L132-1
 
@@ -2774,7 +2963,7 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. R*132-4 (V)
 
 
-#### Section 2 : Autres consultations ouvertes sur internet<a id=32></a>
+#### Section 2 : Autres consultations ouvertes sur internet<a id=38></a>
 
 ###### Article R*132-8
 
@@ -2860,9 +3049,9 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. R*132-8 (V)
 
 
-### Chapitre III : Commissions administratives à caractère consultatif<a id=33></a>
+### Chapitre III : Commissions administratives à caractère consultatif<a id=39></a>
 
-#### Section 1 : Champ d'application<a id=34></a>
+#### Section 1 : Champ d'application<a id=40></a>
 
 ###### Article R*133-1
 
@@ -2934,7 +3123,7 @@ _Modifié par_:
   - Décret n°2016-663 du 24 mai 2016 - art. 2
 
 
-#### Section 2 : Durée maximale d'existence<a id=35></a>
+#### Section 2 : Durée maximale d'existence<a id=41></a>
 
 ###### Article R*133-2
 
@@ -2989,7 +3178,7 @@ _Créé par_:
   - Décret n°2015-1342 du 23 octobre 2015 - art.
 
 
-#### Section 3 : Règles de fonctionnement<a id=36></a>
+#### Section 3 : Règles de fonctionnement<a id=42></a>
 
 ###### Article R*133-14
 
@@ -3493,9 +3682,9 @@ _Créé par_:
   - Décret n°2015-1342 du 23 octobre 2015 - art.
 
 
-### Chapitre IV : Enquêtes publiques<a id=37></a>
+### Chapitre IV : Enquêtes publiques<a id=43></a>
 
-#### Section 1 : Objet et champ d'application<a id=38></a>
+#### Section 1 : Objet et champ d'application<a id=44></a>
 
 ###### Article L134-1
 
@@ -3551,11 +3740,11 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-#### Section 2 : Ouverture de l'enquête<a id=39></a>
+#### Section 2 : Ouverture de l'enquête<a id=45></a>
 
-##### Sous-section 1 : Autorité compétente<a id=40></a>
+##### Sous-section 1 : Autorité compétente<a id=46></a>
 
-##### Paragraphe 1 : Autorité préfectorale<a id=41></a>
+##### Paragraphe 1 : Autorité préfectorale<a id=47></a>
 
 ###### Article R134-3
 
@@ -3619,7 +3808,7 @@ _Cité par_:
   - Code des relations entre le public et l'adminis... - art. R134-28 (V)
 
 
-##### Paragraphe 2 : Autres autorités<a id=42></a>
+##### Paragraphe 2 : Autres autorités<a id=48></a>
 
 ###### Article R134-5
 
@@ -3643,7 +3832,7 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. R134-3 (V)
 
 
-##### Sous-section 2 : Modalités<a id=43></a>
+##### Sous-section 2 : Modalités<a id=49></a>
 
 ###### Article R134-6
 
@@ -3890,9 +4079,9 @@ _Cité par_:
   - Code des relations entre le public et l'adminis... - art. R134-5 (V)
 
 
-#### Section 3 : Désignation et indemnisation du commissaire enquêteur ou des membres de la commission d'enquête<a id=44></a>
+#### Section 3 : Désignation et indemnisation du commissaire enquêteur ou des membres de la commission d'enquête<a id=50></a>
 
-##### Sous-section 1 : Désignation<a id=45></a>
+##### Sous-section 1 : Désignation<a id=51></a>
 
 ###### Article R134-15
 
@@ -3978,7 +4167,7 @@ _Cité par_:
   - Code des relations entre le public et l'adminis... - art. R582-2 (VD)
 
 
-##### Sous-section 2 : Indemnisation<a id=46></a>
+##### Sous-section 2 : Indemnisation<a id=52></a>
 
 ###### Article R134-18
 
@@ -4082,7 +4271,7 @@ _Créé par_:
   - Décret n°2015-1342 du 23 octobre 2015 - art.
 
 
-#### Section 4 : Dossier soumis à l'enquête publique<a id=47></a>
+#### Section 4 : Dossier soumis à l'enquête publique<a id=53></a>
 
 ###### Article R134-22
 
@@ -4143,7 +4332,7 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. R134-22 (V)
 
 
-#### Section 5 : Observations formulées au cours de l'enquête<a id=48></a>
+#### Section 5 : Observations formulées au cours de l'enquête<a id=54></a>
 
 ###### Article R134-24
 
@@ -4186,9 +4375,9 @@ _Cité par_:
   - Code des relations entre le public et l'adminis... - art. R572-6 (VD)
 
 
-#### Section 6 : Clôture de l'enquête<a id=49></a>
+#### Section 6 : Clôture de l'enquête<a id=55></a>
 
-##### Sous-section 1 : Dispositions générales<a id=50></a>
+##### Sous-section 1 : Dispositions générales<a id=56></a>
 
 ###### Article R134-25
 
@@ -4299,7 +4488,7 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. R134-4 (V)
 
 
-##### Sous-section 2 : Dispositions particulières<a id=51></a>
+##### Sous-section 2 : Dispositions particulières<a id=57></a>
 
 ###### Article R134-29
 
@@ -4348,7 +4537,7 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. R134-29 (V)
 
 
-#### Section 7 : Communication des conclusions du commissaire enquêteur ou de la commission d'enquête<a id=52></a>
+#### Section 7 : Communication des conclusions du commissaire enquêteur ou de la commission d'enquête<a id=58></a>
 
 ###### Article L134-31
 
@@ -4409,7 +4598,7 @@ _Cité par_:
   - Code des relations entre le public et l'adminis... - art. R572-6 (VD)
 
 
-#### Section 8 : Dispositions spécifiques à la protection de secrets de la défense nationale<a id=53></a>
+#### Section 8 : Dispositions spécifiques à la protection de secrets de la défense nationale<a id=59></a>
 
 ###### Article L134-33
 
@@ -4463,9 +4652,9 @@ _Cite_:
   - Code pénal - art. 413-7
 
 
-### Chapitre V : Participation du public aux décisions locales<a id=54></a>
+### Chapitre V : Participation du public aux décisions locales<a id=60></a>
 
-#### Section 1 : Référendum local<a id=55></a>
+#### Section 1 : Référendum local<a id=61></a>
 
 ###### Article L135-1
 
@@ -4488,7 +4677,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L1112-1
 
 
-#### Section 2 : Consultation locale<a id=56></a>
+#### Section 2 : Consultation locale<a id=62></a>
 
 ###### Article L135-2
 
@@ -4511,7 +4700,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L1112-15
 
 
-# Livre II : LES ACTES UNILATÉRAUX PRIS PAR L'ADMINISTRATION<a id=57></a>
+# Livre II : LES ACTES UNILATÉRAUX PRIS PAR L'ADMINISTRATION<a id=63></a>
 
 ###### Article L200-1
 
@@ -4538,9 +4727,9 @@ _Cité par_:
   - Code des relations entre le public et l'adminis... - art. L573-2 (V)
 
 
-## Titre Ier : LA MOTIVATION ET LA SIGNATURE DES ACTES ADMINISTRATIFS<a id=58></a>
+## Titre Ier : LA MOTIVATION ET LA SIGNATURE DES ACTES ADMINISTRATIFS<a id=64></a>
 
-### Chapitre Ier : Motivation<a id=59></a>
+### Chapitre Ier : Motivation<a id=65></a>
 
 ###### Article L211-1
 
@@ -4571,7 +4760,7 @@ _Cité par_:
   - Code des relations entre le public et l'adminis... - art. L573-2 (V)
 
 
-#### Section 1 : Champ d'application matériel<a id=60></a>
+#### Section 1 : Champ d'application matériel<a id=66></a>
 
 ###### Article L211-2
 
@@ -4697,7 +4886,7 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-#### Section 2 : Modalités<a id=61></a>
+#### Section 2 : Modalités<a id=67></a>
 
 ###### Article L211-5
 
@@ -4751,7 +4940,7 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-#### Section 3 : Règles spécifiques à certains organismes<a id=62></a>
+#### Section 3 : Règles spécifiques à certains organismes<a id=68></a>
 
 ###### Article L211-7
 
@@ -4801,7 +4990,7 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-### Chapitre II : Signature<a id=63></a>
+### Chapitre II : Signature<a id=69></a>
 
 ###### Article L212-1
 
@@ -4847,9 +5036,14 @@ service auquel celui-ci appartient, les actes suivants :
 usagers et les autorités administratives et entre les autorités administratives ainsi que les actes préparatoires à ces
 décisions ;
 
-2° Quelles que soient les modalités selon lesquelles ils sont portés à la connaissance des intéressés, les avis à tiers
+2° Les décisions administratives relatives à la gestion de leurs agents produites par les administrations sous forme
+électronique dans le cadre de systèmes d'information relatifs à la gestion ou à la dématérialisation de processus de gestion
+des ressources humaines conforme aux articles 9, 11 et 12 de l'ordonnance n° 2005-1516 du 8 décembre 2005 précitée, quelles
+que soient les modalités de notification aux intéressés, y compris par l'intermédiaire d'un téléservice mentionné au 1° ;
+
+3° Quelles que soient les modalités selon lesquelles ils sont portés à la connaissance des intéressés, les avis à tiers
 détenteur, les oppositions à tiers détenteur, les oppositions administratives, les saisies à tiers détenteur et les avis de
-saisie, adressés tant au tiers saisi qu'au redevable, les lettres de relance relatives à l'assiette ou au recouvrement,  les
+saisie, adressés tant au tiers saisi qu'au redevable, les lettres de relance relatives à l'assiette ou au recouvrement, les
 avis de mise en recouvrement, les mises en demeure de souscrire une déclaration ou d'effectuer un paiement, les décisions
 d'admission totale ou partielle d'une réclamation et les demandes de documents et de renseignements pouvant être obtenus par
 la mise en œuvre du droit de communication prévu au chapitre II du titre II de la première partie du livre des procédures
@@ -4872,8 +5066,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 21 (V)
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 90 (V)
+  - Loi n°2018-727 du 10 août 2018 - art. 42 (V)
 
 _Cité par_:
 
@@ -4917,9 +5110,9 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-## Titre II : L'ENTRÉE EN VIGUEUR DES ACTES ADMINISTRATIFS<a id=64></a>
+## Titre II : L'ENTRÉE EN VIGUEUR DES ACTES ADMINISTRATIFS<a id=70></a>
 
-### Chapitre Ier : Règles générales<a id=65></a>
+### Chapitre Ier : Règles générales<a id=71></a>
 
 ###### Article L221-1
 
@@ -4948,9 +5141,9 @@ _Cité par_:
   - Code des relations entre le public et l'adminis... - art. L573-2 (V)
 
 
-#### Section 1 : Règles d'entrée en vigueur et modalités d'application dans le temps<a id=66></a>
+#### Section 1 : Règles d'entrée en vigueur et modalités d'application dans le temps<a id=72></a>
 
-##### Sous-section 1 : Actes réglementaires<a id=67></a>
+##### Sous-section 1 : Actes réglementaires<a id=73></a>
 
 ###### Article L221-2
 
@@ -5098,7 +5291,7 @@ _Cité par_:
   - Code des relations entre le public et l'adminis... - art. L243-1 (VD)
 
 
-##### Sous-section 2 : Décisions ni réglementaires ni individuelles<a id=68></a>
+##### Sous-section 2 : Décisions ni réglementaires ni individuelles<a id=74></a>
 
 ###### Article L221-7
 
@@ -5134,7 +5327,7 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. L221-2 (VD)
 
 
-##### Sous-section 3 : Décisions individuelles<a id=69></a>
+##### Sous-section 3 : Décisions individuelles<a id=75></a>
 
 ###### Article L221-8
 
@@ -5162,9 +5355,9 @@ _Cité par_:
   - Code des relations entre le public et l'adminis... - art. L573-2 (V)
 
 
-#### Section 2 : Règles particulières de publication<a id=70></a>
+#### Section 2 : Règles particulières de publication<a id=76></a>
 
-##### Sous-section 1 : Règles particulières de publication au Journal officiel de la République française<a id=71></a>
+##### Sous-section 1 : Règles particulières de publication au Journal officiel de la République française<a id=77></a>
 
 ###### Article L221-9
 
@@ -5317,7 +5510,7 @@ _Modifié par_:
   - Décret n°2015-1717 du 22 décembre 2015 - art. 5
 
 
-##### Sous-section 2 : Règles particulières de publication au Bulletin officiel d'un ministère<a id=72></a>
+##### Sous-section 2 : Règles particulières de publication au Bulletin officiel d'un ministère<a id=78></a>
 
 ###### Article L221-17
 
@@ -5345,9 +5538,9 @@ _Cité par_:
   - Code rural - art. L725-23 (V)
 
 
-### Chapitre II : Autres règles applicables aux collectivités territoriales et à leurs établissements publics<a id=73></a>
+### Chapitre II : Autres règles applicables aux collectivités territoriales et à leurs établissements publics<a id=79></a>
 
-#### Section 1 : Actes des communes et de leurs établissements publics<a id=74></a>
+#### Section 1 : Actes des communes et de leurs établissements publics<a id=80></a>
 
 ###### Article L222-1
 
@@ -5393,7 +5586,7 @@ _Cité par_:
   - Code des relations entre le public et l'adminis... - art. L562-15 (VD)
 
 
-#### Section 2 : Actes des départements et de leurs établissements publics<a id=75></a>
+#### Section 2 : Actes des départements et de leurs établissements publics<a id=81></a>
 
 ###### Article L222-2
 
@@ -5428,7 +5621,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5421-2 (V)
 
 
-#### Section 3 : Actes des régions et de leurs établissements publics<a id=76></a>
+#### Section 3 : Actes des régions et de leurs établissements publics<a id=82></a>
 
 ###### Article L222-3
 
@@ -5465,7 +5658,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5621-7 (V)
 
 
-#### Section 4 : Actes des autres organismes et structures de coopération locale<a id=77></a>
+#### Section 4 : Actes des autres organismes et structures de coopération locale<a id=83></a>
 
 ###### Article L222-4
 
@@ -5502,11 +5695,11 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5731-3 (V)
 
 
-## Titre III : LES DÉCISIONS IMPLICITES<a id=78></a>
+## Titre III : LES DÉCISIONS IMPLICITES<a id=84></a>
 
-### Chapitre Ier : Régimes de décisions implicites<a id=79></a>
+### Chapitre Ier : Régimes de décisions implicites<a id=85></a>
 
-#### Section 1 : Principe du silence valant acceptation<a id=80></a>
+#### Section 1 : Principe du silence valant acceptation<a id=86></a>
 
 ###### Article D231-2
 
@@ -5626,9 +5819,9 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-#### Section 2 : Exceptions<a id=81></a>
+#### Section 2 : Exceptions<a id=87></a>
 
-##### Sous-section 1 : Exceptions à la règle du silence valant acceptation<a id=82></a>
+##### Sous-section 1 : Exceptions à la règle du silence valant acceptation<a id=88></a>
 
 ###### Article L231-4
 
@@ -5807,7 +6000,7 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. L231-1 (VD)
 
 
-##### Sous-section 2 : Délais différents d'acquisition de la décision implicite d'acceptation ou de rejet<a id=83></a>
+##### Sous-section 2 : Délais différents d'acquisition de la décision implicite d'acceptation ou de rejet<a id=89></a>
 
 ###### Article L231-6
 
@@ -5843,9 +6036,9 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. L231-4 (VD)
 
 
-### Chapitre II : Garanties procédurales<a id=84></a>
+### Chapitre II : Garanties procédurales<a id=90></a>
 
-#### Section 1 : Délivrance d'une attestation et accomplissement de mesures de publicité<a id=85></a>
+#### Section 1 : Délivrance d'une attestation et accomplissement de mesures de publicité<a id=91></a>
 
 ###### Article L232-1
 
@@ -5929,7 +6122,7 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-#### Section 2 : Communication des motifs<a id=86></a>
+#### Section 2 : Communication des motifs<a id=92></a>
 
 ###### Article L232-4
 
@@ -5968,7 +6161,7 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-## Titre IV : LA SORTIE DE VIGUEUR DES ACTES ADMINISTRATIFS<a id=87></a>
+## Titre IV : LA SORTIE DE VIGUEUR DES ACTES ADMINISTRATIFS<a id=93></a>
 
 ###### Article L240-1
 
@@ -6016,7 +6209,7 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. L100-3 (VD)
 
 
-### Chapitre Ier : Règles générales<a id=88></a>
+### Chapitre Ier : Règles générales<a id=94></a>
 
 ###### Article L241-1
 
@@ -6057,9 +6250,9 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-### Chapitre II : Les décisions créatrices de droits<a id=89></a>
+### Chapitre II : Les décisions créatrices de droits<a id=95></a>
 
-#### Section 1 : Abrogation et retrait à l'initiative de l'administration ou sur demande d'un tiers<a id=90></a>
+#### Section 1 : Abrogation et retrait à l'initiative de l'administration ou sur demande d'un tiers<a id=96></a>
 
 ###### Article L242-1
 
@@ -6115,7 +6308,7 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. L242-1 (VD)
 
 
-#### Section 2 : Abrogation et retrait sur demande du bénéficiaire<a id=91></a>
+#### Section 2 : Abrogation et retrait sur demande du bénéficiaire<a id=97></a>
 
 ###### Article L242-3
 
@@ -6151,7 +6344,7 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-#### Section 3 : Abrogation et retrait dans le cadre d'un recours administratif préalable obligatoire<a id=92></a>
+#### Section 3 : Abrogation et retrait dans le cadre d'un recours administratif préalable obligatoire<a id=98></a>
 
 ###### Article L242-5
 
@@ -6171,9 +6364,9 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-### Chapitre III : Les actes réglementaires et les actes non réglementaires non créateurs de droits<a id=93></a>
+### Chapitre III : Les actes réglementaires et les actes non réglementaires non créateurs de droits<a id=99></a>
 
-#### Section 1 : Abrogation<a id=94></a>
+#### Section 1 : Abrogation<a id=100></a>
 
 ###### Article L243-1
 
@@ -6226,7 +6419,7 @@ _Cité par_:
   - Arrêté du 6 juillet 2017 (V)
 
 
-#### Section 2 : Retrait<a id=95></a>
+#### Section 2 : Retrait<a id=101></a>
 
 ###### Article L243-3
 
@@ -6269,7 +6462,7 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. L243-3 (VD)
 
 
-# Livre III : L'ACCÈS AUX DOCUMENTS ADMINISTRATIFS ET LA RÉUTILISATION DES INFORMATIONS PUBLIQUES<a id=96></a>
+# Livre III : L'ACCÈS AUX DOCUMENTS ADMINISTRATIFS ET LA RÉUTILISATION DES INFORMATIONS PUBLIQUES<a id=102></a>
 
 ###### Article L300-1
 
@@ -6431,11 +6624,11 @@ _Cité par_:
   - Arrêté du 19 octobre 2018 - art. (V)
 
 
-## Titre Ier : LE DROIT D'ACCÈS AUX DOCUMENTS ADMINISTRATIFS<a id=97></a>
+## Titre Ier : LE DROIT D'ACCÈS AUX DOCUMENTS ADMINISTRATIFS<a id=103></a>
 
-### Chapitre Ier : Communication des documents administratifs<a id=98></a>
+### Chapitre Ier : Communication des documents administratifs<a id=104></a>
 
-#### Section 1 : Etendue du droit à communication<a id=99></a>
+#### Section 1 : Etendue du droit à communication<a id=105></a>
 
 ###### Article L311-1
 
@@ -6962,7 +7155,7 @@ _Cite_:
   - Code des relations entre le public et l'administration - art. L311-8
 
 
-#### Section 2 : Modalités du droit à communication<a id=100></a>
+#### Section 2 : Modalités du droit à communication<a id=106></a>
 
 ###### Article L311-9
 
@@ -7205,9 +7398,9 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. R343-1 (VD)
 
 
-### Chapitre II : Diffusion des documents administratifs<a id=101></a>
+### Chapitre II : Diffusion des documents administratifs<a id=107></a>
 
-#### Section 1 : Règles générales<a id=102></a>
+#### Section 1 : Règles générales<a id=108></a>
 
 ###### Article D312-1-1-1
 
@@ -7369,17 +7562,19 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. L311-5 (V)
 
 
-#### Section 2 : Règles spécifiques aux instructions et circulaires<a id=103></a>
+#### Section 2 : Règles spécifiques aux instructions et circulaires<a id=109></a>
 
-##### Sous-section 1 : Règles de publication<a id=104></a>
+##### Sous-section 1 : Règles de publication<a id=110></a>
 
 ###### Article L312-2
 
 Font l'objet d'une publication les instructions, les circulaires ainsi que les notes et réponses ministérielles qui
-comportent une interprétation du droit positif ou une description des procédures administratives.
+comportent une interprétation du droit positif ou une description des procédures administratives. Les instructions et
+circulaires sont réputées abrogées si elles n'ont pas été publiées, dans des conditions et selon des modalités fixées par
+décret.
 
-Un décret en Conseil d'Etat pris après avis de la commission mentionnée au titre IV précise les modalités d'application du
-présent article.
+Un décret en Conseil d'Etat pris après avis de la commission mentionnée au titre IV précise les autres modalités
+d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -7391,9 +7586,9 @@ _Codifié par_:
 
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+  - Loi n°2018-727 du 10 août 2018 - art. 20
 
 _Cité par_:
 
@@ -7403,6 +7598,32 @@ _Cité par_:
   - Code des relations entre le public et l'adminis... - art. R312-4 (VD)
   - Code des relations entre le public et l'adminis... - art. R312-5 (VD)
   - Code des relations entre le public et l'adminis... - art. R312-6 (VD)
+
+
+###### Article L312-3
+
+Toute personne peut se prévaloir des documents administratifs mentionnés au premier alinéa de l'article L. 312-2, émanant des
+administrations centrales et déconcentrées de l'Etat et publiés sur des sites internet désignés par décret. 
+
+Toute personne peut se prévaloir de l'interprétation d'une règle, même erronée, opérée par ces documents pour son application
+à une situation qui n'affecte pas des tiers, tant que cette interprétation n'a pas été modifiée. 
+
+Les dispositions du présent article ne peuvent pas faire obstacle à l'application des dispositions législatives ou
+réglementaires préservant directement la santé publique, la sécurité des personnes et des biens ou l'environnement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-727 du 10 août 2018 - art. 20
+
+_Cité par_:
+
+  - Décret n°2018-1047 du 28 novembre 2018 - art. 4
+
+_Cite_:
+
+  - Code des relations entre le public et l'adminis... - art. L312-2 (V)
 
 
 ###### Article R312-3
@@ -7597,7 +7818,7 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. R312-3 (VD)
 
 
-##### Sous-section 2 : Règles particulières applicables aux circulaires et instructions adressées par les ministres aux services et établissements de l'Etat<a id=105></a>
+##### Sous-section 2 : Règles particulières applicables aux circulaires et instructions adressées par les ministres aux services et établissements de l'Etat<a id=111></a>
 
 ###### Article R312-8
 
@@ -7665,9 +7886,9 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. R312-8 (VD)
 
 
-## Titre II : LA RÉUTILISATION DES INFORMATIONS PUBLIQUES<a id=106></a>
+## Titre II : LA RÉUTILISATION DES INFORMATIONS PUBLIQUES<a id=112></a>
 
-### Chapitre Ier : Etendue du droit de réutilisation<a id=107></a>
+### Chapitre Ier : Etendue du droit de réutilisation<a id=113></a>
 
 ###### Article L321-1
 
@@ -7951,7 +8172,7 @@ _Cite_:
   - Code des relations entre le public et l'administration - art. L321-4
 
 
-### Chapitre II : Règles générales<a id=108></a>
+### Chapitre II : Règles générales<a id=114></a>
 
 ###### Article L322-1
 
@@ -8102,7 +8323,7 @@ _Cite_:
   - Code des relations entre le public et l'administration - art. L322-6
 
 
-### Chapitre III : Etablissement d'une licence<a id=109></a>
+### Chapitre III : Etablissement d'une licence<a id=115></a>
 
 ###### Article D323-2-1
 
@@ -8320,7 +8541,7 @@ _Cite_:
   - Code des relations entre le public et l'administration - art. R311-10
 
 
-### Chapitre IV : Redevance<a id=110></a>
+### Chapitre IV : Redevance<a id=116></a>
 
 ###### Article D324-5-1
 
@@ -9028,7 +9249,7 @@ _Cite_:
   - Code des relations entre le public et l'administration - art. L324-4
 
 
-### Chapitre V : Droit d'exclusivité<a id=111></a>
+### Chapitre V : Droit d'exclusivité<a id=117></a>
 
 ###### Article L325-1
 
@@ -9163,7 +9384,7 @@ _Cite_:
   - Code des relations entre le public et l'administration - art. L325-4
 
 
-### Chapitre VI : Sanctions<a id=112></a>
+### Chapitre VI : Sanctions<a id=118></a>
 
 ###### Article L326-1
 
@@ -9210,7 +9431,7 @@ _Cité par_:
   - Code des relations entre le public et l'adminis... - art. L341-1 (V)
 
 
-### Chapitre VII : Dispositions diverses<a id=113></a>
+### Chapitre VII : Dispositions diverses<a id=119></a>
 
 ###### Article L327-1
 
@@ -9223,7 +9444,7 @@ _Créé par_:
   - Ordonnance n°2016-307 du 17 mars 2016 - art.
 
 
-## Titre III : LES PERSONNES RESPONSABLES DE L'ACCÈS AUX DOCUMENTS ADMINISTRATIFS ET DES QUESTIONS RELATIVES À LA RÉUTILISATION DES INFORMATIONS PUBLIQUES<a id=114></a>
+## Titre III : LES PERSONNES RESPONSABLES DE L'ACCÈS AUX DOCUMENTS ADMINISTRATIFS ET DES QUESTIONS RELATIVES À LA RÉUTILISATION DES INFORMATIONS PUBLIQUES<a id=120></a>
 
 ###### Article L330-1
 
@@ -9359,7 +9580,7 @@ _Créé par_:
   - Décret n°2015-1342 du 23 octobre 2015 - art.
 
 
-## Titre IV : LA COMMISSION D'ACCÈS AUX DOCUMENTS ADMINISTRATIFS<a id=115></a>
+## Titre IV : LA COMMISSION D'ACCÈS AUX DOCUMENTS ADMINISTRATIFS<a id=121></a>
 
 ###### Article L340-1
 
@@ -9391,7 +9612,7 @@ _Cite_:
   - Code du patrimoine
 
 
-### Chapitre Ier : Composition et fonctionnement de la Commission d'accès aux documents administratifs<a id=116></a>
+### Chapitre Ier : Composition et fonctionnement de la Commission d'accès aux documents administratifs<a id=122></a>
 
 ###### Article D341-10
 
@@ -9926,7 +10147,7 @@ _Créé par_:
   - Décret n°2015-1342 du 23 octobre 2015 - art.
 
 
-### Chapitre II : Attributions de la Commission d'accès aux documents administratifs<a id=117></a>
+### Chapitre II : Attributions de la Commission d'accès aux documents administratifs<a id=123></a>
 
 ###### Article L342-1
 
@@ -10177,9 +10398,9 @@ _Créé par_:
   - Décret n°2015-1342 du 23 octobre 2015 - art.
 
 
-### Chapitre III : Procédures applicables devant la Commission d'accès aux documents administratifs<a id=118></a>
+### Chapitre III : Procédures applicables devant la Commission d'accès aux documents administratifs<a id=124></a>
 
-#### Section 1 : Procédure applicable aux demandes d'avis relatives à la communication de documents administratifs<a id=119></a>
+#### Section 1 : Procédure applicable aux demandes d'avis relatives à la communication de documents administratifs<a id=125></a>
 
 ###### Article R*343-4
 
@@ -10325,7 +10546,7 @@ _Cité par_:
   - Code des relations entre le public et l'adminis... - art. R574-3 (VD)
 
 
-#### Section 2 : Procédure applicable au prononcé de sanctions<a id=120></a>
+#### Section 2 : Procédure applicable au prononcé de sanctions<a id=126></a>
 
 ###### Article R343-6
 
@@ -10520,9 +10741,9 @@ _Créé par_:
   - Décret n°2015-1342 du 23 octobre 2015 - art.
 
 
-## Titre V : LA COMMISSION SUPÉRIEURE DE CODIFICATION<a id=121></a>
+## Titre V : LA COMMISSION SUPÉRIEURE DE CODIFICATION<a id=127></a>
 
-### Chapitre unique : Missions et composition<a id=122></a>
+### Chapitre unique : Missions et composition<a id=128></a>
 
 ###### Article L351-1
 
@@ -10541,9 +10762,9 @@ _Cité par_:
   - Décret n°2019-60 du 30 janvier 2019 (V)
 
 
-# Livre IV : LE RÈGLEMENT DES DIFFÉRENDS AVEC L'ADMINISTRATION<a id=123></a>
+# Livre IV : LE RÈGLEMENT DES DIFFÉRENDS AVEC L'ADMINISTRATION<a id=129></a>
 
-## Titre Ier : LES RECOURS ADMINISTRATIFS<a id=124></a>
+## Titre Ier : LES RECOURS ADMINISTRATIFS<a id=130></a>
 
 ###### Article L410-1
 
@@ -10577,7 +10798,7 @@ _Cité par_:
   - Code des relations entre le public et l'adminis... - art. L575-1 (VD)
 
 
-### Chapitre Ier : Règles générales<a id=125></a>
+### Chapitre Ier : Règles générales<a id=131></a>
 
 ###### Article L411-1
 
@@ -10743,7 +10964,7 @@ _Cité par_:
   - Code du travail - art. R5426-19 (V)
 
 
-### Chapitre II : Recours administratifs préalables obligatoires<a id=126></a>
+### Chapitre II : Recours administratifs préalables obligatoires<a id=132></a>
 
 ###### Article L412-1
 
@@ -10897,9 +11118,9 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. L211-2 (VD)
 
 
-## Titre II : LES AUTRES MODES NON JURIDICTIONNELS DE RÉSOLUTION DES DIFFÉRENDS<a id=127></a>
+## Titre II : LES AUTRES MODES NON JURIDICTIONNELS DE RÉSOLUTION DES DIFFÉRENDS<a id=133></a>
 
-### Chapitre Ier : Conciliation et médiation dans un cadre non juridictionnel<a id=128></a>
+### Chapitre Ier : Conciliation et médiation dans un cadre non juridictionnel<a id=134></a>
 
 ###### Article L421-1
 
@@ -10944,7 +11165,7 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-### Chapitre II : Conciliation et médiation dans un cadre juridictionnel<a id=129></a>
+### Chapitre II : Conciliation et médiation dans un cadre juridictionnel<a id=135></a>
 
 ###### Article L422-1
 
@@ -10978,7 +11199,7 @@ _Modifié par_:
   - Loi n°2016-1547 du 18 novembre 2016 - art. 5 (V)
 
 
-### Chapitre III : Transaction<a id=130></a>
+### Chapitre III : Transaction<a id=136></a>
 
 ###### Article L423-1
 
@@ -11006,7 +11227,33 @@ _Cité par_:
   - Code des relations entre le public et l'adminis... - art. L562-12 (VD)
 
 
-### Chapitre IV : Saisine du Défenseur des droits<a id=131></a>
+###### Article L423-2
+
+Lorsqu'une administration de l'Etat souhaite transiger, le principe du recours à la transaction et le montant de celle-ci
+peuvent être préalablement soumis à l'avis d'un comité dont la composition est précisée par décret en Conseil d'Etat. L'avis
+du comité est obligatoire lorsque le montant en cause dépasse un seuil précisé par le même décret.
+
+A l'exception de sa responsabilité pénale, la responsabilité personnelle du signataire de la transaction ne peut être mise en
+cause à raison du principe du recours à la transaction et de ses montants, lorsque celle-ci a suivi l'avis du comité.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 21 novembre 2013 - art. 17 (V)
+  - Arrêté du 20 décembre 2013 - art. 17 (V)
+  - Arrêté du 26 décembre 2013 - art. 17 (V)
+  - Arrêté du 26 décembre 2013 - art. 18 (V)
+  - Arrêté du 28 décembre 2018 - art. 1
+  - Arrêté du 28 décembre 2018 - art. 2
+  - Code des relations entre le public et l'adminis... - art. R423-3 (VD)
+
+_Créé par_:
+
+  - Loi n°2018-727 du 10 août 2018 - art. 24
+
+
+### Chapitre IV : Saisine du Défenseur des droits<a id=137></a>
 
 ###### Article L424-1
 
@@ -11028,9 +11275,9 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-## Titre III : LES RECOURS JURIDICTIONNELS<a id=132></a>
+## Titre III : LES RECOURS JURIDICTIONNELS<a id=138></a>
 
-### Chapitre Ier : Recours juridictionnels de droit commun : les recours contentieux<a id=133></a>
+### Chapitre Ier : Recours juridictionnels de droit commun : les recours contentieux<a id=139></a>
 
 ###### Article L431-1
 
@@ -11053,7 +11300,7 @@ _Cite_:
   - Code de justice administrative
 
 
-### Chapitre II : Arbitrage : principe de prohibition et dérogations<a id=134></a>
+### Chapitre II : Arbitrage : principe de prohibition et dérogations<a id=140></a>
 
 ###### Article L432-1
 
@@ -11079,7 +11326,7 @@ _Cite_:
   - Code de justice administrative - art. L311-6
 
 
-# Livre V : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=135></a>
+# Livre V : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=141></a>
 
 ###### Article L500-1
 
@@ -11098,9 +11345,9 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-## Titre Ier : DISPOSITIONS APPLICABLES EN GUADELOUPE, EN GUYANE, EN MARTINIQUE, À LA RÉUNION ET À MAYOTTE<a id=136></a>
+## Titre Ier : DISPOSITIONS APPLICABLES EN GUADELOUPE, EN GUYANE, EN MARTINIQUE, À LA RÉUNION ET À MAYOTTE<a id=142></a>
 
-### Chapitre Ier : Dispositions générales<a id=137></a>
+### Chapitre Ier : Dispositions générales<a id=143></a>
 
 ###### Article L511-1
 
@@ -11123,7 +11370,7 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-### Chapitre II : Dispositions spécifiques relatives au livre Ier<a id=138></a>
+### Chapitre II : Dispositions spécifiques relatives au livre Ier<a id=144></a>
 
 ###### Article R512-1
 
@@ -11177,7 +11424,7 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. R134-24 (VD)
 
 
-### Chapitre III : Dispositions spécifiques relatives au livre II<a id=139></a>
+### Chapitre III : Dispositions spécifiques relatives au livre II<a id=145></a>
 
 ###### Article L513-1
 
@@ -11219,7 +11466,7 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-### Chapitre IV : Dispositions spécifiques relatives au livre III<a id=140></a>
+### Chapitre IV : Dispositions spécifiques relatives au livre III<a id=146></a>
 
 ###### Article R514-1
 
@@ -11254,9 +11501,9 @@ _Créé par_:
   - Décret n°2015-1342 du 23 octobre 2015 - art.
 
 
-## Titre II : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY<a id=141></a>
+## Titre II : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY<a id=147></a>
 
-### Chapitre Ier : Dispositions générales<a id=142></a>
+### Chapitre Ier : Dispositions générales<a id=148></a>
 
 ###### Article L521-1
 
@@ -11285,7 +11532,7 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-### Chapitre II : Dispositions spécifiques relatives au livre Ier<a id=143></a>
+### Chapitre II : Dispositions spécifiques relatives au livre Ier<a id=149></a>
 
 ###### Article L522-1
 
@@ -11347,7 +11594,7 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. R134-32 (VD)
 
 
-### Chapitre III : Dispositions spécifiques relatives au livre II<a id=144></a>
+### Chapitre III : Dispositions spécifiques relatives au livre II<a id=150></a>
 
 ###### Article L523-1
 
@@ -11401,7 +11648,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. LO6241-1
 
 
-### Chapitre IV : Dispositions spécifiques relatives au livre III<a id=145></a>
+### Chapitre IV : Dispositions spécifiques relatives au livre III<a id=151></a>
 
 ###### Article L524-1
 
@@ -11460,9 +11707,9 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. R312-4 (VD)
 
 
-## Titre III : DISPOSITIONS APPLICABLES À SAINT-MARTIN<a id=146></a>
+## Titre III : DISPOSITIONS APPLICABLES À SAINT-MARTIN<a id=152></a>
 
-### Chapitre Ier : Dispositions générales<a id=147></a>
+### Chapitre Ier : Dispositions générales<a id=153></a>
 
 ###### Article L531-1
 
@@ -11491,7 +11738,7 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-### Chapitre II : Dispositions spécifiques relatives au livre Ier<a id=148></a>
+### Chapitre II : Dispositions spécifiques relatives au livre Ier<a id=154></a>
 
 ###### Article R532-1
 
@@ -11531,7 +11778,7 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. R134-32 (VD)
 
 
-### Chapitre III : Dispositions spécifiques relatives au livre II<a id=149></a>
+### Chapitre III : Dispositions spécifiques relatives au livre II<a id=155></a>
 
 ###### Article L533-1
 
@@ -11584,7 +11831,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. LO6341-1
 
 
-### Chapitre IV : Dispositions spécifiques relatives au livre III<a id=150></a>
+### Chapitre IV : Dispositions spécifiques relatives au livre III<a id=156></a>
 
 ###### Article L534-1
 
@@ -11643,9 +11890,9 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. R312-4 (VD)
 
 
-## Titre IV : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON<a id=151></a>
+## Titre IV : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON<a id=157></a>
 
-### Chapitre Ier : Dispositions générales<a id=152></a>
+### Chapitre Ier : Dispositions générales<a id=158></a>
 
 ###### Article L541-1
 
@@ -11674,7 +11921,7 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-### Chapitre II : Dispositions spécifiques relatives au livre Ier<a id=153></a>
+### Chapitre II : Dispositions spécifiques relatives au livre Ier<a id=159></a>
 
 ###### Article R542-1
 
@@ -11715,7 +11962,7 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. R134-32 (VD)
 
 
-### Chapitre III : Dispositions spécifiques relatives au livre II<a id=154></a>
+### Chapitre III : Dispositions spécifiques relatives au livre II<a id=160></a>
 
 ###### Article L543-1
 
@@ -11769,7 +12016,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. LO6451-1 (V)
 
 
-### Chapitre IV : Dispositions spécifiques relatives au livre III<a id=155></a>
+### Chapitre IV : Dispositions spécifiques relatives au livre III<a id=161></a>
 
 ###### Article L544-1
 
@@ -11849,9 +12096,9 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. R330-2 (VD)
 
 
-## Titre V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE<a id=156></a>
+## Titre V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE<a id=162></a>
 
-### Chapitre Ier : Dispositions générales<a id=157></a>
+### Chapitre Ier : Dispositions générales<a id=163></a>
 
 ###### Article L551-1
 
@@ -11869,9 +12116,9 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-### Chapitre II : Dispositions applicables à l'Etat, aux communes et à leurs établissements publics et autres organismes et personnes placés sous leur contrôle<a id=158></a>
+### Chapitre II : Dispositions applicables à l'Etat, aux communes et à leurs établissements publics et autres organismes et personnes placés sous leur contrôle<a id=164></a>
 
-#### Section 1 : Dispositions applicables à l'Etat, aux communes et à leurs établissements publics<a id=159></a>
+#### Section 1 : Dispositions applicables à l'Etat, aux communes et à leurs établissements publics<a id=165></a>
 
 ###### Article L552-1
 
@@ -11927,9 +12174,9 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-#### Section 2 : Dispositions applicables aux organismes et personnes de droit public et de droit privé, autres que les établissements publics, placés sous le contrôle de l'Etat ou des communes<a id=160></a>
+#### Section 2 : Dispositions applicables aux organismes et personnes de droit public et de droit privé, autres que les établissements publics, placés sous le contrôle de l'Etat ou des communes<a id=166></a>
 
-##### Sous-section 1 : Dispositions applicables du livre Ier<a id=161></a>
+##### Sous-section 1 : Dispositions applicables du livre Ier<a id=167></a>
 
 ###### Article L552-3
 
@@ -11938,195 +12185,189 @@ française aux relations entre le public, d'une part, et les organismes et perso
 que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas
 échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. 
 
-<table align="center" border="1" width="720">
-    <tbody>
-      <tr>
-        <th>Dispositions applicables 
-
-</th>
-        <th>Dans leur rédaction 
-
-</th>
-      </tr>
-      <tr>
-        <td>Titre Ier 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td>
+<table align="center" border="1">
+  <tbody>
+    <tr>
+      <th>Dispositions applicables </th>
+      <th>Dans leur rédaction </th>
+    </tr>
+    <tr>
+      <td>Titre Ier </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
 L. 110-1 
-
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
+      <td>Résultant de l'ordonnance n° 2015-1341 
 </td>
-      </tr>
-      <tr>
-        <td>
+    </tr>
+    <tr>
+      <td>
 L. 111-2 et L. 111-3 
-
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td>
+      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
 L. 112-1 à L. 112-3 
-
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td>
+      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
 L. 112-6 à L. 112-15 
-
 </td>
-        <td>Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
-
-</td>
-      </tr>
-      <tr>
-        <td>
+      <td>Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique </td>
+    </tr>
+    <tr>
+      <td>
 L. 113-4 
-
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
+      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
+L. 113-12 
 </td>
-      </tr>
-      <tr>
-        <td>
-L. 113-12 à L. 113-13 
-
+      <td>Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance </td>
+    </tr>
+    <tr>
+      <td>
+L. 113-13 
 </td>
-        <td>Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
-
+      <td>Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique </td>
+    </tr>
+    <tr>
+      <td>
+L. 114-1 à L. 114-5 
 </td>
-      </tr>
-      <tr>
-        <td>
-L. 114-1 à L. 114-10 
-
+      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
+L. 114-5-1 
 </td>
-        <td>Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
-
+      <td>Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance </td>
+    </tr>
+    <tr>
+      <td>
+L. 114-6 à L. 114-9 
 </td>
-      </tr>
-      <tr>
-        <td>
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td>Titre II 
-
+      <td align="left">Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
+L. 114-10 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td>
+      <td align="left">Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance </
+td>
+    </tr>
+    <tr>
+      <td>
+L. 114-11
+</td>
+      <td align="left">Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance </
+td>
+    </tr>
+    <tr>
+      <td>Titre II </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
 L. 120-1 
-
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td>
+      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
 L. 121-1 et L. 121-2 
-
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td>
+      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
 L. 122-1 et L. 122-2 
-
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
+      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
+L. 123-1 et L. 123-2 
 </td>
-      </tr>
-      <tr>
-        <td>
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td>Titre III 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td>
+      <td>Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance </td>
+    </tr>
+    <tr>
+      <td>
+L. 124-1 et L. 124-2 </td>
+      <td align="left">Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance </
+td>
+    </tr>
+    <tr>
+      <td>Titre III </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
 L. 131-1 
-
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td>
+      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
 L. 132-1 à L. 132-3 
-
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td>
+      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
 L. 134-1 et L. 134-2 
-
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td>
+      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
 L. 134-31 
-
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
+      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
+L. 134-33 et L. 134-34 
 </td>
-      </tr>
-      <tr>
-        <td>
-L. 134-33 et L. 134-34
-
-</td>
-        <td>Résultant de l'ordonnance n° 2015-1341
-
-</td>
-      </tr>
-    </tbody>
-  </table>
+      <td>Résultant de l'ordonnance n° 2015-1341</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - ORDONNANCE n°2015-1341 du 23 octobre 2015
+  - Loi n°2016-1321 du 7 octobre 2016
+  - Loi n°2018-727 du 10 août 2018
+  - Code des relations entre le public et l'adminis... - art. L113-12 (V)
   - Code des relations entre le public et l'administration - art. L110-1
   - Code des relations entre le public et l'administration - art. L111-2
   - Code des relations entre le public et l'administration - art. L112-1
   - Code des relations entre le public et l'administration - art. L112-6
-  - Code des relations entre le public et l'administration - art. L113-12
+  - Code des relations entre le public et l'administration - art. L113-13
   - Code des relations entre le public et l'administration - art. L113-4
   - Code des relations entre le public et l'administration - art. L114-1
+  - Code des relations entre le public et l'administration - art. L114-10
+  - Code des relations entre le public et l'administration - art. L114-11
+  - Code des relations entre le public et l'administration - art. L114-5
+  - Code des relations entre le public et l'administration - art. L114-5-1
+  - Code des relations entre le public et l'administration - art. L114-6
+  - Code des relations entre le public et l'administration - art. L114-9
   - Code des relations entre le public et l'administration - art. L120-1
   - Code des relations entre le public et l'administration - art. L121-1
   - Code des relations entre le public et l'administration - art. L122-1
+  - Code des relations entre le public et l'administration - art. L123-1
+  - Code des relations entre le public et l'administration - art. L123-2
+  - Code des relations entre le public et l'administration - art. L124-1
   - Code des relations entre le public et l'administration - art. L131-1
   - Code des relations entre le public et l'administration - art. L132-1
   - Code des relations entre le public et l'administration - art. L134-1
@@ -12139,7 +12380,10 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 112
+  - Loi n°2018-727 du 10 août 2018 - art. 2 (V)
+  - Loi n°2018-727 du 10 août 2018 - art. 23
+  - Loi n°2018-727 du 10 août 2018 - art. 4
+  - Loi n°2018-727 du 10 août 2018 - art. 41
 
 
 ###### Article R*552-4
@@ -12291,7 +12535,7 @@ _Modifié par_:
   - Décret n°2017-1728 du 21 décembre 2017 - art. 2
 
 
-##### Sous-section 2 : Dispositions applicables du livre II<a id=162></a>
+##### Sous-section 2 : Dispositions applicables du livre II<a id=168></a>
 
 ###### Article D552-7
 
@@ -12333,197 +12577,156 @@ que les établissements publics, chargés par l'Etat et les communes d'une missi
 échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. 
 
 <table border="1">
-    <tbody>
-      <tr>
-        <th>Dispositions applicables 
-
-</th>
-        <th>Dans leur rédaction 
-
-</th>
-      </tr>
-      <tr>
-        <td>
-        </td><td>
-      </td></tr>
-      <tr>
-        <td>
+  <tbody>
+    <tr>
+      <th>Dispositions applicables </th>
+      <th>Dans leur rédaction </th>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
 L. 200-1 
-
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
+      <td>Résultant de l'ordonnance n° 2015-1341 
 </td>
-      </tr>
-      <tr>
-        <td>
-        </td><td>
-      </td></tr>
-      <tr>
-        <td>Titre Ier 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>Titre Ier </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
 L. 211-1 à L. 211-6 
+</td>
+      <td align="left">Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
+L. 212-1 
+</td>
+      <td>Résultant de la loi n° 2017-258 du 28 février 2017 relative à la sécurité publique 
 
 </td>
-        <td align="left">Résultant de l'ordonnance n° 2015-1341 
+    </tr>
+    <tr>
+      <td>
+L. 212-2 
+</td>
+      <td>Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance </td>
+    </tr>
+    <tr>
+      <td>
+
+L. 212-3 
 
 </td>
-      </tr>
-      <tr>
-        <td>L. 212-1 
-
-</td>
-        <td>Résultant de la loi n° 2017-258 du 28 février 2017 relative à la sécurité publique 
-
-</td>
-      </tr>
-      <tr>
-        <td>L. 212-2</td>
-        <td>Résultant de la loi n° 2016-1918 du 29 décembre 2016 de finances rectificative pour 2016 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-          L. 212-3 
-        </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 </td>
-      </tr>
-      <tr>
-        <td>Titre II 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td>
+      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>Titre II </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
 L. 221-1 
-
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td>
+      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
 L. 221-2, L. 221-3 et L. 221-7, en tant qu'elles concernent les décisions qui ne sont ni réglementaires ni individuelles et
-qui ne sont pas publiées au Journal officiel de la République française 
-
-</td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td>
+qui ne sont pas publiées au Journal officiel de la République française </td>
+      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
 L. 221-8 
-
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-        </td><td>
-      </td></tr>
-      <tr>
-        <td>Titre III 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td>
+      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>Titre III </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
 L. 231-1 
-
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td>
+      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
 L. 231-4 à L. 231-6 
-
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td>
+      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
 L. 232-1 à L. 232-4 
-
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-        </td><td>
-      </td></tr>
-      <tr>
-        <td>Titre IV 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td>
+      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>Titre IV </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
 L. 240-1 et L. 240-2 
-
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td>
+      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
 L. 241-1 et L. 241-2 
-
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td>
+      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
 L. 242-1 à L. 242-5 
-
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
+      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
+L. 243-1 à L. 243-4 
 </td>
-      </tr>
-      <tr>
-        <td>
-L. 243-1 à L. 243-4
-
-</td>
-        <td>Résultant de l'ordonnance n° 2015-1341
-
-</td>
-      </tr>
-    </tbody>
-  </table>
+      <td>Résultant de l'ordonnance n° 2015-1341</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - ORDONNANCE n°2015-1341 du 23 octobre 2015
+  - Loi n°2017-258 du 28 février 2017
+  - Loi n°2018-727 du 10 août 2018
+  - Code des relations entre le public et l'adminis... - art. L212-2 (VT)
   - Code des relations entre le public et l'administration - art. L200-1
   - Code des relations entre le public et l'administration - art. L211-1
   - Code des relations entre le public et l'administration - art. L212-1
+  - Code des relations entre le public et l'administration - art. L212-3
   - Code des relations entre le public et l'administration - art. L221-1
   - Code des relations entre le public et l'administration - art. L221-2
+  - Code des relations entre le public et l'administration - art. L221-3
   - Code des relations entre le public et l'administration - art. L221-7
   - Code des relations entre le public et l'administration - art. L221-8
   - Code des relations entre le public et l'administration - art. L231-1
@@ -12540,10 +12743,10 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2017-258 du 28 février 2017 - art. 40
+  - Loi n°2018-727 du 10 août 2018 - art. 42 (V)
 
 
-##### Sous-section 3 : Dispositions applicables du livre III<a id=163></a>
+##### Sous-section 3 : Dispositions applicables du livre III<a id=169></a>
 
 ###### Article D552-11
 
@@ -12650,269 +12853,199 @@ Les dispositions du livre III mentionnées dans la colonne de gauche du tableau 
 française aux relations entre le public, d'une part, et les organismes et personnes organismes et personnes de droit public
 et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public
 administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de
-droite du même tableau. 
-
-<table width="720" align="center" border="1">
-    <tbody>
-      <tr>
-        <th>DISPOSITIONS APPLICABLES 
-
-</th>
-        <th>DANS LEUR RÉDACTION 
-
-</th>
-      </tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td>
-
-L. 300-1 à L. 300-4 
-
-</td>
-        <td>
-
-Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
-
-</td>
-      </tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td>
-
-Titre Ier 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td>
-
-L. 311-1 à L. 311-9 
-
-</td>
-        <td>
-
-Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-
-L. 311-14 
-
-</td>
-        <td>
-
-Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-
-L. 312-1 à L. 312-1-3 
-
-</td>
-        <td>
-
-Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-
-L. 312-2 
-
-</td>
-        <td>
-
-Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td>
-
-Titre II 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td>
-
-L. 321-1 à L. 321-4 </td>
-        <td>
-
-Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-
-L. 322-1 et L. 322-2 
-
-</td>
-        <td>
-
-Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-
-L. 322-5 et L. 322-6 
-
-</td>
-        <td>
-
-Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-
-L. 323-1 et L. 323-2 
-
-</td>
-        <td>
-
-Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-
-L. 324-1 à L. 324-6 
-
-</td>
-        <td>
-
-Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-
-L. 325-1 à L. 325-4 
-
-</td>
-        <td>
-
-Résultant de l'ordonnance n° 2016-307 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-
-L. 325-7 et L. 325-8 
-
-</td>
-        <td>
-
-Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-
-L. 326-1 
-
-</td>
-        <td>Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique </td>
-      </tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td>
-
-Titre III 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td>
-
-L. 330-1 
-
-</td>
-        <td>
-
-Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td>
-
-Titre IV 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td>
-
-L. 340-1 
-
-</td>
-        <td>
-
-Résultant de l'ordonnance n° 2016-307 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-
-L. 341-1 et L. 341-2 
-
-</td>
-        <td>
-
-Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-
-L. 342-1 à L. 342-4 
-
-</td>
-        <td>
+droite du même tableau.
+
+<table align="center" border="1">
+  <tbody>
+    <tr>
+      <th>DISPOSITIONS APPLICABLES</th>
+      <th>DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 300-1 à L. 300-4</td>
+      <td>
+
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique</td>
+    </tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+Titre Ier </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 311-1 à L. 311-9</td>
+      <td>
+
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 311-14</td>
+      <td>
+
+Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
+
+L. 312-1 à L. 312-1-3</td>
+      <td>
+
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 312-2</td>
+      <td>
+
+Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance</td>
+    </tr>
+    <tr>
+      <td>L. 312-3</td>
+      <td>Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance</td>
+    </tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+Titre II </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 321-1 à L. 321-4</td>
+      <td>
+
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 322-1 et L. 322-2</td>
+      <td>
+
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 322-5 et L. 322-6</td>
+      <td>
+
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 323-1 et L. 323-2</td>
+      <td>
+
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 324-1 à L. 324-6</td>
+      <td>
+
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 325-1 à L. 325-4</td>
+      <td>
+
+Résultant de l'ordonnance n° 2016-307 </td>
+    </tr>
+    <tr>
+      <td>
+
+L. 325-7 et L. 325-8</td>
+      <td>
+
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 326-1</td>
+      <td>Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique</td>
+    </tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+Titre III </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 330-1</td>
+      <td>
+
+Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+Titre IV </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+L. 340-1</td>
+      <td>
+
+Résultant de l'ordonnance n° 2016-307 </td>
+    </tr>
+    <tr>
+      <td>
+
+L. 341-1 et L. 341-2</td>
+      <td>
+
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique</td>
+    </tr>
+    <tr>
+      <td>
+
+L. 342-1 à L. 342-4</td>
+      <td>
 
 Résultant de la loi n° 2016-1919 du 29 décembre 2016 relative à l'exercice, par la Croix-Rouge française, de sa mission
 statutaire de rétablissement des liens familiaux</td>
-      </tr>
-    </tbody>
-  </table>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -12920,7 +13053,7 @@ _Cite_:
 
   - ORDONNANCE n°2015-1341 du 23 octobre 2015
   - Ordonnance n°2016-307 du 17 mars 2016
-  - Loi n°2016-1919 du 29 décembre 2016 (V)
+  - Loi n°2016-1919 du 29 décembre 2016
 
 _Codifié par_:
 
@@ -12928,7 +13061,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1919 du 29 décembre 2016 - art. 6 (V)
+  - Loi n°2018-727 du 10 août 2018 - art. 20
 
 
 ###### Article R*552-9
@@ -13165,7 +13298,7 @@ _Modifié par_:
   - Décret n°2017-349 du 20 mars 2017 - art. 2
 
 
-##### Sous-section 4 : Dispositions applicables du livre IV<a id=164></a>
+##### Sous-section 4 : Dispositions applicables du livre IV<a id=170></a>
 
 ###### Article L552-12
 
@@ -13216,9 +13349,9 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-#### Section 3 : Dispositions d'adaptation<a id=165></a>
+#### Section 3 : Dispositions d'adaptation<a id=171></a>
 
-##### Sous-section 1 : Dispositions d'adaptation du livre Ier<a id=166></a>
+##### Sous-section 1 : Dispositions d'adaptation du livre Ier<a id=172></a>
 
 ###### Article L552-13
 
@@ -13283,7 +13416,7 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. R134-32 (VD)
 
 
-##### Sous-section 2 : Dispositions d'adaptation du livre III<a id=167></a>
+##### Sous-section 2 : Dispositions d'adaptation du livre III<a id=173></a>
 
 ###### Article L552-15
 
@@ -13371,7 +13504,7 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. R312-4 (VD)
 
 
-### Chapitre III : Dispositions applicables à la Polynésie française et aux organismes et personnes placées sous son contrôle<a id=168></a>
+### Chapitre III : Dispositions applicables à la Polynésie française et aux organismes et personnes placées sous son contrôle<a id=174></a>
 
 ###### Article L553-1
 
@@ -13503,9 +13636,9 @@ _Modifié par_:
   - Décret n°2017-349 du 20 mars 2017 - art. 2
 
 
-## Titre VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE<a id=169></a>
+## Titre VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE<a id=175></a>
 
-### Chapitre Ier : Dispositions générales<a id=170></a>
+### Chapitre Ier : Dispositions générales<a id=176></a>
 
 ###### Article L561-1
 
@@ -13523,9 +13656,9 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-### Chapitre II : Dispositions applicables à l'Etat, aux communes et à leurs établissements publics et aux autres organismes et personnes placés sous leur contrôle<a id=171></a>
+### Chapitre II : Dispositions applicables à l'Etat, aux communes et à leurs établissements publics et aux autres organismes et personnes placés sous leur contrôle<a id=177></a>
 
-#### Section 1 : Dispositions applicables à l'Etat, aux communes et à leurs établissements publics<a id=172></a>
+#### Section 1 : Dispositions applicables à l'Etat, aux communes et à leurs établissements publics<a id=178></a>
 
 ###### Article L562-1
 
@@ -13580,9 +13713,9 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-#### Section 2 : Dispositions applicables aux organismes et personnes de droit public et de droit privé, autres que les établissements publics, placés sous le contrôle de l'Etat et des communes<a id=173></a>
+#### Section 2 : Dispositions applicables aux organismes et personnes de droit public et de droit privé, autres que les établissements publics, placés sous le contrôle de l'Etat et des communes<a id=179></a>
 
-##### Sous-section 1 : Dispositions applicables du livre Ier<a id=174></a>
+##### Sous-section 1 : Dispositions applicables du livre Ier<a id=180></a>
 
 ###### Article L562-3
 
@@ -13592,198 +13725,193 @@ que les établissements publics, chargés par l'Etat et les communes d'une missi
 échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. 
 
 <table border="1">
-    <tbody>
-      <tr>
-        <th>Dispositions applicables 
-
-</th>
-        <th>Dans leur rédaction 
-
-</th>
-      </tr>
-      <tr>
-        <td align="justify">Titre Ier 
-
-</td>
-        <td align="left"> </td>
-      </tr>
-      <tr>
-        <td align="justify">
+  <tbody>
+    <tr>
+      <th>Dispositions applicables </th>
+      <th>Dans leur rédaction </th>
+    </tr>
+    <tr>
+      <td align="justify">Titre Ier </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 110-1 
-
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
-
+      <td align="justify">Résultant de l'ordonnance n° 2015-1341 
 </td>
-      </tr>
-      <tr>
-        <td align="justify">
+    </tr>
+    <tr>
+      <td align="justify">
 L. 111-2 et L. 111-3 
-
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+      <td align="justify">Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 L. 112-1 à L. 112-3 
-
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+      <td align="justify">Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 L. 112-6 à L. 112-15 
-
 </td>
-        <td align="justify">Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique  
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+      <td align="justify">Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique </td>
+    </tr>
+    <tr>
+      <td align="justify">
 L. 113-4 
-
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
-
+      <td align="justify">Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+L. 113-12 
 </td>
-      </tr>
-      <tr>
-        <td align="left">
-L. 113-12 à L. 113-13 
-
+      <td align="justify">Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance
 </td>
-        <td align="justify">Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
-
+    </tr>
+    <tr>
+      <td align="left">
+L. 113-13 
 </td>
-      </tr>
-      <tr>
-        <td align="justify">
-L. 114-1 à L. 114-10 
-
+      <td align="justify">Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique </td>
+    </tr>
+    <tr>
+      <td align="justify">
+L. 114-1 à L. 114-5 
 </td>
-        <td align="justify">Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
-
+      <td align="justify">Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+L. 114-5-1 
 </td>
-      </tr>
-      <tr>
-        <td align="justify">
-
+      <td align="justify">Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance
 </td>
-        <td align="justify"> </td>
-      </tr>
-      <tr>
-        <td align="justify">Titre II 
-
+    </tr>
+    <tr>
+      <td align="justify">
+L. 114-6 à L. 114-9 
 </td>
-        <td align="left"> </td>
-      </tr>
-      <tr>
-        <td align="justify">
+      <td align="justify">Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+L. 114-10 
+</td>
+      <td align="justify">Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance
+</td>
+    </tr>
+    <tr>
+      <td align="justify">
+L. 114-11
+</td>
+      <td align="left">Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance </
+td>
+    </tr>
+    <tr>
+      <td align="justify">Titre II </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 120-1 
-
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+      <td align="justify">Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 L. 121-1 et L. 121-2 
-
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+      <td align="justify">Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 L. 122-1 et L. 122-2 
-
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
-
+      <td align="justify">Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+L. 123-1 et L. 123-2 
 </td>
-      </tr>
-      <tr>
-        <td align="justify">
-
+      <td align="justify">Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance
 </td>
-        <td align="justify"> </td>
-      </tr>
-      <tr>
-        <td align="justify">Titre III 
-
+    </tr>
+    <tr>
+      <td align="justify">
+L. 124-1 et L. 124-2 
 </td>
-        <td align="left"> </td>
-      </tr>
-      <tr>
-        <td align="justify">
+      <td align="justify">Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance
+</td>
+    </tr>
+    <tr>
+      <td align="justify">Titre III </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 131-1 
-
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+      <td align="justify">Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 L. 132-1 à L. 132-3 
-
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+      <td align="justify">Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 L. 134-1 et L. 134-2 
-
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+      <td align="justify">Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 L. 134-31 
-
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
-
+      <td align="justify">Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+L. 134-33 et L. 134-34 
 </td>
-      </tr>
-      <tr>
-        <td align="justify">
-L. 134-33 et L. 134-34
-
-</td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341
-
-</td>
-      </tr>
-    </tbody>
-  </table>
+      <td align="justify">Résultant de l'ordonnance n° 2015-1341</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - ORDONNANCE n°2015-1341 du 23 octobre 2015
+  - Loi n°2016-1321 du 7 octobre 2016
+  - Loi n°2018-727 du 10 août 2018
+  - Code des relations entre le public et l'adminis... - art. L114-11 (V)
   - Code des relations entre le public et l'administration - art. L110-1
   - Code des relations entre le public et l'administration - art. L111-2
   - Code des relations entre le public et l'administration - art. L112-1
   - Code des relations entre le public et l'administration - art. L112-6
   - Code des relations entre le public et l'administration - art. L113-12
+  - Code des relations entre le public et l'administration - art. L113-13
   - Code des relations entre le public et l'administration - art. L113-4
   - Code des relations entre le public et l'administration - art. L114-1
+  - Code des relations entre le public et l'administration - art. L114-10
+  - Code des relations entre le public et l'administration - art. L114-5
+  - Code des relations entre le public et l'administration - art. L114-5-1
+  - Code des relations entre le public et l'administration - art. L114-6
+  - Code des relations entre le public et l'administration - art. L114-9
   - Code des relations entre le public et l'administration - art. L120-1
   - Code des relations entre le public et l'administration - art. L121-1
   - Code des relations entre le public et l'administration - art. L122-1
+  - Code des relations entre le public et l'administration - art. L123-1
+  - Code des relations entre le public et l'administration - art. L123-2
+  - Code des relations entre le public et l'administration - art. L124-1
+  - Code des relations entre le public et l'administration - art. L124-2
   - Code des relations entre le public et l'administration - art. L131-1
   - Code des relations entre le public et l'administration - art. L132-1
   - Code des relations entre le public et l'administration - art. L134-1
@@ -13796,7 +13924,10 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 112
+  - Loi n°2018-727 du 10 août 2018 - art. 2 (V)
+  - Loi n°2018-727 du 10 août 2018 - art. 23
+  - Loi n°2018-727 du 10 août 2018 - art. 4
+  - Loi n°2018-727 du 10 août 2018 - art. 41
 
 
 ###### Article R*562-4
@@ -13945,7 +14076,7 @@ _Modifié par_:
   - Décret n°2017-1728 du 21 décembre 2017 - art. 2
 
 
-##### Sous-section 2 : Dispositions applicables du livre II<a id=175></a>
+##### Sous-section 2 : Dispositions applicables du livre II<a id=181></a>
 
 ###### Article D562-7
 
@@ -13987,213 +14118,168 @@ aux relations entre le public, d'une part, et les organismes et personnes de dro
 industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. 
 
 <table border="1">
-    <tbody>
-      <tr>
-        <th>Dispositions applicables 
-
-</th>
-        <th>Dans leur rédaction 
-
-</th>
-      </tr>
-      <tr>
-        <th>
-
-</th>
-        <th>
-
-</th>
-      </tr>
-      <tr>
-        <td>
+  <tbody>
+    <tr>
+      <th>Dispositions applicables </th>
+      <th>Dans leur rédaction </th>
+    </tr>
+    <tr>
+      <th>
+      </th><th>
+    </th></tr>
+    <tr>
+      <td>
 L. 200-1 
-
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
+      <td>Résultant de l'ordonnance n° 2015-1341 
 </td>
-      </tr>
-      <tr>
-        <td>
-        </td><td>
-      </td></tr>
-      <tr>
-        <td align="left">Titre Ier : 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="left">Titre Ier : </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
 L. 211-1 à L. 211-6 
-
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td>
+      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
 
 L. 212-1 
 
 </td>
-        <td>
+      <td>
 
 Résultant de la loi n° 2017-258 du 28 février 2017 relative à la sécurité publique 
 
 </td>
-      </tr>
-      <tr>
-        <td>
+    </tr>
+    <tr>
+      <td>
 
-L. 212-2
-
-</td>
-        <td>
-
-Résultant de la loi n° 2016-1918 du 29 décembre 2016 de finances rectificative pour 2016 
+L. 212-2 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left">L. 212-3 </td>
-        <td align="left">
+      <td>
+
+Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+L. 212-3 
+</td>
+      <td align="left">
 
 Résultant de l'ordonnance n° 2015-1341 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left">Titre II 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td>
+    </tr>
+    <tr>
+      <td align="left">Titre II </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
 L. 221-1 
-
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td>
+      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
 L. 221-2, L. 221-3 et L. 221-7, en tant qu'elles concernent les décisions qui ne sont ni réglementaires ni individuelles et
-qui ne sont pas publiées au Journal officiel de la République française 
-
-</td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td>
+qui ne sont pas publiées au Journal officiel de la République française </td>
+      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
 L. 221-8 
-
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-        </td><td>
-      </td></tr>
-      <tr>
-        <td align="left">Titre III : 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td>
+      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="left">Titre III : </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
 L. 231-1 
-
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td>
+      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
 L. 231-4 à L. 231-6 
-
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td>
+      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
 L. 232-1 à L. 232-4 
-
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-        </td><td>
-      </td></tr>
-      <tr>
-        <td align="left">Titre IV 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td>
+      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="left">Titre IV </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
 L. 240-1 et L. 240-2 
-
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td>
+      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
 L. 241-1 et L. 241-2 
-
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td>
+      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
 L. 242-1 à L. 242-5 
-
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
+      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
+L. 243-1 à L. 243-4 
 </td>
-      </tr>
-      <tr>
-        <td>
-L. 243-1 à L. 243-4
-
-</td>
-        <td>Résultant de l'ordonnance n° 2015-1341
-
-</td>
-      </tr>
-    </tbody>
-  </table>
+      <td>Résultant de l'ordonnance n° 2015-1341</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - ORDONNANCE n°2015-1341 du 23 octobre 2015
+  - Loi n°2017-258 du 28 février 2017
+  - Loi n°2018-727 du 10 août 2018
   - Code des relations entre le public et l'administration - art. L200-1
   - Code des relations entre le public et l'administration - art. L211-1
   - Code des relations entre le public et l'administration - art. L212-1
+  - Code des relations entre le public et l'administration - art. L212-2
+  - Code des relations entre le public et l'administration - art. L212-3
   - Code des relations entre le public et l'administration - art. L221-1
   - Code des relations entre le public et l'administration - art. L221-2
+  - Code des relations entre le public et l'administration - art. L221-3
   - Code des relations entre le public et l'administration - art. L221-7
   - Code des relations entre le public et l'administration - art. L221-8
   - Code des relations entre le public et l'administration - art. L231-1
@@ -14210,10 +14296,10 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2017-258 du 28 février 2017 - art. 40
+  - Loi n°2018-727 du 10 août 2018 - art. 42 (V)
 
 
-##### Sous-section 3 : Dispositions applicables du livre III<a id=176></a>
+##### Sous-section 3 : Dispositions applicables du livre III<a id=182></a>
 
 ###### Article D562-11
 
@@ -14311,271 +14397,202 @@ _Modifié par_:
 Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Nouvelle-
 Calédonie aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres
 que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas
-échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. 
+échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.
 
 <table border="1">
-    <tbody>
-      <tr>
-        <th>DISPOSITIONS APPLICABLES 
-
-</th>
-        <th>DANS LEUR RÉDACTION 
-
-</th>
-      </tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-L. 300-1 à L. 300-4 
-
-</td>
-        <td align="justify">
-
-Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
-
-</td>
-      </tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-Titre Ier 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-L. 311-1 à L. 311-9 
-
-</td>
-        <td align="justify">
-
-Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique </td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-L. 311-14 
-
-</td>
-        <td align="justify">
-
-Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-L. 312-1 à L. 312-1-3 
-
-</td>
-        <td align="justify">
-
-Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-L. 312-2 
-
-</td>
-        <td align="justify">
-
-Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-Titre II 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-L. 321-1 à L. 321-4 
-
-</td>
-        <td align="justify">
-
-Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-L. 322-1 et L. 322-2 
-
-</td>
-        <td align="justify">
-
-Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-L. 322-5 et L. 322-6 
-
-</td>
-        <td align="justify">
-
-Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-L. 323-1 et L. 323-2 
-
-</td>
-        <td align="justify">
-
-Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-L. 324-1 à L. 324-6 </td>
-        <td align="justify">
-
-Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-L. 325-1 à L. 325-4 
-
-</td>
-        <td align="justify">
-
-Résultant de l'ordonnance n° 2016-307 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-L. 325-7 et L. 325-8 
-
-</td>
-        <td align="justify">
-
-Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-L. 326-1 
-
-</td>
-        <td align="justify">
-
-Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
-
-</td>
-      </tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-Titre III 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-L. 330-1 
-
-</td>
-        <td align="justify">
-
-Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-Titre IV 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-L. 340-1 
-
-</td>
-        <td align="justify">
-
-Résultant de l'ordonnance n° 2016-307 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-L. 341-1 et L. 341-2 
-
-</td>
-        <td align="justify">
-
-Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-L. 342-1 à L. 342-4 
-
-</td>
-        <td align="justify">
+  <tbody>
+    <tr>
+      <th>DISPOSITIONS APPLICABLES</th>
+      <th>DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+L. 300-1 à L. 300-4</td>
+      <td align="justify">
+
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique</td>
+    </tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+Titre Ier </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+L. 311-1 à L. 311-9</td>
+      <td align="justify">
+
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+L. 311-14</td>
+      <td align="justify">
+
+Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+L. 312-1 à L. 312-1-3</td>
+      <td align="justify">
+
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+L. 312-2</td>
+      <td align="justify">
+
+Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance</td>
+    </tr>
+    <tr>
+      <td align="justify">L. 312-3</td>
+      <td align="justify">Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de
+confiance</td>
+    </tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+Titre II </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+L. 321-1 à L. 321-4</td>
+      <td align="justify">
+
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+L. 322-1 et L. 322-2</td>
+      <td align="justify">
+
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+L. 322-5 et L. 322-6</td>
+      <td align="justify">
+
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+L. 323-1 et L. 323-2</td>
+      <td align="justify">
+
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+L. 324-1 à L. 324-6</td>
+      <td align="justify">
+
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+L. 325-1 à L. 325-4</td>
+      <td align="justify">
+
+Résultant de l'ordonnance n° 2016-307 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+L. 325-7 et L. 325-8</td>
+      <td align="justify">
+
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+L. 326-1</td>
+      <td align="justify">
+
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique</td>
+    </tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+Titre III </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+L. 330-1</td>
+      <td align="justify">
+
+Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+Titre IV </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+L. 340-1</td>
+      <td align="justify">
+
+Résultant de l'ordonnance n° 2016-307 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+L. 341-1 et L. 341-2</td>
+      <td align="justify">
+
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+L. 342-1 à L. 342-4</td>
+      <td align="justify">
 
 Résultant de la loi n° 2016-1919 du 29 décembre 2016 relative à l'exercice, par la Croix-Rouge française, de sa mission
 statutaire de rétablissement des liens familiaux</td>
-      </tr>
-    </tbody>
-  </table>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -14583,7 +14600,7 @@ _Cite_:
 
   - ORDONNANCE n°2015-1341 du 23 octobre 2015
   - Ordonnance n°2016-307 du 17 mars 2016
-  - Loi n°2016-1919 du 29 décembre 2016 (V)
+  - Loi n°2016-1919 du 29 décembre 2016
 
 _Codifié par_:
 
@@ -14591,7 +14608,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1919 du 29 décembre 2016 - art. 6 (V)
+  - Loi n°2018-727 du 10 août 2018 - art. 20
 
 
 ###### Article R*562-9
@@ -14838,7 +14855,7 @@ _Modifié par_:
   - Décret n°2017-349 du 20 mars 2017 - art. 2
 
 
-##### Sous-section 4 : Dispositions applicables du livre IV<a id=177></a>
+##### Sous-section 4 : Dispositions applicables du livre IV<a id=183></a>
 
 ###### Article L562-12
 
@@ -14889,9 +14906,9 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-#### Section 3 : Dispositions d'adaptation<a id=178></a>
+#### Section 3 : Dispositions d'adaptation<a id=184></a>
 
-##### Sous-section 1 : Dispositions d'adaptation du livre Ier<a id=179></a>
+##### Sous-section 1 : Dispositions d'adaptation du livre Ier<a id=185></a>
 
 ###### Article L562-13
 
@@ -14951,7 +14968,7 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. R134-3 (VD)
 
 
-##### Sous-section 2 : Dispositions d'adaptation du livre II<a id=180></a>
+##### Sous-section 2 : Dispositions d'adaptation du livre II<a id=186></a>
 
 ###### Article L562-15
 
@@ -14976,7 +14993,7 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. L222-1 (VD)
 
 
-##### Sous-section 3 : Dispositions d'adaptation du livre III<a id=181></a>
+##### Sous-section 3 : Dispositions d'adaptation du livre III<a id=187></a>
 
 ###### Article L562-16
 
@@ -15066,7 +15083,7 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. R312-4 (VD)
 
 
-### Chapitre III : Dispositions applicables à la Nouvelle-Calédonie, à ses provinces et aux organismes et personnes placés sous leur contrôle<a id=182></a>
+### Chapitre III : Dispositions applicables à la Nouvelle-Calédonie, à ses provinces et aux organismes et personnes placés sous leur contrôle<a id=188></a>
 
 ###### Article L563-1
 
@@ -15200,9 +15217,9 @@ _Modifié par_:
   - Décret n°2017-349 du 20 mars 2017 - art. 2
 
 
-## Titre VII : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA<a id=183></a>
+## Titre VII : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA<a id=189></a>
 
-### Chapitre Ier : Dispositions générales<a id=184></a>
+### Chapitre Ier : Dispositions générales<a id=190></a>
 
 ###### Article L571-1
 
@@ -15220,7 +15237,7 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-### Chapitre II : Dispositions spécifiques relatives au livre Ier<a id=185></a>
+### Chapitre II : Dispositions spécifiques relatives au livre Ier<a id=191></a>
 
 ###### Article D572-4
 
@@ -15275,198 +15292,193 @@ personnes de droit public et de droit privé chargés par l'Etat d'une mission d
 échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. 
 
 <table border="1">
-    <tbody>
-      <tr>
-        <th>Dispositions applicables 
-
-</th>
-        <th>Dans leur rédaction 
-
-</th>
-      </tr>
-      <tr>
-        <td align="justify">Titre Ier 
-
-</td>
-        <td align="left"> </td>
-      </tr>
-      <tr>
-        <td align="justify">
+  <tbody>
+    <tr>
+      <th>Dispositions applicables </th>
+      <th>Dans leur rédaction </th>
+    </tr>
+    <tr>
+      <td align="justify">Titre Ier </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 110-1 
-
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
-
+      <td align="justify">Résultant de l'ordonnance n° 2015-1341 
 </td>
-      </tr>
-      <tr>
-        <td align="justify">
+    </tr>
+    <tr>
+      <td align="justify">
 L. 111-2 et L. 111-3 
-
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+      <td align="justify">Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 L. 112-1 à L. 112-3 
-
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+      <td align="justify">Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 L. 112-6 à L. 112-15 
-
 </td>
-        <td align="justify">Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique  
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+      <td align="justify">Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique </td>
+    </tr>
+    <tr>
+      <td align="justify">
 L. 113-4 
-
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
-
+      <td align="justify">Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+L. 113-12 
 </td>
-      </tr>
-      <tr>
-        <td align="justify">
-L. 113-12 à L. 113-13 
-
+      <td align="justify">Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance
 </td>
-        <td align="justify">Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
-
+    </tr>
+    <tr>
+      <td align="justify">
+L. 113-13 
 </td>
-      </tr>
-      <tr>
-        <td align="justify">
-L. 114-1 à L. 114-10 
-
+      <td align="justify">Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique </td>
+    </tr>
+    <tr>
+      <td align="justify">
+L. 114-1 à L. 114-5 
 </td>
-        <td align="justify">Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
-
+      <td align="justify">Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+L. 114-5-1 
 </td>
-      </tr>
-      <tr>
-        <td align="justify">
-
+      <td align="justify">Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance
 </td>
-        <td align="justify"> </td>
-      </tr>
-      <tr>
-        <td align="justify">Titre II 
-
+    </tr>
+    <tr>
+      <td align="justify">
+L. 114-6 à L. 114-9 
 </td>
-        <td align="justify"> </td>
-      </tr>
-      <tr>
-        <td align="justify">
+      <td align="justify">Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+L. 114-10
+</td>
+      <td align="justify">Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance
+</td>
+    </tr>
+    <tr>
+      <td align="justify">
+L. 114-11 
+</td>
+      <td align="justify">Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance
+</td>
+    </tr>
+    <tr>
+      <td align="justify">Titre II </td>
+      <td align="justify">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 120-1 
-
 </td>
-        <td align="left">Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+      <td align="left">Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 L. 121-1 à L. 121-2 
-
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+      <td align="justify">Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 L. 122-1 à L. 122-2 
-
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
-
+      <td align="justify">Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+L. 123-1 et L. 123-2 
 </td>
-      </tr>
-      <tr>
-        <td align="justify">
-
+      <td align="justify">Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance
 </td>
-        <td align="justify"> </td>
-      </tr>
-      <tr>
-        <td align="justify">Titre III 
-
+    </tr>
+    <tr>
+      <td align="justify">
+L. 124-1 et L. 124-2 
 </td>
-        <td align="justify"> </td>
-      </tr>
-      <tr>
-        <td align="justify">
+      <td align="justify">Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance
+</td>
+    </tr>
+    <tr>
+      <td align="justify">Titre III </td>
+      <td align="justify">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 131-1 
-
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+      <td align="justify">Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 L. 132-1 à L. 132-3 
-
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+      <td align="justify">Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 L. 134-1 et L. 134-2 
-
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+      <td align="justify">Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 L. 134-31 
-
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
-
+      <td align="justify">Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+L. 134-33 et L. 134-34 
 </td>
-      </tr>
-      <tr>
-        <td align="justify">
-L. 134-33 et L. 134-34
-
-</td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341
-
-</td>
-      </tr>
-    </tbody>
-  </table>
+      <td align="justify">Résultant de l'ordonnance n° 2015-1341</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - ORDONNANCE n°2015-1341 du 23 octobre 2015
+  - Loi n°2016-1321 du 7 octobre 2016
+  - Loi n°2018-727 du 10 août 2018
+  - Code des relations entre le public et l'adminis... - art. L114-10 (V)
   - Code des relations entre le public et l'administration - art. L110-1
   - Code des relations entre le public et l'administration - art. L111-2
   - Code des relations entre le public et l'administration - art. L112-1
   - Code des relations entre le public et l'administration - art. L112-6
   - Code des relations entre le public et l'administration - art. L113-12
+  - Code des relations entre le public et l'administration - art. L113-13
   - Code des relations entre le public et l'administration - art. L113-4
   - Code des relations entre le public et l'administration - art. L114-1
+  - Code des relations entre le public et l'administration - art. L114-11
+  - Code des relations entre le public et l'administration - art. L114-5
+  - Code des relations entre le public et l'administration - art. L114-5-1
+  - Code des relations entre le public et l'administration - art. L114-6
+  - Code des relations entre le public et l'administration - art. L114-9
   - Code des relations entre le public et l'administration - art. L120-1
   - Code des relations entre le public et l'administration - art. L121-1
   - Code des relations entre le public et l'administration - art. L122-1
+  - Code des relations entre le public et l'administration - art. L123-1
+  - Code des relations entre le public et l'administration - art. L123-2
+  - Code des relations entre le public et l'administration - art. L124-1
+  - Code des relations entre le public et l'administration - art. L124-2
   - Code des relations entre le public et l'administration - art. L131-1
   - Code des relations entre le public et l'administration - art. L132-1
   - Code des relations entre le public et l'administration - art. L134-1
@@ -15479,7 +15491,10 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 112
+  - Loi n°2018-727 du 10 août 2018 - art. 2 (V)
+  - Loi n°2018-727 du 10 août 2018 - art. 23
+  - Loi n°2018-727 du 10 août 2018 - art. 4
+  - Loi n°2018-727 du 10 août 2018 - art. 41
 
 
 ###### Article L572-5
@@ -15714,7 +15729,7 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. R134-32 (VD)
 
 
-### Chapitre III : Dispositions spécifiques relatives au livre II<a id=186></a>
+### Chapitre III : Dispositions spécifiques relatives au livre II<a id=192></a>
 
 ###### Article D573-4
 
@@ -15786,193 +15801,155 @@ personnes de droit public et de droit privé chargés par lui d'une mission de s
 industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. 
 
 <table border="1">
-    <tbody>
-      <tr>
-        <th>Dispositions applicables 
-
-</th>
-        <th>Dans leur rédaction 
-
-</th>
-      </tr>
-      <tr>
-        <td>
-        </td><td>
-      </td></tr>
-      <tr>
-        <td>
+  <tbody>
+    <tr>
+      <th>Dispositions applicables </th>
+      <th>Dans leur rédaction </th>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
 L. 200-1 
-
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
+      <td>Résultant de l'ordonnance n° 2015-1341 
 </td>
-      </tr>
-      <tr>
-        <td>
-        </td><td>
-      </td></tr>
-      <tr>
-        <td>Titre Ier 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>Titre Ier </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
 L. 211-1 à L. 211-6 
+</td>
+      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
+L. 212-1 
+</td>
+      <td>Résultant de la loi n° 2017-258 du 28 février 2017 relative à la sécurité publique </td>
+    </tr>
+    <tr>
+      <td>
+
+L. 212-2 
 
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
+      <td align="left">Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance </
+td>
+    </tr>
+    <tr>
+      <td>
+L. 212-3 
 </td>
-      </tr>
-      <tr>
-        <td>L. 212-1 </td>
-        <td>Résultant de la loi n° 2017-258 du 28 février 2017 relative à la sécurité publique </td>
-      </tr>
-      <tr>
-        <td>
-          L. 212-2 
-        </td>
-        <td align="left">Résultant de la loi n° 2016-1918 du 29 décembre 2016 de finances rectificative pour 2016 </td>
-      </tr>
-      <tr>
-        <td>L. 212-3 
-
-</td>
-        <td>Résultant de l'ordonnance n° 2015-1341 </td>
-      </tr>
-      <tr>
-        <td>Titre II 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td>
+      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>Titre II </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
 L. 221-1 
-
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-L. 221-2, L. 221-3 et L. 221-7, en tant qu'elles concernent les décisions qui ne sont ni réglementaires ni individuelles et
-qui ne sont pas publiées au Journal officiel de la République française 
-
-</td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td>
+      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
+L. 221-2, 
+L. 221-3 et L. 221-7, en tant qu'elles concernent les décisions qui ne sont ni réglementaires ni individuelles et qui ne sont
+pas publiées au Journal officiel de la République française </td>
+      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
 L. 221-8 
-
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-        </td><td>
-      </td></tr>
-      <tr>
-        <td>Titre III 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td>
+      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>Titre III </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
 L. 231-1 
-
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td>
+      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
 L. 231-4 à L. 231-6 
-
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td>
+      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
 L. 232-1 à L. 232-4 
-
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-        </td><td>
-      </td></tr>
-      <tr>
-        <td>Titre IV 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td>
+      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>Titre IV </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
 L. 240-1 et L. 240-2 
-
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td>
+      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
 L. 241-1 et L. 241-2 
-
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td>
+      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
 L. 242-1 à L. 242-5 
-
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
-
+      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td>
+L. 243-1 à L. 243-4 
 </td>
-      </tr>
-      <tr>
-        <td>
-L. 243-1 à L. 243-4
-
-</td>
-        <td>Résultant de l'ordonnance n° 2015-1341
-
-</td>
-      </tr>
-    </tbody>
-  </table>
+      <td>Résultant de l'ordonnance n° 2015-1341</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - ORDONNANCE n°2015-1341 du 23 octobre 2015
+  - Loi n°2017-258 du 28 février 2017
   - Code des relations entre le public et l'administration - art. L200-1
   - Code des relations entre le public et l'administration - art. L211-1
   - Code des relations entre le public et l'administration - art. L212-1
+  - Code des relations entre le public et l'administration - art. L212-2
+  - Code des relations entre le public et l'administration - art. L212-3
   - Code des relations entre le public et l'administration - art. L221-1
   - Code des relations entre le public et l'administration - art. L221-2
+  - Code des relations entre le public et l'administration - art. L221-3
   - Code des relations entre le public et l'administration - art. L221-7
   - Code des relations entre le public et l'administration - art. L221-8
   - Code des relations entre le public et l'administration - art. L231-1
@@ -15989,7 +15966,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2017-258 du 28 février 2017 - art. 40
+  - Loi n°2018-727 du 10 août 2018 - art. 42 (V)
 
 
 ###### Article L573-3
@@ -16062,9 +16039,9 @@ _Cite_:
   - Code des relations entre le public et l'administration - art. R221-15
 
 
-### Chapitre IV : Dispositions spécifiques relatives au livre III<a id=187></a>
+### Chapitre IV : Dispositions spécifiques relatives au livre III<a id=193></a>
 
-#### Section 1 : Dispositions relatives à l'Etat et aux organismes placés sous son contrôle<a id=188></a>
+#### Section 1 : Dispositions relatives à l'Etat et aux organismes placés sous son contrôle<a id=194></a>
 
 ###### Article D574-4
 
@@ -16162,269 +16139,202 @@ _Modifié par_:
 Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis
 et Futuna aux relations entre le public, d'une part, et l'Etat, ses établissements publics et les autres organismes et
 personnes de droit public et de droit privé chargés par l'Etat d'une mission de service public administratif et, le cas
-échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. 
+échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.
 
 <table border="1">
-    <tbody>
-      <tr>
-        <th>DISPOSITIONS APPLICABLES 
-
-</th>
-        <th>DANS LEUR RÉDACTION 
-
-</th>
-      </tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-L. 300-1 à L. 300-4 
-
-</td>
-        <td align="justify">
-
-Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
-
-</td>
-      </tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-Titre Ier 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-L. 311-1 à L. 311-9 
-
-</td>
-        <td align="justify">
-
-Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-L. 311-14 
-
-</td>
-        <td align="justify">
-
-Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-L. 312-1 à L. 312-1-3 
-
-</td>
-        <td align="justify">
-
-Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-L. 312-2 
-
-</td>
-        <td align="justify">
-
-Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-Titre II 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-L. 321-1 à L. 321-4 </td>
-        <td align="justify">
-
-Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-L. 322-1 et L. 322-2 
-
-</td>
-        <td align="justify">
-
-Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-L. 322-5 et L. 322-6 
-
-</td>
-        <td align="justify">
-
-Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-L. 323-1 et L. 323-2 
-
-</td>
-        <td align="justify">
-
-Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-L. 324-1 à L. 324-6 </td>
-        <td align="justify">
-
-Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-L. 325-1 à L. 325-4 
-
-</td>
-        <td align="justify">
-
-Résultant de l'ordonnance n° 2016-307 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-L. 325-7 et L. 325-8 
-
-</td>
-        <td align="justify">
-
-Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-L. 326-1 
-
-</td>
-        <td align="justify">
-
-Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
-
-</td>
-      </tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-Titre III 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-L. 330-1 
-
-</td>
-        <td align="justify">
-
-Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-Titre IV 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-L. 340-1 
-
-</td>
-        <td align="justify">
-
-Résultant de l'ordonnance n° 2016-307 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-L. 341-1 et L. 341-2 
-
-</td>
-        <td align="justify">
-
-Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-L. 342-1 à L. 342-4 </td>
-        <td align="justify">
+  <tbody>
+    <tr>
+      <th>DISPOSITIONS APPLICABLES</th>
+      <th>DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+L. 300-1 à L. 300-4</td>
+      <td align="justify">
+
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique</td>
+    </tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+Titre Ier </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+L. 311-1 à L. 311-9</td>
+      <td align="justify">
+
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+L. 311-14</td>
+      <td align="justify">
+
+Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+L. 312-1 à L. 312-1-3</td>
+      <td align="justify">
+
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+L. 312-2</td>
+      <td align="justify">
+
+Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance</td>
+    </tr>
+    <tr>
+      <td align="justify">L. 312-3</td>
+      <td align="justify">Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de
+confiance</td>
+    </tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+Titre II </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+L. 321-1 à L. 321-4</td>
+      <td align="justify">
+
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+L. 322-1 et L. 322-2</td>
+      <td align="justify">
+
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+L. 322-5 et L. 322-6</td>
+      <td align="justify">
+
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+L. 323-1 et L. 323-2</td>
+      <td align="justify">
+
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+L. 324-1 à L. 324-6</td>
+      <td align="justify">
+
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+L. 325-1 à L. 325-4</td>
+      <td align="justify">
+
+Résultant de l'ordonnance n° 2016-307 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+L. 325-7 et L. 325-8</td>
+      <td align="justify">
+
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+L. 326-1</td>
+      <td align="justify">
+
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique</td>
+    </tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+Titre III </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+L. 330-1</td>
+      <td align="justify">
+
+Résultant de l'ordonnance n° 2015-1341 </td>
+    </tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+Titre IV </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+L. 340-1</td>
+      <td align="justify">
+
+Résultant de l'ordonnance n° 2016-307 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+L. 341-1 et L. 341-2</td>
+      <td align="justify">
+
+Résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+L. 342-1 à L. 342-4</td>
+      <td align="justify">
 
 Résultant de la loi n° 2016-1919 du 29 décembre 2016 relative à l'exercice, par la Croix-Rouge française, de sa mission
 statutaire de rétablissement des liens familiaux</td>
-      </tr>
-    </tbody>
-  </table>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -16432,7 +16342,7 @@ _Cite_:
 
   - ORDONNANCE n°2015-1341 du 23 octobre 2015
   - Ordonnance n°2016-307 du 17 mars 2016
-  - Loi n°2016-1919 du 29 décembre 2016 (V)
+  - Loi n°2016-1919 du 29 décembre 2016
 
 _Codifié par_:
 
@@ -16440,7 +16350,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1919 du 29 décembre 2016 - art. 6 (V)
+  - Loi n°2018-727 du 10 août 2018 - art. 20
 
 
 ###### Article R*574-2
@@ -16690,7 +16600,7 @@ _Modifié par_:
   - Décret n°2017-349 du 20 mars 2017 - art. 2
 
 
-#### Section 2 : Dispositions relatives à la collectivité de Wallis-et-Futuna et aux organismes placés sous son contrôle<a id=189></a>
+#### Section 2 : Dispositions relatives à la collectivité de Wallis-et-Futuna et aux organismes placés sous son contrôle<a id=195></a>
 
 ###### Article D574-5-3
 
@@ -16913,7 +16823,7 @@ _Modifié par_:
   - Décret n°2017-330 du 14 mars 2017 - art. 2
 
 
-#### Section 3 : Dispositions d'adaptation<a id=190></a>
+#### Section 3 : Dispositions d'adaptation<a id=196></a>
 
 ###### Article L574-6
 
@@ -16977,7 +16887,7 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. R312-4 (VD)
 
 
-### Chapitre V : Dispositions spécifiques relatives au livre IV<a id=191></a>
+### Chapitre V : Dispositions spécifiques relatives au livre IV<a id=197></a>
 
 ###### Article L575-1
 
@@ -17027,9 +16937,9 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-## Titre VIII : DISPOSITIONS APPLICABLES DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES<a id=192></a>
+## Titre VIII : DISPOSITIONS APPLICABLES DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES<a id=198></a>
 
-### Chapitre Ier : Dispositions générales<a id=193></a>
+### Chapitre Ier : Dispositions générales<a id=199></a>
 
 ###### Article L581-1
 
@@ -17054,7 +16964,7 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-### Chapitre II : Dispositions spécifiques relatives au livre Ier<a id=194></a>
+### Chapitre II : Dispositions spécifiques relatives au livre Ier<a id=200></a>
 
 ###### Article L582-1
 
@@ -17112,7 +17022,7 @@ _Modifié par_:
   - Décret n°2017-1728 du 21 décembre 2017 - art. 2
 
 
-### Chapitre III : Dispositions spécifiques relatives au livre II<a id=195></a>
+### Chapitre III : Dispositions spécifiques relatives au livre II<a id=201></a>
 
 ###### Article L583-1
 
@@ -17146,7 +17056,7 @@ _Créé par_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
-### Chapitre IV : Dispositions spécifiques relatives au livre III<a id=196></a>
+### Chapitre IV : Dispositions spécifiques relatives au livre III<a id=202></a>
 
 ###### Article L584-1
 
