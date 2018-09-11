@@ -1,5 +1,5 @@
 # Code des relations entre le public et l'administration  
-Version Consolidée au 2018-09-01
+Version Consolidée au 2018-09-12
 ## Contenu: 
   - [Dispositions préliminaires (art. L100-1 à L100-3)](#1)
   - [Livre Ier : LES ÉCHANGES AVEC L'ADMINISTRATION (art. L110-1 à L135-2)](#2)
@@ -12678,13 +12678,13 @@ _Créé par_:
 Les dispositions du livre II mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Polynésie
 française aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres
 que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas
-échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. 
+échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.
 
 <table border="1">
   <tbody>
     <tr>
-      <th>Dispositions applicables </th>
-      <th>Dans leur rédaction </th>
+      <th>Dispositions applicables</th>
+      <th>Dans leur rédaction</th>
     </tr>
     <tr>
       <td>
@@ -12702,28 +12702,27 @@ L. 200-1
       </td><td>
     </td></tr>
     <tr>
-      <td>Titre Ier </td>
+      <td>Titre Ier</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 L. 211-1 à L. 211-6 
 </td>
-      <td align="left">Résultant de l'ordonnance n° 2015-1341 </td>
+      <td align="left">Résultant de l'ordonnance n° 2015-1341</td>
     </tr>
     <tr>
       <td>
 L. 212-1 
 </td>
-      <td>Résultant de la loi n° 2017-258 du 28 février 2017 relative à la sécurité publique 
-
-</td>
+      <td>Résultant de la loi n° 2017-258 du 28 février 2017 relative à la sécurité publique</td>
     </tr>
     <tr>
       <td>
 L. 212-2 
 </td>
-      <td>Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance </td>
+      <td>Résultant de la loi n° 2018-778 du 10 septembre 2018 pour une immigration maîtrisée, un droit d'asile effectif et
+une intégration réussie</td>
     </tr>
     <tr>
       <td>
@@ -12731,81 +12730,81 @@ L. 212-2
 L. 212-3 
 
 </td>
-      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+      <td>Résultant de l'ordonnance n° 2015-1341</td>
     </tr>
     <tr>
-      <td>Titre II </td>
+      <td>Titre II</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 L. 221-1 
 </td>
-      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+      <td>Résultant de l'ordonnance n° 2015-1341</td>
     </tr>
     <tr>
       <td>
 L. 221-2, L. 221-3 et L. 221-7, en tant qu'elles concernent les décisions qui ne sont ni réglementaires ni individuelles et
-qui ne sont pas publiées au Journal officiel de la République française </td>
-      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+qui ne sont pas publiées au Journal officiel de la République française</td>
+      <td>Résultant de l'ordonnance n° 2015-1341</td>
     </tr>
     <tr>
       <td>
 L. 221-8 
 </td>
-      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+      <td>Résultant de l'ordonnance n° 2015-1341</td>
     </tr>
     <tr>
       <td>
       </td><td>
     </td></tr>
     <tr>
-      <td>Titre III </td>
+      <td>Titre III</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 L. 231-1 
 </td>
-      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+      <td>Résultant de l'ordonnance n° 2015-1341</td>
     </tr>
     <tr>
       <td>
 L. 231-4 à L. 231-6 
 </td>
-      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+      <td>Résultant de l'ordonnance n° 2015-1341</td>
     </tr>
     <tr>
       <td>
 L. 232-1 à L. 232-4 
 </td>
-      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+      <td>Résultant de l'ordonnance n° 2015-1341</td>
     </tr>
     <tr>
       <td>
       </td><td>
     </td></tr>
     <tr>
-      <td>Titre IV </td>
+      <td>Titre IV</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 L. 240-1 et L. 240-2 
 </td>
-      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+      <td>Résultant de l'ordonnance n° 2015-1341</td>
     </tr>
     <tr>
       <td>
 L. 241-1 et L. 241-2 
 </td>
-      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+      <td>Résultant de l'ordonnance n° 2015-1341</td>
     </tr>
     <tr>
       <td>
 L. 242-1 à L. 242-5 
 </td>
-      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+      <td>Résultant de l'ordonnance n° 2015-1341</td>
     </tr>
     <tr>
       <td>
@@ -12823,10 +12822,10 @@ _Cite_:
   - ORDONNANCE n°2015-1341 du 23 octobre 2015
   - Loi n°2017-258 du 28 février 2017
   - Loi n°2018-727 du 10 août 2018
-  - Code des relations entre le public et l'adminis... - art. L212-2 (VT)
   - Code des relations entre le public et l'administration - art. L200-1
   - Code des relations entre le public et l'administration - art. L211-1
   - Code des relations entre le public et l'administration - art. L212-1
+  - Code des relations entre le public et l'administration - art. L212-2
   - Code des relations entre le public et l'administration - art. L212-3
   - Code des relations entre le public et l'administration - art. L221-1
   - Code des relations entre le public et l'administration - art. L221-2
@@ -12847,7 +12846,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2018-727 du 10 août 2018 - art. 42 (V)
+  - Loi n°2018-778 du 10 septembre 2018 - art. 68
 
 
 ##### Sous-section 3 : Dispositions applicables du livre III<a id=166></a>
@@ -14258,18 +14257,18 @@ _Créé par_:
 Les dispositions du livre II mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Nouvelle-Calédonie
 aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les
 établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant,
-industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. 
+industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.
 
 <table border="1">
   <tbody>
     <tr>
-      <th>Dispositions applicables </th>
-      <th>Dans leur rédaction </th>
+      <th>Dispositions applicables</th>
+      <th>Dans leur rédaction</th>
     </tr>
     <tr>
-      <th>
-      </th><th>
-    </th></tr>
+      <th> </th>
+      <th> </th>
+    </tr>
     <tr>
       <td>
 L. 200-1 
@@ -14282,14 +14281,14 @@ L. 200-1
       </td><td>
     </td></tr>
     <tr>
-      <td align="left">Titre Ier : </td>
+      <td align="left">Titre Ier :</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 L. 211-1 à L. 211-6 
 </td>
-      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+      <td>Résultant de l'ordonnance n° 2015-1341</td>
     </tr>
     <tr>
       <td>
@@ -14299,7 +14298,7 @@ L. 212-1
 </td>
       <td>
 
-Résultant de la loi n° 2017-258 du 28 février 2017 relative à la sécurité publique 
+Résultant de la loi n° 2017-258 du 28 février 2017 relative à la sécurité publique
 
 </td>
     </tr>
@@ -14311,7 +14310,8 @@ L. 212-2
 </td>
       <td>
 
-Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance 
+Résultant de la loi n° 2018-778 du 10 septembre 2018 pour une immigration maîtrisée, un droit d'asile effectif et une
+intégration réussie
 
 </td>
     </tr>
@@ -14321,83 +14321,83 @@ L. 212-3
 </td>
       <td align="left">
 
-Résultant de l'ordonnance n° 2015-1341 
+Résultant de l'ordonnance n° 2015-1341
 
 </td>
     </tr>
     <tr>
-      <td align="left">Titre II </td>
+      <td align="left">Titre II</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 L. 221-1 
 </td>
-      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+      <td>Résultant de l'ordonnance n° 2015-1341</td>
     </tr>
     <tr>
       <td>
 L. 221-2, L. 221-3 et L. 221-7, en tant qu'elles concernent les décisions qui ne sont ni réglementaires ni individuelles et
-qui ne sont pas publiées au Journal officiel de la République française </td>
-      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+qui ne sont pas publiées au Journal officiel de la République française</td>
+      <td>Résultant de l'ordonnance n° 2015-1341</td>
     </tr>
     <tr>
       <td>
 L. 221-8 
 </td>
-      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+      <td>Résultant de l'ordonnance n° 2015-1341</td>
     </tr>
     <tr>
       <td>
       </td><td>
     </td></tr>
     <tr>
-      <td align="left">Titre III : </td>
+      <td align="left">Titre III :</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 L. 231-1 
 </td>
-      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+      <td>Résultant de l'ordonnance n° 2015-1341</td>
     </tr>
     <tr>
       <td>
 L. 231-4 à L. 231-6 
 </td>
-      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+      <td>Résultant de l'ordonnance n° 2015-1341</td>
     </tr>
     <tr>
       <td>
 L. 232-1 à L. 232-4 
 </td>
-      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+      <td>Résultant de l'ordonnance n° 2015-1341</td>
     </tr>
     <tr>
       <td>
       </td><td>
     </td></tr>
     <tr>
-      <td align="left">Titre IV </td>
+      <td align="left">Titre IV</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 L. 240-1 et L. 240-2 
 </td>
-      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+      <td>Résultant de l'ordonnance n° 2015-1341</td>
     </tr>
     <tr>
       <td>
 L. 241-1 et L. 241-2 
 </td>
-      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+      <td>Résultant de l'ordonnance n° 2015-1341</td>
     </tr>
     <tr>
       <td>
 L. 242-1 à L. 242-5 
 </td>
-      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+      <td>Résultant de l'ordonnance n° 2015-1341</td>
     </tr>
     <tr>
       <td>
@@ -14439,7 +14439,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2018-727 du 10 août 2018 - art. 42 (V)
+  - Loi n°2018-778 du 10 septembre 2018 - art. 68
 
 
 ##### Sous-section 3 : Dispositions applicables du livre III<a id=179></a>
@@ -15944,13 +15944,13 @@ _Cité par_:
 Les dispositions du livre II mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis
 et Futuna aux relations entre le public d'une part, et l'Etat, ses établissements publics et les autres organismes et
 personnes de droit public et de droit privé chargés par lui d'une mission de service public administratif et, le cas échéant,
-industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. 
+industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.
 
 <table border="1">
   <tbody>
     <tr>
-      <th>Dispositions applicables </th>
-      <th>Dans leur rédaction </th>
+      <th>Dispositions applicables</th>
+      <th>Dans leur rédaction</th>
     </tr>
     <tr>
       <td>
@@ -15968,20 +15968,20 @@ L. 200-1
       </td><td>
     </td></tr>
     <tr>
-      <td>Titre Ier </td>
+      <td>Titre Ier</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 L. 211-1 à L. 211-6 
 </td>
-      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+      <td>Résultant de l'ordonnance n° 2015-1341</td>
     </tr>
     <tr>
       <td>
 L. 212-1 
 </td>
-      <td>Résultant de la loi n° 2017-258 du 28 février 2017 relative à la sécurité publique </td>
+      <td>Résultant de la loi n° 2017-258 du 28 février 2017 relative à la sécurité publique</td>
     </tr>
     <tr>
       <td>
@@ -15989,89 +15989,89 @@ L. 212-1
 L. 212-2 
 
 </td>
-      <td align="left">Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance </
-td>
+      <td align="left">Résultant de la loi n° 2018-778 du 10 septembre 2018 pour une immigration maîtrisée, un droit d'asile
+effectif et une intégration réussie</td>
     </tr>
     <tr>
       <td>
 L. 212-3 
 </td>
-      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+      <td>Résultant de l'ordonnance n° 2015-1341</td>
     </tr>
     <tr>
-      <td>Titre II </td>
+      <td>Titre II</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 L. 221-1 
 </td>
-      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+      <td>Résultant de l'ordonnance n° 2015-1341</td>
     </tr>
     <tr>
       <td>
 L. 221-2, 
 L. 221-3 et L. 221-7, en tant qu'elles concernent les décisions qui ne sont ni réglementaires ni individuelles et qui ne sont
-pas publiées au Journal officiel de la République française </td>
-      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+pas publiées au Journal officiel de la République française</td>
+      <td>Résultant de l'ordonnance n° 2015-1341</td>
     </tr>
     <tr>
       <td>
 L. 221-8 
 </td>
-      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+      <td>Résultant de l'ordonnance n° 2015-1341</td>
     </tr>
     <tr>
       <td>
       </td><td>
     </td></tr>
     <tr>
-      <td>Titre III </td>
+      <td>Titre III</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 L. 231-1 
 </td>
-      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+      <td>Résultant de l'ordonnance n° 2015-1341</td>
     </tr>
     <tr>
       <td>
 L. 231-4 à L. 231-6 
 </td>
-      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+      <td>Résultant de l'ordonnance n° 2015-1341</td>
     </tr>
     <tr>
       <td>
 L. 232-1 à L. 232-4 
 </td>
-      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+      <td>Résultant de l'ordonnance n° 2015-1341</td>
     </tr>
     <tr>
       <td>
       </td><td>
     </td></tr>
     <tr>
-      <td>Titre IV </td>
+      <td>Titre IV</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 L. 240-1 et L. 240-2 
 </td>
-      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+      <td>Résultant de l'ordonnance n° 2015-1341</td>
     </tr>
     <tr>
       <td>
 L. 241-1 et L. 241-2 
 </td>
-      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+      <td>Résultant de l'ordonnance n° 2015-1341</td>
     </tr>
     <tr>
       <td>
 L. 242-1 à L. 242-5 
 </td>
-      <td>Résultant de l'ordonnance n° 2015-1341 </td>
+      <td>Résultant de l'ordonnance n° 2015-1341</td>
     </tr>
     <tr>
       <td>
@@ -16112,7 +16112,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2018-727 du 10 août 2018 - art. 42 (V)
+  - Loi n°2018-778 du 10 septembre 2018 - art. 68
 
 
 ###### Article L573-3
