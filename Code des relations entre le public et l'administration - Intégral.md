@@ -1,5 +1,5 @@
 # Code des relations entre le public et l'administration  
-Version Consolidée au 2018-09-12
+Version Consolidée au 2018-09-14
 ## Contenu: 
   - [Dispositions préliminaires (art. L100-1 à L100-3)](#1)
   - [Livre Ier : LES ÉCHANGES AVEC L'ADMINISTRATION (art. L110-1 à L135-2)](#2)
@@ -3314,15 +3314,19 @@ _Cite_:
 L'abrogation ou la caducité des dispositions créant une commission dont l'avis est requis préalablement à une décision prise
 par l'autorité administrative entraîne celle des dispositions réglementaires prévoyant sa consultation.
 
+Sauf dispositions législatives y faisant obstacle, lorsqu'elles ont pour seul objet de tirer les conséquences de l'abrogation
+ou de la caducité des textes créant une commission ou prévoyant sa consultation, les modifications des textes réglementaires
+relatifs à cette commission et à sa consultation peuvent être adoptées par décret.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2015-1342 du 23 octobre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1342 du 23 octobre 2015 - art.
+  - Décret n°2018-785 du 12 septembre 2018 - art. 24
 
 
 ###### Article R133-3
@@ -7932,19 +7936,15 @@ _Cité par_:
 Un arrêté du Premier ministre peut prévoir que, pour les circulaires et instructions intervenant dans certains domaines
 marqués par un besoin régulier de mise à jour portant sur un nombre important de données, la mise à disposition sur un site
 internet autre que celui qui est mentionné à l'article R. 312-8 produit les mêmes effets que la mise à disposition sur ce
-site. 
+site.
 
 L'arrêté du Premier ministre est pris au vu d'un rapport établissant que le site internet proposé présente des garanties
 suffisantes en termes d'exhaustivité et de fiabilité des données dans le domaine considéré et en termes d'accessibilité pour
 le public. Il mentionne l'adresse du site et précise la date à partir de laquelle les circulaires et instructions mises à la
-disposition du public sur ce site sont réputées satisfaire les conditions prévues à l'article R. 312-8. 
+disposition du public sur ce site sont réputées satisfaire les conditions prévues à l'article R. 312-8.
 
 L'adresse des sites faisant l'objet d'un arrêté pris en application du présent article est référencée sur le site mentionné à
-l'article R. 312-8. 
-
-Au plus tard dix-huit mois après la mise en service d'un site désigné en application du présent article, le service
-responsable présente un bilan du fonctionnement du site au conseil d'orientation de l'édition publique et de l'information
-administrative.
+l'article R. 312-8.
 
 **Liens relatifs à cet article**
 
@@ -7956,13 +7956,13 @@ _Codifié par_:
 
   - Décret n°2015-1342 du 23 octobre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1342 du 23 octobre 2015 - art.
+  - Décret n°2018-785 du 12 septembre 2018 - art. 12
 
 _Cite_:
 
-  - Code des relations entre le public et l'adminis... - art. R312-8 (VD)
+  - Code des relations entre le public et l'administration - art. R312-8
 
 
 ## Titre II : LA RÉUTILISATION DES INFORMATIONS PUBLIQUES<a id=109></a>
@@ -9314,14 +9314,13 @@ _Anciens textes_:
 
 ###### Article R324-7
 
-L'autorité administrative compétente mentionnée aux articles L. 324-4 et L. 324-5 est le Conseil d'orientation de l'édition
-publique et de l'information administrative.
+L'autorité administrative compétente mentionnée aux articles L. 324-4 et L. 324-5 est l'administrateur général des données.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-308 du 17 mars 2016 - art.
+  - Décret n°2018-785 du 12 septembre 2018 - art. 12
 
 _Cite_:
 
