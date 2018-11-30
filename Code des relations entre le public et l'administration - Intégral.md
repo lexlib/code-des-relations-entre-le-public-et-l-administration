@@ -1,5 +1,5 @@
 # Code des relations entre le public et l'administration  
-Version Consolidée au 2018-09-14
+Version Consolidée au 2018-12-01
 ## Contenu: 
   - [Dispositions préliminaires (art. L100-1 à L100-3)](#1)
   - [Livre Ier : LES ÉCHANGES AVEC L'ADMINISTRATION (art. L110-1 à L135-2)](#2)
@@ -9739,8 +9739,8 @@ _Cite_:
 
 ###### Article D341-10
 
-Le président, le président suppléant, le rapporteur général et   les rapporteurs généraux adjoints de la commission sont
-rémunérés sous forme d'indemnités forfaitaires mensuelles. 
+Le président, le président suppléant et les rapporteurs généraux adjoints de la commission sont rémunérés sous forme
+d'indemnités forfaitaires mensuelles.
 
 Les membres de la commission, autres que le président, mentionnés aux 1°, 3°, 4°, 5°, 6°, 7° et 8° de l'article L. 341-1
 ainsi que leurs suppléants sont rémunérés sous forme d'une indemnité forfaitaire pour chacune des séances auxquelles ils sont
@@ -9766,7 +9766,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-308 du 17 mars 2016 - art. 4
+  - Décret n°2018-1003 du 19 novembre 2018 - art. 1
 
 _Cite_:
 
