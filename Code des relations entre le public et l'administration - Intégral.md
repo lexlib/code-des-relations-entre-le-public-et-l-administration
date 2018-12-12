@@ -1,5 +1,5 @@
 # Code des relations entre le public et l'administration  
-Version Consolidée au 2018-12-01
+Version Consolidée au 2018-12-13
 ## Contenu: 
   - [Dispositions préliminaires (art. L100-1 à L100-3)](#1)
   - [Livre Ier : LES ÉCHANGES AVEC L'ADMINISTRATION (art. L110-1 à L135-2)](#2)
@@ -104,8 +104,8 @@ Version Consolidée au 2018-12-01
       - [Chapitre Ier : Communication des documents administratifs (art. L311-1 à R311-15)](#101)
         - [Section 1 : Etendue du droit à communication (art. L311-1 à R311-8-2)](#102)
         - [Section 2 : Modalités du droit à communication (art. L311-9 à R311-15)](#103)
-      - [Chapitre II : Diffusion des documents administratifs (art. D312-1-1-1 à R312-9)](#104)
-        - [Section 1 : Règles générales (art. D312-1-1-1 à L312-1-3)](#105)
+      - [Chapitre II : Diffusion des documents administratifs (art. D. 312-1-3 à R312-9)](#104)
+        - [Section 1 : Règles générales (art. D. 312-1-3 à L312-1-3)](#105)
         - [Section 2 : Règles spécifiques aux instructions et circulaires (art. L312-2 à R312-9)](#106)
           - [Sous-section 1 : Règles de publication (art. L312-2 à R312-7)](#107)
           - [Sous-section 2 : Règles particulières applicables aux circulaires et instructions adressées par les ministres aux services et établissements de l'Etat (art. R312-8 à R312-9)](#108)
@@ -7485,6 +7485,81 @@ _Cite_:
 
 #### Section 1 : Règles générales<a id=105></a>
 
+###### Article D. 312-1-3
+
+Les documents et informations mentionnés aux articles L. 312-1 ou L. 312-1-1 et qui sont communicables ou accessibles à toute
+personne, sous réserve des articles L. 311-5 et L. 311-6 et d'autres dispositions législatives ou réglementaires en vigueur,
+peuvent être rendus publics sans avoir fait l'objet du traitement prévu au deuxième alinéa de l'article L. 312-1-2,
+lorsqu'ils relèvent de l'une des catégories suivantes :
+
+1° Les documents nécessaires à l'information du public relatifs aux conditions d'organisation de l'administration, notamment
+les organigrammes, les annuaires des administrations et la liste des personnes inscrites à un tableau d'avancement ou sur une
+liste d'aptitude pour l'accès à un échelon, un grade ou un corps ou cadre d'emplois de la fonction publique ;
+
+2° Les documents nécessaires à l'information du public relatifs aux conditions d'organisation de la vie économique,
+associative et culturelle, notamment le répertoire national des associations et le répertoire des entreprises et de leurs
+établissements ;
+
+3° Les documents nécessaires à l'information du public relatifs aux conditions d'organisation et d'exercice des professions
+réglementées et des activités professionnelles soumises à la règlementation, notamment celles relatives à l'exercice des
+professions de notaire, avocat, huissier de justice et architecte ;
+
+4° Les documents nécessaires à l'information du public relatifs à l'enseignement et la recherche et notamment les résultats
+obtenus par les candidats aux examens et concours administratifs ou conduisant à la délivrance des diplômes nationaux ;
+
+5° Les documents nécessaires à l'information du public relatifs aux conditions d'organisation et d'exercice des activités
+sportives ;
+
+6° Les documents nécessaires à l'information du public relatifs aux conditions d'organisation et d'exercice de la vie
+politique, notamment le répertoire des élus, à l'exception des informations prévues au 2° du I de l'article 5 du décret n°
+2014-1479 du 9 décembre 2014 relatif à la mise en œuvre de deux traitements automatisés de données à caractère personnel
+dénommés "Application élection" et "Répertoire national des élus" ;
+
+7° Les documents nécessaires à l'information du public relatifs aux conditions d'organisation et d'exercice des activités
+touristiques ;
+
+8° Les documents nécessaires à l'information du public relatifs aux activités soumises à des formalités prévues par des
+dispositions législatives ou réglementaires notamment, en matière d'urbanisme, d'occupation du domaine public et de
+protection des données à caractère personnel ;
+
+9° Les documents administratifs conservés par les services publics d'archives et les autres organismes chargés d'une mission
+de service public d'archivage :
+
+a) lorsqu'ils sont librement communicables en application des articles L. 213-1 et L. 213-2 du code du patrimoine, sauf
+lorsqu'ils comportent des données mentionnées au I de l'article 8 de la loi n° 78-17 du 6 janvier 1978 ou des données
+relatives aux condamnations pénales, aux infractions ou aux mesures de sûreté connexes au sens de l'article 9 de la même
+loi ;
+
+b) lorsqu'ils comportent des données mentionnées au I de l'article 8 de la loi n° 78-17 du 6 janvier 1978 ou des données à
+caractère personnel relatives aux condamnations pénales, aux infractions ou aux mesures de sûreté connexes au sens de
+l'article 9 de la même loi, à l'expiration d'un délai de 100 ans calculé à compter de la date des documents, sauf si le délai
+de communicabilité fixé par le code du patrimoine est plus long. Dans ce cas, c'est ce dernier délai qui s'applique ;
+
+c) lorsqu'ils sont librement communicables en application des articles L. 213-1 et L. 213-2 du code du patrimoine, les
+instruments de recherche décrivant les fonds d'archives, sauf s'ils comportent des données à caractère personnel relatives
+aux condamnations pénales, aux infractions ou aux mesures de sûreté connexes au sens de l'article 9 de la loi du 6 janvier
+1978 précitée. Dans ce cas, ils peuvent être publiés à l'issue d'un délai de 100 ans à compter de la date des documents
+décrits par l'instrument de recherche.
+
+Les archives publiques et les instruments de recherche qui les décrivent peuvent être publiés avant l'expiration des délais
+ci-dessus sur autorisation de la Commission nationale de l'informatique et des libertés.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°78-17 du 6 janvier 1978 - art. 8
+  - Loi n°78-17 du 6 janvier 1978 - art. 9
+  - Décret n°2014-1479 du 9 décembre 2014 - art. 5
+  - Code du patrimoine
+  - Code du patrimoine - art. L213-1
+  - Code du patrimoine - art. L213-2
+
+_Créé par_:
+
+  - Décret n°2018-1117 du 10 décembre 2018 - art. 1
+
+
 ###### Article D312-1-1-1
 
 Le seuil prévu à l'article L. 312-1-1 est fixé à 50 agents ou salariés exprimé en équivalents temps plein.
@@ -12869,70 +12944,81 @@ _Modifié par_:
 Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Polynésie
 française aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres
 que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas
-échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. 
+échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.
 
 <table border="1" align="center">
   <tbody>
     <tr>
       <td>
 
-DISPOSITIONS APPLICABLES 
+DISPOSITIONS APPLICABLES
 
 </td>
       <td>
 
-DANS LEUR RÉDACTION 
+DANS LEUR RÉDACTION
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-D. 312-1-1-1 et D. 312-1-4 
+D. 312-1-1-1
 
 </td>
       <td>
 
-Résultant du décret n° 2016-1922 
+Résultant du  décret n° 2016-1922
 
+</td>
+    </tr>
+    <tr>
+      <td align="left">D. 312-1-3</td>
+      <td>Résultant du  décret n° 2018-1117
+</td>
+    </tr>
+    <tr>
+      <td align="left">D. 312-1-4</td>
+      <td>Résultant du  décret n° 2016-1922
 </td>
     </tr>
     <tr>
       <td align="left">
 
-D. 323-2-1 et D. 323-2-2 
+D. 323-2-1 et D. 323-2-2
 
 </td>
-      <td>Résultant du décret n° 2017-638 du 27 avril 2017 </td>
+      <td>Résultant du décret n° 2017-638 du 27 avril 2017
+</td>
     </tr>
     <tr>
       <td align="left">
 
-D. 324-5-1 
+D. 324-5-1
 
 </td>
       <td align="left">
 
-Résultant du décret n° 2016-1617 
+Résultant du décret n° 2016-1617
 
 </td>
     </tr>
     <tr>
       <td>
 
-D. 341-10 
+D. 341-10
 
 </td>
       <td>
 
-Résultant du décret n° 2016-308 
+Résultant du décret n° 2016-308
 
 </td>
     </tr>
     <tr>
       <td>
 
-D. 341-11 à D. 341-15 
+D. 341-11 à D. 341-15
 
 </td>
       <td>
@@ -12953,6 +13039,7 @@ _Cite_:
   - Décret n°2016-1617 du 29 novembre 2016
   - Décret n°2016-1922 du 28 décembre 2016
   - Décret n°2017-638 du 27 avril 2017
+  - Décret n°2018-1117 du 10 décembre 2018
 
 _Codifié par_:
 
@@ -12960,7 +13047,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-638 du 27 avril 2017 - art. 2
+  - Décret n°2018-1117 du 10 décembre 2018 - art. 2
 
 
 ###### Article L552-8
@@ -14462,38 +14549,38 @@ _Modifié par_:
 Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Nouvelle-
 Calédonie aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres
 que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas
-échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. 
+échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.
 
 <table align="center" border="1">
   <tbody>
     <tr>
-      <th>DISPOSITIONS APPLICABLES </th>
-      <th>DANS LEUR RÉDACTION </th>
+      <th>DISPOSITIONS APPLICABLES</th>
+      <th>DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td>D. 312-1-1-1</td>
+      <td>Résultant du  décret n° 2016-1922</td>
+    </tr>
+    <tr>
+      <td>D. 312-1-3</td>
+      <td>Résultant du  décret n° 2018-1117</td>
+    </tr>
+    <tr>
+      <td>D. 312-1-4</td>
+      <td>Résultant du  décret n° 2016-1922</td>
     </tr>
     <tr>
       <td>
 
-D. 312-1-1-1 et D. 312-1-4 
+D. 323-2-1 et D. 323-2-2
 
 </td>
-      <td>
-
-Résultant du décret n° 2016-1922 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-D. 323-2-1 et D. 323-2-2 
-
-</td>
-      <td>Résultant du décret n° 2017-638 du 27 avril 2017 </td>
+      <td>Résultant du décret n° 2017-638 du 27 avril 2017</td>
     </tr>
     <tr>
       <td align="left">
 
-D. 324-5-1 
+D. 324-5-1
 
 </td>
       <td align="left">
@@ -14505,7 +14592,7 @@ Résultant du décret n° 2016-1617
     <tr>
       <td>
 
-D. 341-10 
+D. 341-10
 
 </td>
       <td>
@@ -14517,7 +14604,7 @@ Résultant du décret n° 2016-308
     <tr>
       <td>
 
-D. 341-11 à D. 341-15 
+D. 341-11 à D. 341-15
 
 </td>
       <td>
@@ -14545,7 +14632,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-638 du 27 avril 2017 - art. 2
+  - Décret n°2018-1117 du 10 décembre 2018 - art. 2
 
 
 ###### Article L562-8
@@ -16207,62 +16294,69 @@ _Cite_:
 Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis
 et Futuna entre le public, d'une part, et l'Etat, ses établissements publics et les autres organismes et personnes de droit
 public et de droit privé chargés par l'Etat d'une mission de service public administratif et, le cas échéant, industriel et
-commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. 
+commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.
 
 <table border="1" align="center">
   <tbody>
     <tr>
-      <th>DISPOSITIONS APPLICABLES </th>
-      <th>DANS LEUR RÉDACTION </th>
+      <th>DISPOSITIONS APPLICABLES</th>
+      <th>DANS LEUR RÉDACTION</th>
     </tr>
     <tr>
       <td align="left">
 
-D. 312-1-1-1 et D. 312-1-4 
+D. 312-1-1-1
 
 </td>
-      <td align="left">
-
-Résultant du décret n° 2016-1922 
-
+      <td align="left">Résultant du  décret n° 2016-1922</td>
+    </tr>
+    <tr>
+      <td align="left">D. 312-1-3</td>
+      <td align="left">Résultant du  décret n° 2018-1117
+</td>
+    </tr>
+    <tr>
+      <td align="left">D. 312-1-4</td>
+      <td align="left">Résultant du  décret n° 2016-1922
 </td>
     </tr>
     <tr>
       <td align="left">
 
-D. 323-2-1 et D. 323-2-2 
+D. 323-2-1 et D. 323-2-2
 
 </td>
-      <td align="left">Résultant du décret n° 2017-638 du 27 avril 2017 </td>
+      <td align="left">Résultant du décret n° 2017-638 du 27 avril 2017
+</td>
     </tr>
     <tr>
       <td align="left">
 
-D. 324-5-1 
+D. 324-5-1
 
 </td>
       <td align="left">
 
-Résultant du décret n° 2016-1617 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-D. 341-10 
-
-</td>
-      <td>
-
-Résultant du décret n° 2016-308 
+Résultant du décret n° 2016-1617
 
 </td>
     </tr>
     <tr>
       <td>
 
-D. 341-11 à D. 341-15 
+D. 341-10
+
+</td>
+      <td>
+
+Résultant du décret n° 2016-308
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+D. 341-11 à D. 341-15
 
 </td>
       <td>
@@ -16283,6 +16377,7 @@ _Cite_:
   - Décret n°2016-1617 du 29 novembre 2016
   - Décret n°2016-1922 du 28 décembre 2016
   - Décret n°2017-638 du 27 avril 2017
+  - Décret n°2018-1117 du 10 décembre 2018
 
 _Codifié par_:
 
@@ -16290,7 +16385,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-638 du 27 avril 2017 - art. 2
+  - Décret n°2018-1117 du 10 décembre 2018 - art. 2
 
 
 ###### Article L574-1
