@@ -1,5 +1,5 @@
 # Code des relations entre le public et l'administration  
-Version Consolidée au 2018-09-14
+Version Consolidée au 2019-01-01
 ## Contenu: 
   - [Dispositions préliminaires (art. L100-1 à L100-3)](#1)
   - [Livre Ier : LES ÉCHANGES AVEC L'ADMINISTRATION (art. L110-1 à L135-2)](#2)
@@ -5042,13 +5042,17 @@ décisions ;
 des ressources humaines conforme aux articles 9, 11 et 12 de l'ordonnance n° 2005-1516 du 8 décembre 2005 précitée, quelles
 que soient les modalités de notification aux intéressés, y compris par l'intermédiaire d'un téléservice mentionné au 1° ;
 
-3° Quelles que soient les modalités selon lesquelles ils sont portés à la connaissance des intéressés, les avis à tiers
-détenteur, les oppositions à tiers détenteur, les oppositions administratives, les saisies à tiers détenteur et les avis de
-saisie, adressés tant au tiers saisi qu'au redevable, les lettres de relance relatives à l'assiette ou au recouvrement, les
-avis de mise en recouvrement, les mises en demeure de souscrire une déclaration ou d'effectuer un paiement, les décisions
-d'admission totale ou partielle d'une réclamation et les demandes de documents et de renseignements pouvant être obtenus par
-la mise en œuvre du droit de communication prévu au chapitre II du titre II de la première partie du livre des procédures
-fiscales.
+3° Quelles que soient les modalités selon lesquelles ils sont portés à la connaissance des intéressés, les saisies
+administratives à tiers détenteur, adressées tant au tiers saisi qu'au redevable, les lettres de relance relatives à
+l'assiette ou au recouvrement, les avis de mise en recouvrement, les mises en demeure de souscrire une déclaration ou
+d'effectuer un paiement, les décisions d'admission totale ou partielle d'une réclamation et les demandes de documents et de
+renseignements pouvant être obtenus par la mise en œuvre du droit de communication prévu au chapitre II du titre II de la
+première partie du livre des procédures fiscales.
+
+**Nota:**
+
+Aux termes de l'article 73 XVII de la loi n° 2017-1775 du 28 décembre 2017 de finances rectificative pour 2017, les présentes
+dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
@@ -5067,7 +5071,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2018-727 du 10 août 2018 - art. 42 (V)
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 73 (V)
 
 _Cité par_:
 
@@ -5596,7 +5600,7 @@ les dispositions du chapitre Ier du présent titre :
 1° En ce qui concerne les départements, par les dispositions des articles L. 3131-1 à L. 3131-5 du code général des
 collectivités territoriales et par les dispositions réglementaires prises pour leur application ; 
 
-2° En ce qui concerne le département de Paris, par les dispositions de l'article L. 3411-2 du même code ; 
+2° (Abrogé)
 
 3° En ce qui concerne la métropole de Lyon, par les dispositions de l'article L. 3611-3 du même code ; 
 
@@ -5609,16 +5613,15 @@ _Codifié par_:
 
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+  - Loi n°2017-257 du 28 février 2017 - art. 7
 
 _Cite_:
 
   - Code général des collectivités territoriales - art. L3131-1
-  - Code général des collectivités territoriales - art. L3411-2 (V)
-  - Code général des collectivités territoriales - art. L3611-3 (V)
-  - Code général des collectivités territoriales - art. L5421-2 (V)
+  - Code général des collectivités territoriales - art. L3611-3
+  - Code général des collectivités territoriales - art. L5421-2
 
 
 #### Section 3 : Actes des régions et de leurs établissements publics<a id=79></a>
@@ -9792,7 +9795,7 @@ suivantes :
 3° Les articles L. 2121-26, L. 3121-17, L. 4132-16, L. 5211-46, L. 5421-5, L. 5621-9 et L. 5721-6 du code général des
 collectivités territoriales ; 
 
-4° Les articles L. 28, L. 68 et LO 179 du code électoral ainsi que les dispositions de ce code relatives au registre des
+4° Les articles L. 37, L. 68 et LO 179 du code électoral ainsi que les dispositions de ce code relatives au registre des
 procurations ; 
 
 5° Les dispositions du code rural et de la pêche maritime relatives aux listes électorales des chambres départementales
@@ -9807,7 +9810,7 @@ d'agriculture ;
 9° Les articles L. 225-3, L. 225-5 et L. 330-2 à L. 330-5 du code de la route ; 
 
 10° Les dispositions du code de la voirie routière relatives aux enquêtes publiques en matière de classement, d'ouverture, de
-redressement, de fixation de la largeur et de déclassement des voies communales ; 
+redressement, de fixation de la largeur et de déclassement des voies communales ;
 
 11° Le a et le b de l'article L. 104 et les articles L. 106, L. 111 et L. 135 B du livre des procédures fiscales ; 
 
@@ -9822,7 +9825,7 @@ redressement, de fixation de la largeur et de déclassement des voies communales
 16° L'article 10 de la loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les
 administrations ; 
 
-17° L'article 17 de la loi du 31 décembre 1913 sur les monuments historiques ; 
+17° L'article 17 de la loi du 31 décembre 1913 sur les monuments historiques ;
 
 18° Les dispositions relatives à la conservation du cadastre ; 
 
@@ -9832,9 +9835,9 @@ administrations ;
 production et de consommation ; 
 
 21° Les dispositions relatives aux procès-verbaux des séances de la commission de surveillance et de contrôle des
-publications destinées à la jeunesse ; 
+publications destinées à la jeunesse ;
 
-22° L'article 1er de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique ; 
+22° L'article 1er de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique ;
 
 23° Les articles 1er et 3 de la loi n° 2016-1919 du 29 décembre 2016 relative à l'exercice, par la Croix-Rouge française, de
 sa mission statutaire de rétablissement des liens familiaux. 
@@ -9846,6 +9849,11 @@ l'environnement.
 C.-A la réutilisation des informations publiques relevant du chapitre III du titre II de la loi du 1er juin 1924 mettant en
 vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.
 
+**Nota:**
+
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
+n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -9853,14 +9861,9 @@ _Cite_:
   - Loi du 1er juillet 1901 - art. 5
   - Loi du 31 décembre 1913 - art. 17
   - Loi n°2000-321 du 12 avril 2000 - art. 10
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 1
-  - Loi n°2016-1919 du 29 décembre 2016 - art. 1 (V)
-  - Livre des procédures fiscales - art. L104
   - Livre des procédures fiscales - art. L106
-  - Livre des procédures fiscales - art. L107 A
   - Livre des procédures fiscales - art. L111
-  - Livre des procédures fiscales - art. L135 B
-  - Code électoral - art. L28
+  - Code électoral - art. L37
   - Code électoral - art. L68
   - Code électoral - art. LO179
   - Code général des collectivités territoriales - art. L2121-26
@@ -9879,8 +9882,6 @@ _Cite_:
   - Code de la santé publique - art. L1131-1
   - Code de la sécurité sociale. - art. L161-37
   - Code de l'action sociale et des familles - art. L421-8
-  - Code de l'urbanisme - art. L121-5
-  - Code de l'urbanisme - art. L123-1
   - Code de l'urbanisme - art. L213-13
   - Code de l'urbanisme - art. L332-29
   - Code de l'environnement - art. L125-10
@@ -9899,7 +9900,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1919 du 29 décembre 2016 - art. 6 (V)
+  - Loi n°2016-1048 du 1er août 2016 - art. 11
 
 _Cité par_:
 
