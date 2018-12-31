@@ -1,5 +1,5 @@
 # Code des relations entre le public et l'administration  
-Version Consolidée au 2018-05-25
+Version Consolidée au 2019-01-01
 ## Contenu: 
   - [Dispositions préliminaires (art. L100-1 à L100-3)](#1)
   - [Livre Ier : LES ÉCHANGES AVEC L'ADMINISTRATION (art. L110-1 à L135-2)](#2)
@@ -4683,13 +4683,17 @@ service auquel celui-ci appartient, les actes suivants :
 usagers et les autorités administratives et entre les autorités administratives ainsi que les actes préparatoires à ces
 décisions ;
 
-2° Quelles que soient les modalités selon lesquelles ils sont portés à la connaissance des intéressés, les avis à tiers
-détenteur, les oppositions à tiers détenteur, les oppositions administratives, les saisies à tiers détenteur et les avis de
-saisie, adressés tant au tiers saisi qu'au redevable, les lettres de relance relatives à l'assiette ou au recouvrement,  les
-avis de mise en recouvrement, les mises en demeure de souscrire une déclaration ou d'effectuer un paiement, les décisions
-d'admission totale ou partielle d'une réclamation et les demandes de documents et de renseignements pouvant être obtenus par
-la mise en œuvre du droit de communication prévu au chapitre II du titre II de la première partie du livre des procédures
-fiscales.
+2° Quelles que soient les modalités selon lesquelles ils sont portés à la connaissance des intéressés, les saisies
+administratives à tiers détenteur, adressées tant au tiers saisi qu'au redevable, les lettres de relance relatives à
+l'assiette ou au recouvrement, les avis de mise en recouvrement, les mises en demeure de souscrire une déclaration ou
+d'effectuer un paiement, les décisions d'admission totale ou partielle d'une réclamation et les demandes de documents et de
+renseignements pouvant être obtenus par la mise en œuvre du droit de communication prévu au chapitre II du titre II de la
+première partie du livre des procédures fiscales.
+
+**Nota:**
+
+Aux termes de l'article 73 XVII de la loi n° 2017-1775 du 28 décembre 2017 de finances rectificative pour 2017, les présentes
+dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
@@ -4704,8 +4708,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 21 (V)
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 90 (V)
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 73 (V)
 
 
 ###### Article L212-3
@@ -5219,7 +5222,7 @@ les dispositions du chapitre Ier du présent titre :
 1° En ce qui concerne les départements, par les dispositions des articles L. 3131-1 à L. 3131-5 du code général des
 collectivités territoriales et par les dispositions réglementaires prises pour leur application ; 
 
-2° En ce qui concerne le département de Paris, par les dispositions de l'article L. 3411-2 du même code ; 
+2° (Abrogé)
 
 3° En ce qui concerne la métropole de Lyon, par les dispositions de l'article L. 3611-3 du même code ; 
 
@@ -5232,16 +5235,15 @@ _Codifié par_:
 
   - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+  - Loi n°2017-257 du 28 février 2017 - art. 7
 
 _Cite_:
 
   - Code général des collectivités territoriales - art. L3131-1
-  - Code général des collectivités territoriales - art. L3411-2 (V)
-  - Code général des collectivités territoriales - art. L3611-3 (V)
-  - Code général des collectivités territoriales - art. L5421-2 (V)
+  - Code général des collectivités territoriales - art. L3611-3
+  - Code général des collectivités territoriales - art. L5421-2
 
 
 #### Section 3 : Actes des régions et de leurs établissements publics<a id=76></a>
