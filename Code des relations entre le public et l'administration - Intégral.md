@@ -1,5 +1,5 @@
 # Code des relations entre le public et l'administration  
-Version Consolidée au 2019-01-01
+Version Consolidée au 2019-01-21
 ## Contenu: 
   - [Dispositions préliminaires (art. L100-1 à L100-3)](#1)
   - [Livre Ier : LES ÉCHANGES AVEC L'ADMINISTRATION (art. L110-1 à L135-2)](#2)
@@ -19,12 +19,12 @@ Version Consolidée au 2019-01-01
         - [Section 2 : Pièces justificatives (art. L113-4 à L113-13)](#16)
           - [Sous-section 1 : Justification de l'identité, de l'état civil, de la situation familiale, de la nationalité française et du domicile (art. R113-5 à R113-9)](#17)
           - [Sous-section 2 : Certification conforme à l'original (art. R113-10 à R113-11)](#18)
-          - [Sous-section 3 : Informations déjà produites ou pouvant être obtenues auprès d'une autre administration (art. L113-12 à L113-13)](#19)
+          - [Sous-section 3 : Informations déjà produites ou pouvant être obtenues auprès d'une autre administration (art. D113-14 à L113-13)](#19)
       - [Chapitre IV : Diligences de l'administration (art. L114-1 à L114-11)](#20)
         - [Section 1 : Transmission à l'autorité compétente (art. L114-2 à L114-4)](#21)
         - [Section 2 : Demandes de régularisation des dossiers incomplets ou irréguliers (art. L114-5 à L114-6)](#22)
         - [Section 3 : Communication des avis préalables (art. L114-7)](#23)
-        - [Section 4 : Echanges de données entre administrations (art. L114-8 à L114-10)](#24)
+        - [Section 4 : Echanges de données entre administrations (art. L114-8 à R114-9-7)](#24)
         - [Section 5 : Certificat d'information (art. D114-12 à L114-11)](#25)
     - [Titre II : LES PROCÉDURES PRÉALABLES A L'INTERVENTION DE CERTAINES DÉCISIONS (art. L120-1 à L124-2)](#26)
       - [Chapitre Ier : Décisions soumises au respect d'une procédure contradictoire préalable (art. L121-1 à L121-2)](#27)
@@ -1794,6 +1794,107 @@ _Cité par_:
 
 ##### Sous-section 3 : Informations déjà produites ou pouvant être obtenues auprès d'une autre administration<a id=19></a>
 
+###### Article D113-14
+
+I.-Dans les cas prévus par l'article L. 113-13, les entreprises et les organismes à but non lucratif ne sont pas tenus de
+produire à l'appui des procédures relatives aux marchés publics, pour ce qui concerne la constitution du dossier de
+candidature, et aux aides publiques : 
+
+1° L'attestation de régularité fiscale émanant de la direction générale des finances publiques ; 
+
+2° Les déclarations de résultats soumis aux bénéfices industriels et commerciaux selon les régimes réels normal ou simplifié
+d'imposition et leurs annexes prévues aux articles 53 A, 302 septies A bis du code général des impôts, 38 à 38 B, 38 ter à 38
+quaterdecies de l'annexe III du même code. Sont concernées pour le régime simplifié d'imposition les annexes n° 2033-A du
+bilan simplifié, n° 2033-B du compte de résultats simplifié, n° 2033-C relatif aux immobilisations, amortissements, plus ou
+moins-values, n° 2033-D portant relevé des provisions, des amortissements dérogatoires, des déficits reportables et divers,
+n° 2033-F sur la composition du capital social et n° 2033-G sur les filiales et participations. Sont concernées pour le
+régime normal les annexes n° 2050 relative à l'actif du bilan, n° 2051 sur le passif du bilan, n° 2052 et n° 2053 sur le
+compte de résultats, n° 2054 sur les immobilisations, n° 2055 sur les amortissements, n° 2056 sur les provisions, n° 2057
+portant l'état des échéances et des dettes à la clôture de l'exercice, n° 2058-C relatif au tableau d'affectation du résultat
+et renseignements divers, n° 2059-F sur la composition du capital social et n° 2059-G sur les filiales et participations ; 
+
+3° Les déclarations de bénéfices non commerciaux soumises au régime de la déclaration contrôlée prévues aux  articles 97 du
+code général des impôts  et 40 A et 41-O-bis de l'annexe III du même code pour ce qui concerne les annexes n° 2035-A relative
+au compte de résultat fiscal, n° 2035-F relative à la composition du capital social et n° 2035-G concernant les filiales et
+participations ; 
+
+4° Les déclarations de résultats soumis aux bénéfices agricoles selon les régimes réels normal ou simplifié d'imposition et
+leurs annexes prévues aux articles  53 A ,  74 A  du code général des impôts, 38 sexdecies Q, et 38 sexdecies R de l'annexe
+III du même code. Sont concernées pour le régime simplifié d'imposition les annexes n° 2139-A relative au bilan simplifié, n°
+2139-B relative au compte de résultat simplifié, n° 2139-C concernant la composition du capital social, n° 2139-D sur les
+filiales et participations et n° 2139-E portant relevé des provisions. Pour le régime réel normal, sont concernées les
+annexes n° 2144 relative à l'actif du bilan, n° 2145 sur le passif du bilan, n° 2146 sur le compte de résultat, n° 2147
+relative aux immobilisations, n° 2148 relative aux amortissements, n° 2149 concernant les provisions inscrites au bilan, n°
+2150 portant l'état des échéances, des créances et des dettes à la clôture de l'exercice, n° 2151-ter relative aux
+renseignements divers, n° 2153 concernant la composition du capital social et n° 2154 sur les filiales et participations ; 
+
+5° Les déclarations de résultats soumis à l'impôt sur les sociétés selon les régimes réels normal ou simplifié prévues aux
+articles 53 A, 223,302 septies A bis du même code et 38 de l'annexe III du même code. Les annexes concernées sont les mêmes
+que celles prévues pour les déclarations de résultats soumis aux bénéfices industriels et commerciaux selon les régimes réels
+normal ou simplifié d'imposition ; 
+
+6° Les déclarations prévues à l'article 223 U du même code pour les sociétés mères et les filiales de groupe. Sont concernées
+les annexes n° 2058-A bis concernant la détermination du résultat de la société comme si elle était imposée séparément, n°
+2058-B bis portant état de suivi des déficits et affectation des moins-values à long terme comme si la société était imposée
+séparément et n° 2058-RG concernant la détermination du résultat fiscal et des plus-values d'ensemble ; 
+
+7° L'extrait d'immatriculation au registre du commerce et des sociétés et les statuts de la personne morale ; 
+
+8° Les attestations de régularité sociale et de vigilance délivrées par les organismes chargés du recouvrement des
+cotisations sociales ; 
+
+9° La carte professionnelle d'entrepreneur de travaux publics délivrée par la fédération nationale des travaux publics ; 
+
+10° Le certificat attestant la régularité de la situation de l'employeur au regard de l'obligation d'emploi des travailleurs
+handicapés prévue aux articles L. 5212-2 à L. 5212-5 du code du travail délivrée par l'association de gestion du fonds de
+développement pour l'insertion professionnelle des handicapés. 
+
+II.-Dans les cas prévus par l'article L. 113-13, les personnes physiques ne sont pas tenues de produire à l'appui de leurs
+démarches administratives : 
+
+1° L'avis d'imposition à l'impôt sur le revenu ou l'avis de situation déclarative à l'impôt sur le revenu émanant de la
+direction générale des finances publiques ; 
+
+2° L'attestation de droit aux prestations délivrées aux bénéficiaires par les organismes de sécurité sociale ; 
+
+3° Le justificatif d'identité, lorsque le téléservice de l'administration propose le dispositif " FranceConnect " mis en
+œuvre par l'administration chargée du numérique et du système d'information et de communication de l'Etat sous réserve des
+dispositions de l'article R. 113-9 .
+
+**Nota:**
+
+Conformément aux dispositions de l'article 2 du décret n° 2019-33 du 18 janvier 2019, ces dispositions sont applicables aux
+procédures engagées postérieurement à l'entrée en vigueur dudit décret.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-33 du 18 janvier 2019 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, annexe 3, CGIAN3. - art. 38
+  - Code général des impôts, annexe 3, CGIAN3. - art. 38 B
+  - Code général des impôts, annexe 3, CGIAN3. - art. 38 quaterdecies
+  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies Q
+  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies R
+  - Code général des impôts, annexe 3, CGIAN3. - art. 38 ter
+  - Code général des impôts, annexe 3, CGIAN3. - art. 40 A
+  - Code général des impôts, CGI. - art. 302 septies A bis
+  - Code général des impôts, CGI. - art. 53 A
+  - Code général des impôts, CGI. - art. 74 A
+  - Code général des impôts, CGI. - art. 97
+  - Code des relations entre le public et l'administration - art. L113-13
+  - Code des relations entre le public et l'administration - art. R113-9
+
+_Cité par_:
+
+  - Code des relations entre le public et l'adminis... - art. D552-5-1 (V)
+  - Code des relations entre le public et l'adminis... - art. D562-5-1 (V)
+  - Code des relations entre le public et l'adminis... - art. D572-4 (V)
+
+
 ###### Article L113-12
 
 Une personne présentant une demande ou produisant une déclaration dans le cadre d'une procédure relevant de l'article L.
@@ -2262,6 +2363,275 @@ _Cité par_:
 _Cite_:
 
   - Code des relations entre le public et l'administration - art. L114-8
+
+
+###### Article R114-9-1
+
+Lorsqu'elles portent sur des informations relatives aux entreprises et aux organismes à but non lucratif, les demandes de
+communication mentionnées au 2° de l'article L. 114-9 sont adressées, selon la nature des informations demandées, aux
+services et organismes suivants : 
+
+1° Identité de l'entreprise ou de l'organisme à but non lucratif : 
+
+a) Agence centrale des organismes de sécurité sociale, pour les informations relatives aux professions libérales ; 
+
+b) Institut national de la propriété industrielle, pour celles du répertoire national du commerce et des sociétés ainsi que
+les statuts et bilans ; 
+
+c) Institut national de la statistique et des études économiques, pour celles du répertoire des entreprises et de leurs
+établissements ; 
+
+d) Greffes des tribunaux de commerce, pour celles du registre du commerce et des sociétés ainsi que les statuts et bilans ; 
+
+e) Préfectures de département et direction de la jeunesse, de l'éducation populaire et de la vie associative, pour celles
+concernant les statuts et l'identité des dirigeants des organismes à but non lucratif ; 
+
+2° Situation fiscale de l'entreprise ou de l'organisme à but non lucratif, à la direction générale des finances publiques ; 
+
+3° Situation sociale de l'entreprise ou de l'organisme à but non lucratif et données relatives à ses salariés et dirigeants
+sociaux, aux organismes mentionnés au premier alinéa de l'article L. 133-5 du code de la sécurité sociale et à la direction
+de l'animation de la recherche, des études et des statistiques du ministère en charge du travail ; 
+
+4° Accréditations ou agréments, à toutes les administrations et organismes chargés d'une mission de service public qui les
+délivrent ; 
+
+5° Régularité de la situation de l'employeur au regard de l'obligation d'emploi des travailleurs handicapés prévue aux
+articles L. 5212-2 à L. 5212-5 du code du travail, à l'association de gestion du fonds de développement pour l'insertion
+professionnelle des handicapés ; 
+
+6° Détention d'un numéro EORI (Economic Operator Registration and Identification) en application du règlement (CE) n°
+312/2009 du 16 avril 2009 relatif à l'attribution d'un numéro unique d'identifiant communautaire pour les opérateurs
+économiques devant accomplir des formalités douanières, à la direction générale des douanes et des droits indirects ; 
+
+7° Protection liée aux marques, brevets, dessins et modèles déposés, à l'Institut national de la propriété industrielle ; 
+
+8° Diplômes, titres et qualifications professionnelles, aux organismes publics chargés de leur délivrance ou de leur
+reconnaissance.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 9 du décret n° 2019-31 du 18 janvier 2019, ces dispositions sont applicables aux
+procédures engagées postérieurement à l'entrée en vigueur dudit décret.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-31 du 18 janvier 2019 - art. 1
+
+_Cité par_:
+
+  - Décret n°2019-31 du 18 janvier 2019 - art. 7 (V)
+  - Code des relations entre le public et l'adminis... - art. R114-9-2 (V)
+  - Code des relations entre le public et l'adminis... - art. R114-9-5 (V)
+  - Code des relations entre le public et l'adminis... - art. R552-5 (V)
+  - Code des relations entre le public et l'adminis... - art. R562-5 (V)
+  - Code des relations entre le public et l'adminis... - art. R572-3 (V)
+
+_Cite_:
+
+  - Code du travail - art. L5212-2 (VT)
+  - Code de la sécurité sociale. - art. L133-5 (V)
+
+
+###### Article R114-9-2
+
+Les demandes formulées sur le fondement de l'article R. 114-9-1 concernent les procédures qui interviennent dans les domaines
+suivants : 
+
+1° Réglementations particulières en matière d'agriculture et de forêt, de bâtiments et de travaux publics, de culture,
+d'environnement, de recherche et développement, de santé, de sécurité, de transports, de tourisme ainsi que d'urbanisme ; 
+
+2° Aides publiques régies par la réglementation européenne et le décret n° 2018-514 du 25 juin 2018 relatif aux subventions
+de l'Etat pour des projets d'investissement ; 
+
+3° Création, cessation, modification, reprise et transmission d'entreprise, prévention de ses difficultés et leurs
+traitements ; 
+
+4° Fiscalité ; 
+
+5° Gestion des ressources humaines et formation professionnelle, notamment aides à l'emploi, protection sociale, recrutement
+et réglementation du travail ; 
+
+6° Législation sur les baux commerciaux et professionnels ; 
+
+7° Comptabilité, financement et assurance de l'entreprise ; 
+
+8° Marchés publics, pour ce qui concerne la constitution du dossier de candidature ; 
+
+9° Règlementation en matière commerciale, notamment celles relatives aux autorisations pour installation, aux commerces
+spécifiques, à l'import et à l'export, aux pratiques commerciales, à la publicité extérieure et aux ventes particulières.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 9 du décret n° 2019-31 du 18 janvier 2019, ces dispositions sont applicables aux
+procédures engagées postérieurement à l'entrée en vigueur dudit décret.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2018-514 du 25 juin 2018
+  - Code des relations entre le public et l'administration - art. R114-9-1
+
+_Créé par_:
+
+  - Décret n°2019-31 du 18 janvier 2019 - art. 1
+
+
+###### Article R114-9-3
+
+Lorsqu'elles portent sur des informations relatives aux particuliers, les demandes de communication mentionnées au 2° de
+l'article L. 114-9 sont adressées, selon la nature des informations demandées, aux services et organismes suivants : 
+
+1° Situation du foyer fiscal, à la direction générale des finances publiques ; 
+
+2° Justification de l'identité par voie électronique par l'intermédiaire du téléservice " FranceConnect " à la direction
+interministérielle du numérique et du système d'information et de communication de l'Etat ; 
+
+3° Droits sociaux et prestations, aux organismes de protection sociale.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 9 du décret n° 2019-31 du 18 janvier 2019, ces dispositions sont applicables aux
+procédures engagées postérieurement à l'entrée en vigueur dudit décret.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-31 du 18 janvier 2019 - art. 1
+
+_Cité par_:
+
+  - Code des relations entre le public et l'adminis... - art. R114-9-4 (V)
+  - Code des relations entre le public et l'adminis... - art. R114-9-5 (V)
+
+_Cite_:
+
+  - Code des relations entre le public et l'administration - art. L114-9
+
+
+###### Article R114-9-4
+
+Les demandes formulées sur le fondement de l'article R. 114-9-3 concernent les procédures qui interviennent dans les domaines
+suivants : 
+
+1° Consommation, notamment assurances, banques, surendettement, épargne ; 
+
+2° Enseignement et études supérieures ; 
+
+3° Emploi, chômage, formation, santé et sécurité au travail, rupture contractuelle des relations de travail ; 
+
+4° Famille, notamment enfance, protection des personnes, succession, union et séparation ; 
+
+5° Identité, notamment état civil, titres d'identité sous réserve des dispositions de l'article R. 113-9, et élections ; 
+
+6° Impôts, taxes et droits de douane ; 
+
+7° Justice, notamment aide juridictionnelle ; 
+
+8° Logement et urbanisme, notamment les procédures relatives à l'achat d'un bien et aux aides financières y afférentes,
+copropriété, location et protection de l'habitat ; 
+
+9° Santé et solidarité, notamment aides sociales, handicap, perte d'autonomie, retraite, sécurité sociale et soins ; 
+
+10° Transport, notamment cartes de transport et permis de conduire.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 9 du décret n° 2019-31 du 18 janvier 2019, ces dispositions sont applicables aux
+procédures engagées postérieurement à l'entrée en vigueur dudit décret.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-31 du 18 janvier 2019 - art. 1
+
+_Cite_:
+
+  - Code des relations entre le public et l'administration - art. R113-9
+  - Code des relations entre le public et l'administration - art. R114-9-3
+
+
+###### Article R114-9-5
+
+Les informations relevant de la présente section sont mises à disposition sous forme électronique, par le biais de
+traitements automatisés assurant la traçabilité des échanges, par les services et organismes mentionnés aux articles R.
+114-9-1 et R. 114-9-3 ou, à défaut, par l'intermédiaire de la direction interministérielle du numérique et des systèmes
+d'information et de communication de l'Etat.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 9 du décret n° 2019-31 du 18 janvier 2019, ces dispositions sont applicables aux
+procédures engagées postérieurement à l'entrée en vigueur dudit décret.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-31 du 18 janvier 2019 - art. 1
+
+_Cite_:
+
+  - Code des relations entre le public et l'administration - art. R114-9-1
+  - Code des relations entre le public et l'administration - art. R114-9-3
+
+
+###### Article R114-9-6
+
+Afin d'assurer la sécurité et la confidentialité des informations, les organismes chargés d'opérer les échanges mettent en
+œuvre les fonctions de sécurité prévues par le référentiel général de sécurité mentionné à l' article 9 de l'ordonnance n°
+2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les autorités administratives et entre
+les autorités administratives, qui sont assurées par des moyens cryptographiques. 
+
+En fonction de la sensibilité des données échangées, ces organismes déterminent les niveaux de sécurité appropriés
+conformément aux dispositions du décret n° 2010-112 du 2 février 2010 pris pour l'application des articles 9,10 et 12 de
+l'ordonnance n° 2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les autorités
+administratives et entre les autorités administratives. Ils mettent en œuvre notamment les fonctions d'identification de
+l'administration demanderesse, d'horodatage, de confidentialité et d'intégrité des informations échangées. 
+
+Seuls peuvent accéder aux informations ainsi échangées les agents habilités des services administrations compétents pour
+mettre en œuvre les procédures mentionnées aux articles R. 114-9-2 et R. 114-9-4.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 9 du décret n° 2019-31 du 18 janvier 2019, ces dispositions sont applicables aux
+procédures engagées postérieurement à l'entrée en vigueur dudit décret.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°2005-1516 du 8 décembre 2005 - art. 9 (V)
+  - Décret n°2010-112 du 2 février 2010 (V)
+
+_Créé par_:
+
+  - Décret n°2019-31 du 18 janvier 2019 - art. 1
+
+_Cité par_:
+
+  - Décret n°2019-31 du 18 janvier 2019 - art. 7 (V)
+
+
+###### Article R114-9-7
+
+Les données relatives à la traçabilité des échanges sont conservées pendant une durée de trente-six mois, sans préjudice des
+obligations de conservation incombant aux administrations destinataires des informations échangées. Elles sont mises à la
+disposition de l'intéressé par le responsable des échanges.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 9 du décret n° 2019-31 du 18 janvier 2019, ces dispositions sont applicables aux
+procédures engagées postérieurement à l'entrée en vigueur dudit décret.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-31 du 18 janvier 2019 - art. 1
 
 
 #### Section 5 : Certificat d'information<a id=25></a>
@@ -12419,20 +12789,26 @@ _Créé par_:
 Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Polynésie
 française aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres
 que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas
-échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.
+échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. 
 
 <table border="1">
   <tbody>
     <tr>
+      <th>DISPOSITIONS APPLICABLES </th>
       <th>
 
-Dispositions applicables</th>
-      <th>
-
-Dans leur rédaction</th>
+DANS LEUR RÉDACTION </th>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left">
+
+D. 113-14 </td>
+      <td align="left">
+
+Résultant du  décret n° 2019-33 du 18 janvier 2019  </td>
+    </tr>
+    <tr>
+      <td align="left">
 
 D. 114-12 à D. 114-15</td>
       <td align="left">
@@ -12447,10 +12823,14 @@ Résultant du  décret n° 2018-729 du 21 août 2018 </td>
 _Cite_:
 
   - Décret n°2018-729 du 21 août 2018
+  - Décret n°2019-33 du 18 janvier 2019
+  - Code des relations entre le public et l'administration - art. D113-14
+  - Code des relations entre le public et l'administration - art. D114-12
+  - Code des relations entre le public et l'administration - art. D114-15
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2018-729 du 21 août 2018 - art. 2
+  - Décret n°2019-33 du 18 janvier 2019 - art. 3
 
 
 ###### Article L552-3
@@ -12698,16 +13078,16 @@ _Créé par_:
 Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Polynésie
 française aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres
 que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas
-échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.
+échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. 
 
 <table align="center" border="1">
   <tbody>
     <tr>
-      <th>DISPOSITIONS APPLICABLES</th>
-      <th>DANS LEUR RÉDACTION</th>
+      <th>DISPOSITIONS APPLICABLES </th>
+      <th>DANS LEUR RÉDACTION </th>
     </tr>
     <tr>
-      <td align="left">Titre Ier</td>
+      <td align="left">Titre Ier </td>
       <td align="left">
     </td></tr>
     <tr>
@@ -12737,7 +13117,7 @@ Résultant du décret n° 2016-1411 du 20 octobre 2016
     <tr>
       <td>
 
-R. 112-11-1 à R. 112-11-4
+R. 112-11-1 à R. 112-11-4 
 
 </td>
       <td>
@@ -12747,8 +13127,10 @@ Résultant du décret n° 2016-1411 du 20 octobre 2016
 </td>
     </tr>
     <tr>
-      <td>R. 112-16 à R. 112-20</td>
-      <td>Résultant du décret n° 2017-1728 du 21 décembre 2017</td>
+      <td>
+R. 112-16 à R. 112-20 
+</td>
+      <td>Résultant du décret n° 2017-1728 du 21 décembre 2017 </td>
     </tr>
     <tr>
       <td>
@@ -12756,16 +13138,22 @@ Résultant du décret n° 2016-1411 du 20 octobre 2016
 R. 113-5 à R. 113-11 
 
 </td>
-      <td>Résultant du décret n° 2015-1342</td>
+      <td>Résultant du décret n° 2015-1342 
+</td>
     </tr>
     <tr>
       <td>
-      </td><td>
-    </td></tr>
+
+R. 114-9-1 à R. 114-9-8 </td>
+      <td>
+
+Résultant du décret n° 2019-31
+</td>
+    </tr>
     <tr>
       <td align="left">
 
-Titre III
+Titre III 
 
 </td>
       <td align="left">
@@ -12776,7 +13164,7 @@ Titre III
 R. 134-3 à R. 134-30 
 
 </td>
-      <td>Résultant du décret n° 2015-1342</td>
+      <td>Résultant du décret n° 2015-1342 </td>
     </tr>
     <tr>
       <td>
@@ -12794,10 +13182,15 @@ R. 134-32
 _Cite_:
 
   - Décret n°2015-1342 du 23 octobre 2015
+  - Décret n°2017-1728 du 21 décembre 2017
+  - Décret n°2019-31 du 18 janvier 2019
   - Code des relations entre le public et l'administration - art. R112-11-1
+  - Code des relations entre le public et l'administration - art. R112-16
+  - Code des relations entre le public et l'administration - art. R112-20
   - Code des relations entre le public et l'administration - art. R112-4
   - Code des relations entre le public et l'administration - art. R112-9-1
   - Code des relations entre le public et l'administration - art. R113-5
+  - Code des relations entre le public et l'administration - art. R114-9-1
   - Code des relations entre le public et l'administration - art. R134-3
   - Code des relations entre le public et l'administration - art. R134-32
 
@@ -12807,7 +13200,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1728 du 21 décembre 2017 - art. 2
+  - Décret n°2019-31 du 18 janvier 2019 - art. 2
 
 
 ##### Sous-section 2 : Dispositions applicables du livre II<a id=166></a>
@@ -14010,20 +14403,28 @@ _Créé par_:
 Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Nouvelle-
 Calédonie aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres
 que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas
-échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.
+échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. 
 
 <table border="1">
   <tbody>
     <tr>
       <th>
 
-Dispositions applicables</th>
+DISPOSITIONS APPLICABLES </th>
       <th>
 
-Dans leur rédaction</th>
+DANS LEUR RÉDACTION </th>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left">
+
+D. 113-14 </td>
+      <td align="left">
+
+Résultant du  décret n° 2019-33 du 18 janvier 2019  </td>
+    </tr>
+    <tr>
+      <td align="left">
 
 D. 114-12 à D. 114-15</td>
       <td align="left">
@@ -14038,10 +14439,14 @@ Résultant du  décret n° 2018-729 du 21 août 2018 </td>
 _Cite_:
 
   - Décret n°2018-729 du 21 août 2018
+  - Décret n°2019-33 du 18 janvier 2019
+  - Code des relations entre le public et l'administration - art. D113-14
+  - Code des relations entre le public et l'administration - art. D114-12
+  - Code des relations entre le public et l'administration - art. D114-15
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2018-729 du 21 août 2018 - art. 2
+  - Décret n°2019-33 du 18 janvier 2019 - art. 3
 
 
 ###### Article L562-3
@@ -14294,18 +14699,18 @@ _Créé par_:
 Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Nouvelle-
 Calédonie aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres
 que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas
-échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.
+échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. 
 
 <table border="1">
   <tbody>
     <tr>
-      <th>DISPOSITIONS APPLICABLES</th>
-      <th>DANS LEUR RÉDACTION</th>
+      <th>DISPOSITIONS APPLICABLES </th>
+      <th>DANS LEUR RÉDACTION </th>
     </tr>
     <tr>
       <td align="left">
 
-Titre Ier
+Titre Ier 
 
 </td>
       <td align="left">
@@ -14325,12 +14730,12 @@ R. 112-4 et R. 112-5
 R. 112-9-1 et R. 112-9-2 
 
 </td>
-      <td>Résultant du décret n° 2016-1411 du 20 octobre 2016</td>
+      <td>Résultant du décret n° 2016-1411 du 20 octobre 2016 </td>
     </tr>
     <tr>
       <td>
 
-R. 112-11-1 à R. 112-11-4
+R. 112-11-1 à R. 112-11-4 
 
 </td>
       <td>
@@ -14340,8 +14745,10 @@ Résultant du décret n° 2016-1411 du 20 octobre 2016
 </td>
     </tr>
     <tr>
-      <td>R. 112-16 à R. 112-20</td>
-      <td>Résultant du décret n° 2017-1728 du 21 décembre 2017</td>
+      <td>
+R. 112-16 à R. 112-20 
+</td>
+      <td>Résultant du décret n° 2017-1728 du 21 décembre 2017 </td>
     </tr>
     <tr>
       <td>
@@ -14349,16 +14756,21 @@ Résultant du décret n° 2016-1411 du 20 octobre 2016
 R. 113-5 à R. 113-11 
 
 </td>
-      <td>Résultant du décret n° 2015-1342</td>
+      <td>Résultant du décret n° 2015-1342 </td>
     </tr>
     <tr>
       <td>
-      </td><td>
-    </td></tr>
+
+R. 114-9-1 à R. 114-9-8 </td>
+      <td>
+
+Résultant du décret n° 2019-31 
+</td>
+    </tr>
     <tr>
       <td align="left">
 
-Titre III
+Titre III 
 
 </td>
       <td align="left">
@@ -14369,7 +14781,7 @@ Titre III
 R. 134-3 à R. 134-30 
 
 </td>
-      <td>Résultant du décret n° 2015-1342</td>
+      <td>Résultant du décret n° 2015-1342 </td>
     </tr>
     <tr>
       <td>
@@ -14387,10 +14799,15 @@ R. 134-32
 _Cite_:
 
   - Décret n°2015-1342 du 23 octobre 2015
+  - Décret n°2017-1728 du 21 décembre 2017
+  - Décret n°2019-31 du 18 janvier 2019
   - Code des relations entre le public et l'administration - art. R112-11-1
+  - Code des relations entre le public et l'administration - art. R112-16
+  - Code des relations entre le public et l'administration - art. R112-20
   - Code des relations entre le public et l'administration - art. R112-4
   - Code des relations entre le public et l'administration - art. R112-9-1
   - Code des relations entre le public et l'administration - art. R113-5
+  - Code des relations entre le public et l'administration - art. R114-9-1
   - Code des relations entre le public et l'administration - art. R134-3
   - Code des relations entre le public et l'administration - art. R134-32
 
@@ -14400,7 +14817,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1728 du 21 décembre 2017 - art. 2
+  - Décret n°2019-31 du 18 janvier 2019 - art. 2
 
 
 ##### Sous-section 2 : Dispositions applicables du livre II<a id=179></a>
@@ -15581,20 +15998,24 @@ personnes de droit public et de droit privé chargés par l'Etat d'une mission d
       <th>DANS LEUR RÉDACTION </th>
     </tr>
     <tr>
-      <td align="justify">D. 113-1 à D. 113-3 </td>
+      <td align="justify">D. 113-1 à D. 113-3</td>
       <td align="justify">Résultant du décret n° 2015-1342 </td>
     </tr>
     <tr>
       <td align="justify">
 
-D. 114-12 à D. 114-15
-
-</td>
+D. 113-14 </td>
       <td align="justify">
 
-Résultant du  décret n° 2018-729 du 21 août 2018 
+Résultant du décret n° 2019-33 du 18 janvier 2019 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
+D. 114-12 à D. 114-15 </td>
+      <td align="justify">
+
+Résultant du  décret n° 2018-729 du 21 août 2018 </td>
     </tr>
   </tbody>
 </table>
@@ -15605,6 +16026,9 @@ _Cite_:
 
   - Décret n°2015-1342 du 23 octobre 2015
   - Décret n°2018-729 du 21 août 2018
+  - Code des relations entre le public et l'administration - art. D113-1
+  - Code des relations entre le public et l'administration - art. D113-14
+  - Code des relations entre le public et l'administration - art. D113-3
 
 _Codifié par_:
 
@@ -15612,7 +16036,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2018-729 du 21 août 2018 - art. 2
+  - Décret n°2019-33 du 18 janvier 2019 - art. 3
 
 
 ###### Article L572-1
@@ -15900,18 +16324,18 @@ _Créé par_:
 Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis
 et Futuna aux relations entre le public, d'une part, et l'Etat, ses établissements publics et les autres organismes et
 personnes de droit public et de droit privé chargés par l'Etat d'une mission de service public administratif et, le cas
-échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau :
+échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
 
 <table border="1">
   <tbody>
     <tr>
-      <th>DISPOSITIONS APPLICABLES</th>
-      <th>DANS LEUR RÉDACTION</th>
+      <th>DISPOSITIONS APPLICABLES </th>
+      <th>DANS LEUR RÉDACTION </th>
     </tr>
     <tr>
       <td align="left">
 
-Titre Ier
+Titre Ier 
 
 </td>
       <td align="left">
@@ -15931,12 +16355,12 @@ R. 112-4 et R. 112-5
 R. 112-9-1 et R. 112-9-2 
 
 </td>
-      <td>Résultant du décret n° 2016-1411 du 20 octobre 2016</td>
+      <td>Résultant du décret n° 2016-1411 du 20 octobre 2016 </td>
     </tr>
     <tr>
       <td>
 
-R. 112-11-1 à R. 112-11-4
+R. 112-11-1 à R. 112-11-4 
 
 </td>
       <td>
@@ -15946,8 +16370,10 @@ Résultant du décret n° 2016-1411 du 20 octobre 2016
 </td>
     </tr>
     <tr>
-      <td>R. 112-16 à R. 112-20</td>
-      <td>Résultant du décret n° 2017-1728 du 21 décembre 2017</td>
+      <td>
+R. 112-16 à R. 112-20 
+</td>
+      <td>Résultant du décret n° 2017-1728 du 21 décembre 2017 </td>
     </tr>
     <tr>
       <td>
@@ -15955,16 +16381,18 @@ Résultant du décret n° 2016-1411 du 20 octobre 2016
 R. 113-5 à R. 113-11 
 
 </td>
-      <td>Résultant du décret n° 2015-1342</td>
+      <td>Résultant du décret n° 2015-1342 </td>
     </tr>
     <tr>
       <td>
-      </td><td>
-    </td></tr>
+R. 114-9-1 à R. 114-9-8 </td>
+      <td>Résultant du décret n° 2019-31
+</td>
+    </tr>
     <tr>
       <td align="left">
 
-Titre III
+Titre III 
 
 </td>
       <td align="left">
@@ -15975,7 +16403,7 @@ Titre III
 R. 133-3 à R. 133-13 
 
 </td>
-      <td>Résultant du décret n° 2015-1342</td>
+      <td>Résultant du décret n° 2015-1342 </td>
     </tr>
     <tr>
       <td>
@@ -15983,7 +16411,7 @@ R. 133-3 à R. 133-13
 R. 134-3 à R. 134-30 
 
 </td>
-      <td>Résultant du décret n° 2015-1342</td>
+      <td>Résultant du décret n° 2015-1342 </td>
     </tr>
     <tr>
       <td>
@@ -16001,10 +16429,14 @@ R. 134-32
 _Cite_:
 
   - Décret n°2015-1342 du 23 octobre 2015
+  - Décret n°2019-31 du 18 janvier 2019
   - Code des relations entre le public et l'administration - art. R112-11-1
+  - Code des relations entre le public et l'administration - art. R112-16
+  - Code des relations entre le public et l'administration - art. R112-20
   - Code des relations entre le public et l'administration - art. R112-4
   - Code des relations entre le public et l'administration - art. R112-9-1
   - Code des relations entre le public et l'administration - art. R113-5
+  - Code des relations entre le public et l'administration - art. R114-9-1
   - Code des relations entre le public et l'administration - art. R133-3
   - Code des relations entre le public et l'administration - art. R134-3
   - Code des relations entre le public et l'administration - art. R134-32
@@ -16015,7 +16447,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1728 du 21 décembre 2017 - art. 2
+  - Décret n°2019-31 du 18 janvier 2019 - art. 2
 
 
 ###### Article R572-6
