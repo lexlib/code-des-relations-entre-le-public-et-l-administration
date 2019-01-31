@@ -1,5 +1,5 @@
 # Code des relations entre le public et l'administration  
-Version Consolidée au 2019-01-21
+Version Consolidée au 2019-02-01
 ## Contenu: 
   - [Dispositions préliminaires (art. L100-1 à L100-3)](#1)
   - [Livre Ier : LES ÉCHANGES AVEC L'ADMINISTRATION (art. L110-1 à L135-2)](#2)
@@ -134,7 +134,7 @@ Version Consolidée au 2019-01-21
     - [Titre II : LES AUTRES MODES NON JURIDICTIONNELS DE RÉSOLUTION DES DIFFÉRENDS (art. L421-1 à L424-1)](#131)
       - [Chapitre Ier : Conciliation et médiation dans un cadre non juridictionnel (art. L421-1 à L421-2)](#132)
       - [Chapitre II : Conciliation et médiation dans un cadre juridictionnel (art. L422-1 à L422-2)](#133)
-      - [Chapitre III : Transaction (art. L423-1 à L423-2)](#134)
+      - [Chapitre III : Transaction (art. D423-6 à R423-5)](#134)
       - [Chapitre IV : Saisine du Défenseur des droits (art. L424-1)](#135)
     - [Titre III : LES RECOURS JURIDICTIONNELS (art. L431-1 à L432-1)](#136)
       - [Chapitre Ier : Recours juridictionnels de droit commun : les recours contentieux (art. L431-1)](#137)
@@ -10966,16 +10966,16 @@ _Créé par_:
 ###### Article R342-4-1
 
 La commission peut être consultée par les autorités mentionnées à l'article L. 300-2 sur toutes questions relatives à
-l'application des titres Ier, II et IV du présent livre et du titre Ier du livre II du code du patrimoine. 
+l'application des titres Ier, II et III du présent livre et du titre Ier du livre II du code du patrimoine.
 
 Les demandes de consultation sont formées auprès de la commission par lettre, télécopie ou voie électronique. Elles sont
 accompagnées, le cas échéant, du ou des documents sur lesquels l'autorité souhaite interroger la commission.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1564 du 21 novembre 2016 - art. 4
+  - Décret n°2018-1029 du 23 novembre 2018 - art. 2
 
 _Anciens textes_:
 
@@ -11806,6 +11806,36 @@ _Modifié par_:
 
 ### Chapitre III : Transaction<a id=134></a>
 
+###### Article D423-6
+
+La demande d'avis est adressée par voie électronique, accompagnée d'une note explicative et de tout élément utile au comité.
+Il en est accusé réception dans les mêmes conditions.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1029 du 23 novembre 2018 - art. 1
+
+
+###### Article D423-7
+
+Le comité se prononce, à la majorité, dans un délai d'un mois à compter de l'enregistrement de la demande.
+
+Le président peut solliciter l'avis de toute personne dont le concours est jugé utile et, le cas échéant, l'inviter à
+assister, de manière temporaire, aux réunions du comité.
+
+L'avis est notifié, dans le délai de sept jours, à l'autorité compétente à l'origine de la saisine par voie électronique.
+
+Le comité dispose d'un secrétariat, assuré par le service désigné par le secrétaire général du ministère.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1029 du 23 novembre 2018 - art. 1
+
+
 ###### Article L423-1
 
 Ainsi que le prévoit l'article 2044 du code civil et sous réserve qu'elle porte sur un objet licite et contienne des
@@ -11857,6 +11887,52 @@ _Cité par_:
 _Créé par_:
 
   - Loi n°2018-727 du 10 août 2018 - art. 24
+
+
+###### Article R423-3
+
+Le seuil mentionné à l'article L. 423-2 est fixé à 500 000 euros.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1029 du 23 novembre 2018 - art. 1
+
+_Cite_:
+
+  - Code des relations entre le public et l'administration - art. L423-2
+
+
+###### Article R423-4
+
+Un comité, dénommé “ comité ministériel de transaction ”, institué auprès de chaque ministre, est saisi pour avis du principe
+du recours à la transaction et de son montant. A cette fin, il procède à l'examen de la contestation née ou à naître,
+s'assure du respect des normes applicables et se prononce sur la pertinence du projet qui lui est soumis.
+
+Toutefois, un comité unique peut être institué auprès de plusieurs ministres ayant sous leur autorité un même secrétariat
+général.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1029 du 23 novembre 2018 - art. 1
+
+
+###### Article R423-5
+
+Le comité comprend, outre le secrétaire général du ministère qui le préside, le responsable des affaires juridiques et le
+responsable des affaires financières, ou leurs représentants.
+
+Le comité compétent pour connaître d'une transaction proposée par un service interministériel est celui placé auprès du
+ministre principalement intéressé par la transaction.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1029 du 23 novembre 2018 - art. 1
 
 
 ### Chapitre IV : Saisine du Défenseur des droits<a id=135></a>
