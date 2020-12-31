@@ -1,5 +1,5 @@
 # Code des relations entre le public et l'administration  
-Version Consolidée au 2020-06-18
+Version Consolidée au 2021-01-01
 ## Contenu: 
   - [Dispositions préliminaires (art. L100-1 à L100-3)](#1)
   - [Livre Ier : LES ÉCHANGES AVEC L'ADMINISTRATION (art. L110-1 à L135-2)](#2)
@@ -6292,7 +6292,12 @@ _Cité par_:
 
 ###### Article D231-3
 
-La liste mentionnée à l'article D. 231-2 est publiée sur le site internet dénommé "legifrance.gouv.fr".
+La liste mentionnée à l'article D. 231-2 est publiée sur le site internet dénommé "service-public.fr".
+
+**Nota:**
+
+Conformément à l'article 3 du décret n° 2020-1119 du 8 septembre 2020, ces dispositions entrent en vigueur le 1er janvier
+2021.
 
 **Liens relatifs à cet article**
 
@@ -6300,13 +6305,13 @@ _Codifié par_:
 
   - Décret n°2015-1342 du 23 octobre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1342 du 23 octobre 2015 - art.
+  - Décret n°2020-1119 du 8 septembre 2020 - art. 2
 
 _Cite_:
 
-  - Code des relations entre le public et l'adminis... - art. D231-2 (VD)
+  - Code des relations entre le public et l'administration - art. D231-2
 
 
 ###### Article L231-1
